@@ -99,8 +99,8 @@ a {
   -ms-flex-align: start;
   align-items: flex-start;
   background-color: black;
-  background-image: -webkit-linear-gradient(315deg, black, grey);
-  background-image: linear-gradient(135deg, black, grey);
+  background-image: -webkit-linear-gradient(315deg, black, grey, black);
+  background-image: linear-gradient(135deg, black, grey, black);
 }
 
 .section.column {
