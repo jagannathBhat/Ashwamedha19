@@ -292,15 +292,14 @@ html.w-mod-touch * {
 .w-button {
   display: inline-block;
   padding: 9px 15px;
-  background-color: #orange;
-  background-image: linear-gradient(90deg, #DB511F, #e1da41)!important;
-  background-image: -webkit-linear-gradient(90deg, #DB511F, #e1da41);
+  background-image: linear-gradient(-60deg, #ec5000, #fcce7d);
+  background-image: -webkit-linear-gradient(-60deg, #ec5000, #fcce7d);
   color: #A9A9A9;
   border: 0;
   line-height: inherit;
   text-decoration: none;
   cursor: pointer;
-  border-radius: 0
+  border-radius: 0;
 }
 
 input.w-button {
@@ -2457,19 +2456,14 @@ a {
   margin-right: 0px;
   padding: 20px 40px;
   border-radius: 3px;
-  background-color: #fc0a7e;
-  -webkit-transition: background-color 500ms cubic-bezier(.789, .159, .25, 1), color 200ms cubic-bezier(.789, .159, .25, 1);
-  transition: background-color 500ms cubic-bezier(.789, .159, .25, 1), color 200ms cubic-bezier(.789, .159, .25, 1);
+  background-color: #ec5000;
+  /* -webkit-transition: background-color 500ms cubic-bezier(.789, .159, .25, 1), color 200ms cubic-bezier(.789, .159, .25, 1);
+  transition: background-color 500ms cubic-bezier(.789, .159, .25, 1), color 200ms cubic-bezier(.789, .159, .25, 1); */
   color: #fff;
   font-size: 16px;
   line-height: 26px;
   font-weight: 600;
   text-align: center;
-}
-
-.button:hover {
-  background-color: #fff;
-  color: #6b6b6b;
 }
 
 .button.outline {
