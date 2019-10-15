@@ -1231,7 +1231,7 @@
             i = document,
             o = t("html"),
             a = t("body"),
-            u = "",
+            u = ".w-webflow-badge",
             c = window.location,
             s = /PhantomJS/i.test(navigator.userAgent),
             f = "fullscreenchange webkitfullscreenchange mozfullscreenchange msfullscreenchange";
