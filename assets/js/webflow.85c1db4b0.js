@@ -1243,7 +1243,7 @@
                 n = t.length && t.get(0) === e,
                 i = r.env("editor");
             n ? i && t.remove() : (t.length && t.remove(), i || a.append(e)) } return n.ready = function() { var n, r, a, u = o.attr("data-wf-status"),
-                //p = o.attr("data-wf-domain") || ""; /\.webflow\.io$/i.test(p) && c.hostname !== p && (u = !0), u && !s && (e = e || (n = t('<a class="footer-link"></a>').attr("href", ""), r = t("<img>").attr("src", "").css({ marginRight: "8px", width: "16px" }), a = t("<img>").attr("src", ""), n.append(r, a), n[0]), d(), setTimeout(d, 500), t(i).off(f, l).on(f, l)) }, n }) }, function(t, e, n) {
+                p = o.attr("data-wf-domain") || ""; /\.webflow\.io$/i.test(p) && c.hostname !== p && (u = !0), u && !s && (e = e || (n = t('<a class="footer-link"></a>').attr("href", ""), r = t("<img>").attr("src", "").css({ marginRight: "8px", width: "16px" }), a = t("<img>").attr("src", ""), n.append(r, a), n[0]), d(), setTimeout(d, 500), t(i).off(f, l).on(f, l)) }, n }) }, function(t, e, n) {
     var r = window.$,
         i = n(47) && r.tram;
     /*!
