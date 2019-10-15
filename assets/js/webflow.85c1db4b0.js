@@ -1231,7 +1231,7 @@
             i = document,
             o = t("html"),
             a = t("body"),
-            //u = "",
+            u = "",
             c = window.location,
             s = /PhantomJS/i.test(navigator.userAgent),
             f = "fullscreenchange webkitfullscreenchange mozfullscreenchange msfullscreenchange";
@@ -1239,11 +1239,11 @@
         function l() { var n = i.fullScreen || i.mozFullScreen || i.webkitIsFullScreen || i.msFullscreenElement || Boolean(i.webkitFullscreenElement);
             t(e).attr("style", n ? "display: none !important;" : "") }
 
-        //function d() { var t = a.children(u),
-        //        n = t.length && t.get(0) === e,
-        //        i = r.env("editor");
-        //    n ? i && t.remove() : (t.length && t.remove(), i || a.append(e)) } return n.ready = function() { var n, r, a, u = o.attr("data-wf-status"),
-        //        p = o.attr("data-wf-domain") || ""; /\.webflow\.io$/i.test(p) && c.hostname !== p && (u = !0), u && !s && (e = e || (n = t('').attr("href", ""), r = t("<img>").attr("src", "").css({ marginRight: "8px", width: "16px" }), a = t("<img>").attr("src", "https://d1otoma47x30pg.cloudfront.net/img/webflow-badge-text.6faa6a38cd.svg"), n.append(r, a), n[0]), d(), setTimeout(d, 500), t(i).off(f, l).on(f, l)) }, n }) }, function(t, e, n) {
+        function d() { var t = a.children(u),
+                n = t.length && t.get(0) === e,
+                i = r.env("editor");
+            n ? i && t.remove() : (t.length && t.remove(), i || a.append(e)) } return n.ready = function() { var n, r, a, u = o.attr("data-wf-status"),
+                p = o.attr("data-wf-domain") || ""; /\.webflow\.io$/i.test(p) && c.hostname !== p && (u = !0), u && !s && (e = e || (n = t('<a class="w-webflow-badge"></a>').attr("href", ""), r = t("<img>").attr("src", "").css({ marginRight: "8px", width: "16px" }), a = t("<img>").attr("src", ""), n.append(r, a), n[0]), d(), setTimeout(d, 500), t(i).off(f, l).on(f, l)) }, n }) }, function(t, e, n) {
     var r = window.$,
         i = n(47) && r.tram;
     /*!
@@ -1300,12 +1300,12 @@
             u = document.location,
             c = "hashchange",
             s = n.load || function() { i = !0, window.WebflowEditor = !0, o.off(c, l),
-   /*                 function(t) { var e = window.document.createElement("iframe");
+                    function(t) { var e = window.document.createElement("iframe");
                         e.src = "https://webflow.com/site/third-party-cookie-check.html", e.style.display = "none", e.sandbox = "allow-scripts allow-same-origin"; var n = function n(r) { "WF_third_party_cookies_unsupported" === r.data ? (v(e, n), t(!1)) : "WF_third_party_cookies_supported" === r.data && (v(e, n), t(!0)) };
                         e.onerror = function() { v(e, n), t(!1) }, window.addEventListener("message", n, !1), window.document.body.appendChild(e) }(function(e) { t.ajax({ url: p("https://editor-api.webflow.com/api/editor/view"), data: { siteId: a.attr("data-wf-site") }, xhrFields: { withCredentials: !0 }, dataType: "json", crossDomain: !0, success: function(e) { return function(n) { var r;
                                     n ? (n.thirdPartyCookiesSupported = e, function(e, n) { t.ajax({ type: "GET", url: e, dataType: "script", cache: !0 }).then(n, d) }((r = n.scriptPath).indexOf("//") >= 0 ? r : p("https://editor-api.webflow.com" + r), function() { window.WebflowEditor(n) })) : console.error("Could not load editor data") } }(e) }) }) },
             f = !1; try { f = localStorage && localStorage.getItem && localStorage.getItem("WebflowEditor") } catch (t) {}
-*/
+
         function l() { i || /\?edit/.test(u.hash) && s() }
 
         function d(t, e, n) { throw console.error("Could not load editor script: " + e), n }
