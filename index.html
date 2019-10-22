@@ -68,10 +68,10 @@
         }
 
         let title = () => {
-            let n = document.querySelectorAll('#rise p span').length
             let intrvl = setInterval(() => {
-                if (document.querySelectorAll('#rise p span.reveal').length != n) {
-                    document.querySelectorAll('#rise p span')[Math.floor(Math.random() * n)].classList.add('reveal')
+                let n = 0;
+                if ((n = document.querySelectorAll("#rise p span:not(.reveal)").length) > 0) {
+                    document.querySelectorAll("#rise p span:not(.reveal)")[Math.floor(Math.random() * n)].classList.add('reveal')
                 }
                 else {
                     clearInterval(intrvl)
