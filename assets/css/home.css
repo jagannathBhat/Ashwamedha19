@@ -41,6 +41,18 @@ html {
     transition: transform 1s;
 }
 
+.h1 {
+    font-size: 72px;
+}
+
+.h2 {
+    font-size: 36px;
+}
+
+.h3 {
+    font-size: 24px;
+}
+
 .lightColor {
     color: #ffffffaa;
 }
@@ -97,7 +109,7 @@ html {
 }
 
 #count {
-    margin: 120px 0px;
+    margin: 36px 0px;
 }
 
 #count .countItem {
@@ -125,6 +137,9 @@ html {
     }
     #rise #adi {
         margin-top: 36px;
+    }
+    #count {
+        margin: 48px 0px;
     }
     #count .countItem {
         margin-left: 120px;
@@ -156,6 +171,9 @@ html {
     #rise #adi {
         margin-top: 60px;
     }
+    #count {
+        margin: 72px 0px;
+    }
     #count .countItem {
         margin-left: 180px;
         width: 180px;
@@ -177,6 +195,9 @@ html {
     }
     #date, #date span, #eventsTitle, #eventsTitle span {
         width: 108px;
+    }
+    #count {
+        margin: 108px 0px;
     }
     #count .countItem {
         margin-left: 240px;
