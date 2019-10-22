@@ -1,0 +1,50 @@
+{
+    "events": [
+        {
+            "name": "Circuit Bomb",
+            "sub": "tic...tic...tic (KEEP THE EYE NOBODY EXPLODES)",
+            "1st": "Rs.2000",
+            "2nd": "Rs.1000",
+            "price": "Rs.200 per head",
+            "time": "Day 2 10AM to 4PM",
+            "venue": "Communication Lab",
+            "desc": "Your mission involves finding both analog and digital codes from the given circuit. In which you have to analyse the circuit in the given time with the given components. The final output will be given you have to find the input code to deactivate the bomb circuit.",
+            "rules": [
+                "General rules of ASHWAMEDHA ’19 is applicable for this event.",
+                "A team of maximum 3 members can participate.",
+                "The required components will be provided.",
+                "Event is divided into 2 rounds",
+                "1st round/ prelims: quiz with a time limit of 20mins. (general technical MCQ  questions )",
+                "Only 3 teams will be selected to the final round.",
+                "Maximum 3 chances will be provided to check the code in the given time.",
+                "Failure to complete the code within the time limit leads to elimination.",
+                "Any of the rules stated above can be changed or updated by the event coordinators and will be informed."
+            ],
+            "students": [
+                {
+                    "name": "Jagannath Rameshan",
+                    "mob": "+919400754215"
+                },
+                {
+                    "name": "Asiya Harris",
+                    "mob": "+918547801712"
+                },
+                {
+                    "name": "Anna Kuriachan",
+                    "mob": "+919645479518"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Prameela B",
+                    "mob": "+919387264140"
+                },
+                {
+                    "name": "Prof. Savitha Raghavan",
+                    "mob": "+918281575141"
+                }
+            ]
+        },
+        {/*next event*/}
+    ]
+}

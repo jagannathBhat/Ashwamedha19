@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/home.css">
+    <title>Aswhamedha'19</title>
+</head>
+
+<body>
+    <header>
+        <h1 class="anim animOpacity h2">Ashwamedha'19</h1>
+    </header>
+    <section id="date">
+        <p class="anim animSideSlide h2 lightColor">
+            <span>5</span>
+            <span> </span>
+            <span>&</span>
+            <span> </span>
+            <span>6</span>
+            <span> </span>
+            <span>N</span>
+            <span>O</span>
+            <span>V</span>
+        </p>
+    </section>
+    <section id="rise" class="h1">
+        <p><span>T</span><span>H</span><span>E</span></p>
+        <p><span>S</span><span>T</span><span>A</span><span>L</span><span>L</span><span>I</span><span>O</span><span>N</span></p>
+        <p><span>R</span><span>I</span><span>S</span><span>E</span><span>S</span></p>
+        <div id="adi" class="anim h3 lightColor">
+            <a>Adi Shankara Institute of Engineering and Technology</a>
+        </div>
+    </section>
+    <section id="count">
+        <div class="countItem anim animOpacity h2">
+            <p class="countNo">2</p>
+            <p class="countParam">Days</p>
+            <div class="line"></div>
+        </div>
+        <div class="countItem anim animOpacity h2">
+            <p class="countNo">25</p>
+            <p class="countParam">Events</p>
+            <div class="line"></div>
+        </div>
+    </section>
+    <script>
+        let animate = () => {
+            document.querySelectorAll('.anim').forEach(e => {
+                if ((e.offsetTop - window.innerHeight / 1.2) < (window.scrollY || window.pageYOffset)) {
+                    e.classList.add('animate')
+                }
+            })
+        }
+
+        let title = () => {
+            let n = document.querySelectorAll('#rise p span').length
+            let intrvl = setInterval(() => {
+                if (document.querySelectorAll('#rise p span.reveal').length != n) {
+                    document.querySelectorAll('#rise p span')[Math.floor(Math.random() * n)].classList.add('reveal')
+                }
+                else {
+                    clearInterval(intrvl)
+                }
+            }, 100)
+        }
+
+        animate()
+        title()
+        window.onscroll = animate
+        window.onresize = animate
+    </script>
+</body>
+
+</html>
