@@ -45,20 +45,20 @@ html {
     color: #ffffffaa;
 }
 
-#date, #rise {
+#date, #rise, #eventsTitle {
     display: inline-block;
     vertical-align: top;
 }
 
-#date {
+#date, #eventsTitle {
     margin-top: 36px;
 }
 
-#date, #date span {
+#date, #date span, #eventsTitle, #eventsTitle span {
     width: 36px;
 }
 
-#date span {
+#date span, #eventsTitle span {
     display: block;
     transform: rotateZ(90deg);
 }
@@ -97,7 +97,7 @@ html {
 }
 
 #count {
-    margin-top: 120px;
+    margin: 120px 0px;
 }
 
 #count .countItem {
@@ -120,7 +120,7 @@ html {
     .h3 {
         font-size: 36px;
     }
-    #date, #date span {
+    #date, #date span, #eventsTitle, #eventsTitle span {
         width: 48px;
     }
     #rise #adi {
@@ -144,10 +144,10 @@ html {
     .h3 {
         font-size: 60px;
     }
-    #date {
+    #date, #eventsTitle {
         width: calc(20% - 24px);
     }
-    #date, #date span {
+    #date, #date span, #eventsTitle, #eventsTitle span {
         width: 72px;
     }
     #rise {
@@ -175,7 +175,7 @@ html {
     .h3 {
         font-size: 72px;
     }
-    #date, #date span {
+    #date, #date span, #eventsTitle, #eventsTitle span {
         width: 108px;
     }
     #count .countItem {
