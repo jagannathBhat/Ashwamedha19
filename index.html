@@ -43,7 +43,7 @@
             <div class="line"></div>
         </div>
         <div class="countItem anim animOpacity h2">
-            <p class="countNo">25</p>
+            <p id="eventsCount" class="countNo"></p>
             <p class="countParam">Events</p>
             <div class="line"></div>
         </div>
@@ -58,7 +58,10 @@
             <span>S</span>
         </p>
     </section>
+    <section id="eventsList"></section>
     <script>
+        let eventsList = {}
+
         let animate = () => {
             document.querySelectorAll('.anim').forEach(e => {
                 if ((e.offsetTop - window.innerHeight / 1.2) < (window.scrollY || window.pageYOffset)) {
@@ -67,11 +70,26 @@
             })
         }
 
+        let displayEvents = () => {
+            fetch('/assets/data/events.json').then(response => {
+                return response.json()
+            }).then(data => {
+                eventsList = data
+                document.getElementById("eventsCount").innerText = eventsList.events.length
+                eventsList.events.forEach((e) => {
+                    let h2 = document.createElement('h2')
+                    h2.classList.add('h3', 'anim', 'animOpacity')
+                    h2.innerText = e.name;
+                    document.getElementById('eventsList').append(h2)
+                })
+            })
+        }
+
         let title = () => {
             let intrvl = setInterval(() => {
                 let n = 0;
-                if ((n = document.querySelectorAll("#rise p span:not(.reveal)").length) > 0) {
-                    document.querySelectorAll("#rise p span:not(.reveal)")[Math.floor(Math.random() * n)].classList.add('reveal')
+                if ((n = document.querySelectorAll('#rise p span:not(.reveal)').length) > 0) {
+                    document.querySelectorAll('#rise p span:not(.reveal)')[Math.floor(Math.random() * n)].classList.add('reveal')
                 }
                 else {
                     clearInterval(intrvl)
@@ -80,9 +98,10 @@
         }
 
         animate()
-        title()
         window.onscroll = animate
         window.onresize = animate
+        title()
+        displayEvents()
     </script>
 </body>
 
