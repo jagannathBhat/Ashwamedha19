@@ -135,8 +135,7 @@
                     "mob": "+919496301743"
                 },
                 {
-                    "name": "Ms. Deepa P",
-                    "mob": ""
+                    "name": "Ms. Deepa P"
                 }
             ]        	
         },
@@ -170,12 +169,10 @@
             ],
             "faculty": [
                 {
-                    "name": "Prof. Hima T",
-                    "mob": ""
+                    "name": "Prof. Hima T"
                 },
                 {
-                    "name": "Prof. Lakshmipriya",
-                    "mob": ""
+                    "name": "Prof. Lakshmipriya"
                 }
             ]
 
@@ -259,7 +256,6 @@
                 "Pilots that have crashed at any point during their race, are unable to resume racing, must DISARM their aircraft and wait until all aircraft have landed to retrieve their aircraft.",
                 "Participants should follow the instructions.",
                 "The decision of the judges will be final and no one can object their decision."
-
             ],
             "students": [
                 {
@@ -329,7 +325,7 @@
             ]
         },
         {
-            "name": "FLAGSHIP FIERA"
+            "name": "FLAGSHIP FIERA",
             "price": "Rs.20 per head",
             "day": "Day 1",
             "time": "Full Day",
@@ -398,9 +394,7 @@
             "second": "Rs.1500",
             "price": "Rs.150 per head",
             "day": "Day 1",
-            "time": "",
             "venue": "CCF Lab",
-            "desc": "",
             "rules": [
                 "An individual event.",
                 "Participants should only Use Adobe Premiere Pro (will be provided).",
@@ -435,18 +429,15 @@
             ],
             "faculty": [
                 {
-                    "name": "Prof. Gokilavani",
-                    "mob": ""
+                    "name": "Prof. Gokilavani"
                 },
                 {
-                    "name": "Prof. Simi M S",
-                    "mob": ""
+                    "name": "Prof. Simi M S"
                 }
             ]
         },
         {
             "name": "FOLLOW",
-            "sub": "",
             "first": "Rs.3000",
             "second": "Rs.1500",
             "price": "Rs.300 per team",
@@ -489,18 +480,15 @@
             ],
             "faculty": [
                 {
-                    "name": "Prof. Tony George",
-                    "mob": ""
+                    "name": "Prof. Tony George"
                 },
                 {
-                    "name": "Mr. Viju",
-                    "mob": ""
+                    "name": "Mr. Viju"
                 }
             ]
         },
         {
             "name": "GOOGLE MARATHON",
-            "sub": "",
             "first": "Rs.2500",
             "second": "Rs.1500",
             "price": "Rs.100 per head",
@@ -537,16 +525,13 @@
                     "mob": "+919447260342"
                 },
                 {
-                    "name": "Ms Sangeetha K G",
-                    "mob": ""
+                    "name": "Ms Sangeetha K G"
                 }
             ]
         },
         {
             "name": "HARDWARE ASSEMBLY",
-            "sub": "",
             "first": "Rs.1000",
-            "second": "",
             "price": "Rs.100 per team",
             "day": "Day 1",
             "time": "1PM to 4PM",
@@ -584,16 +569,12 @@
                     "mob": "+918547068020"
                 },
                 {
-                    "name": "Mr. Sumesh S Menon",
-                    "mob": ""
+                    "name": "Mr. Sumesh S Menon"
                 }
             ]
         }, 
         {
             "name": "IOT WORKSHOP",
-            "sub": "",
-            "first": "",
-            "second": "",
             "price": "Rs.250 per head",
             "day": "Day 1",
             "time": "9:30AM to 4PM",
@@ -633,7 +614,6 @@
         },  
         {
             "name": "JUST A MINUTE (JAM)",
-            "sub": "",
             "first": "Rs.2500",
             "second": "Rs.1500",
             "price": "Rs.100 per head",
@@ -674,25 +654,17 @@
             ],
             "faculty": [
                 {
-                    "name": "Asha Rose Thomas",
-                    "mob": ""
+                    "name": "Asha Rose Thomas"
                 },
                 {
-                    "name": "Rajesh Mon",
-                    "mob": ""
+                    "name": "Rajesh Mon"
                 }
             ]
         },
         {
             "name": "KING OF TROLLS",
-            "sub": "",
             "first": "Rs.2000",
-            "second": "",
-            "price": "",
-            "day": "",
-            "time": "",
             "venue": "Online",
-            "desc": "",
             "rules": [
             	"Troll can be made on any software.",
             	"The troll should be related to “ CAMPUS LIFE",
@@ -714,17 +686,10 @@
                     "name": "Manomy",
                     "mob": "+919605807815"
                 }
-            ],
-            "faculty": [
-                {
-                    "name": "",
-                    "mob": ""
-                }
             ]
         },    
         {
             "name": "OSCILLOART",
-            "sub": "",
             "first": "Rs.1000",
             "second": "Rs.500",
             "price": "Rs.100 per team",
@@ -754,20 +719,16 @@
             ],
             "faculty": [
                 {
-                    "name": "Nayana J",
-                    "mob": ""
+                    "name": "Nayana J"
                 },
                 {
-                    "name": "Remya Varghese",
-                    "mob": ""
+                    "name": "Remya Varghese"
                 }
             ]
         },  
         {
             "name": "PROJECT R",
-            "sub": "",
             "total": "10K",
-            "second": "",
             "price": [
             	"Rs. 100 for IEEE CS ",
             	"Rs. 130 for IEEE",
@@ -808,18 +769,15 @@
             ],
             "faculty": [
                 {
-                    "name": "Prof. SUNDER V",
-                    "mob": ""
+                    "name": "Prof. SUNDER V"
                 },
                 {
-                    "name": "Prof. REMYA V",
-                    "mob": ""
+                    "name": "Prof. REMYA V"
                 }
             ]
         }, 
         {
             "name": "TECH ASSEMBLE",
-            "sub": "",
             "first": "Rs.1500",
             "second": "Rs.500",
             "price": "Rs.100 per team",
@@ -848,18 +806,15 @@
             ],
             "faculty": [
                 {
-                    "name": "Prof. Rajalakshmi S",
-                    "mob": ""
+                    "name": "Prof. Rajalakshmi S"
                 },
                 {
-                    "name": "Prof. Santhosh S",
-                    "mob": ""
+                    "name": "Prof. Santhosh S"
                 }
             ]
         },
         {
             "name": "TECHNOPHILE",
-            "sub": "",
             "first": "Rs.2000",
             "second": "Rs.1500",
             "price": "Rs.100 per head",
@@ -892,18 +847,15 @@
             ],
             "faculty": [
                 {
-                    "name": "Neetha K Nataraj",
-                    "mob": ""
+                    "name": "Neetha K Nataraj"
                 },
                 {
-                    "name": "Joe Kurian",
-                    "mob": ""
+                    "name": "Joe Kurian"
                 }
             ]
         }, 
         {
             "name": "TECH NOVITA",
-            "sub": "",
             "first": "Rs.1000",
             "second": "Rs.500",
             "price": "Rs.100 per head",
@@ -934,18 +886,15 @@
             ],
             "faculty": [
                 {
-                    "name": "Anna Baby",
-                    "mob": ""
+                    "name": "Anna Baby"
                 },
                 {
-                    "name": "Venugopal",
-                    "mob": ""
+                    "name": "Venugopal"
                 }
             ]
         },
         {
             "name": "FAST FINGERS",
-            "sub": "",
             "first": "Rs.4000",
             "second": "Rs.3000",
             "price": "Rs.100 per head",
@@ -976,7 +925,7 @@
                 {
                     "name": "Priyanka R Krishnan",
                     "mob": "+918547455058"
-                },
+                }
             ],
             "faculty": [
                 {
@@ -991,7 +940,6 @@
         }, 
         {
             "name": "TYPE RACER",
-            "sub": "",
             "first": "Rs.1500",
             "second": "Rs.1000",
             "price": "Rs.100 per head",
@@ -1028,8 +976,7 @@
                     "mob": "+918129014888"
                 },
                 {
-                    "name": "Subha M",
-                    "mob": ""
+                    "name": "Subha M"
                 }
             ]
         },
@@ -1076,7 +1023,6 @@
         }, 
         {
             "name": "Zoom_ IN Zoom_ OUT",
-            "sub": "",
             "first": "Rs.1500",
             "second": "Rs.1000",
             "price": "Rs.100 per head",
@@ -1107,12 +1053,10 @@
             ],
             "faculty": [
                 {
-                    "name": "Joseph George",
-                    "mob": ""
+                    "name": "Joseph George"
                 },
                 {
-                    "name": "Sumathy M V",
-                    "mob": ""
+                    "name": "Sumathy M V"
                 }
             ]
         }               
