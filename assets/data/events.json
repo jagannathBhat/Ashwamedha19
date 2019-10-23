@@ -3,8 +3,8 @@
         {
             "name": "CIRCUIT BOMB",
             "sub": "tic...tic...tic (KEEP THE EYE NOBODY EXPLODES)",
-            "1st": "Rs.2000",
-            "2nd": "Rs.1000",
+            "first": "Rs.2000",
+            "second": "Rs.1000",
             "price": "Rs.200 per head",
             "day": "Day 2",
             "time": "10AM to 4PM",
@@ -48,8 +48,8 @@
         {
             "name": "ELECTRONIC DEBUGGING (Circuit Debugging)",
             "sub": "If you didn’t fix it, It ain’t fixed!",
-            "1st": "Rs.2000",
-            "2nd": "Rs.1000",
+            "first": "Rs.2000",
+            "second": "Rs.1000",
             "price": "Rs.150 (50 per head)",
             "day": "Day 1",
             "time": "1:30PM to 5PM ",
@@ -97,14 +97,16 @@
         },
         {
             "name": "CONCEPT ART(On spot photoshop)",
-            "sub": "",
-            "1st": "Rs.2500",
-            "2nd": "Rs.1000",
+            "first": "Rs.2500",
+            "second": "Rs.1000",
             "price": "Rs.150 per head",
             "day": "Day 2",
             "time": "10AM to 1PM",
             "venue": "ADP Lab",
-            "desc": "The event is to find an individual’s  creativity. This event will showcase the participant’s skills in photoshop.",
+            "desc": [
+            	"The event is to find an individual’s  creativity.", 
+            	"This event will showcase the participant’s skills in photoshop."
+            ],
            	"rules": [
                 "Its an individual event.",
                 "Software's will be provided (photoshop and  light room).",
@@ -140,9 +142,7 @@
         },
         {
             "name": "CROSSWORD",
-            "sub": "",
-            "1st": "Rs.1000",
-            "2nd": "",
+            "first": "Rs.1000",
             "price": "Rs.100 per team",
             "day": "Day 2",
             "time": "1PM to 4PM",
@@ -182,14 +182,16 @@
         },
         {
             "name": "DARK FANTASY(Blind C Coding)",
-            "sub": "",
-            "1st": "Rs.2000",
-            "2nd": "Rs.1000",
+            "first": "Rs.2000",
+            "second": "Rs.1000",
             "price": "Rs.150 per head",
             "day": "Day 1",
             "time": "1:30PM to 4:30PM",
             "venue": "ADP Lab",
-            "desc": "The event is to find an individual with good coding skills. This event will showcase the participant’s programming skills.",
+            "desc": [
+            	"The event is to find an individual with good coding skills.",
+            	"This event will showcase the participant’s programming skills."
+            ],
             "rules": [
                 "This is an individual event.",
                 "The compiler provided will be Turbo c.",
@@ -220,16 +222,15 @@
                     "mob": "+919446794105"
                 },
                 {
-                    "name": "Miss Janet Roselin",
-                    "mob": ""
+                    "name": "Miss Janet Roselin"
                 }
             ]        	
         },
         {
             "name": "DRONE RACE",
             "sub": "SET THE AIR ON FIRE",
-            "1st": "Rs.12000",
-            "2nd": "Rs.5000",
+            "first": "Rs.12000",
+            "second": "Rs.5000",
             "3rd": "Rs.3000",
             "price": "Rs.500 per head",
             "day": "Day 1",
@@ -284,8 +285,8 @@
         {
             "name": "ECLIPSE",
             "sub": "Trap the shadow",
-            "1st": "Rs.2000",
-            "2nd": "Rs.1000",
+            "first": "Rs.2000",
+            "second": "Rs.1000",
             "price": "Rs.250 per head",
             "day": "Day 2",
             "time": "1PM to 4PM",
@@ -328,10 +329,7 @@
             ]
         },
         {
-            "name": "FLAGSHIP FIERA",
-            "sub": "",
-            "1st": "",
-            "2nd": "",
+            "name": "FLAGSHIP FIERA"
             "price": "Rs.20 per head",
             "day": "Day 1",
             "time": "Full Day",
@@ -351,19 +349,12 @@
                     "name": "Nimita Mary Wilson",
                     "mob": "+919207127820"
                 }
-            ],
-            "faculty": [
-                {
-                    "name": "",
-                    "mob": ""
-                }
             ]
         },
         {
         	"name": "CELL PROBE",
-            "sub": "",
-            "1st": "Rs.3000",
-            "2nd": "Rs.2000",
+            "first": "Rs.3000",
+            "second": "Rs.2000",
             "price": "Rs.150 per head",
             "day": "Day 1",
             "time": "Full Day",
@@ -397,16 +388,14 @@
                     "mob": "+919961113367"
                 },
                 {
-                    "name": "Mr Ashin Paul",
-                    "mob": ""
+                    "name": "Mr Ashin Paul"
                 }
             ]
         },
         {
             "name": "FINAL CUT (On Spot Video Editing)",
-            "sub": "",
-            "1st": "Rs.2500",
-            "2nd": "Rs.1500",
+            "first": "Rs.2500",
+            "second": "Rs.1500",
             "price": "Rs.150 per head",
             "day": "Day 1",
             "time": "",
@@ -458,8 +447,8 @@
         {
             "name": "FOLLOW",
             "sub": "",
-            "1st": "Rs.3000",
-            "2nd": "Rs.1500",
+            "first": "Rs.3000",
+            "second": "Rs.1500",
             "price": "Rs.300 per team",
             "day": "Day 1",
             "time": "1PM to 4PM",
@@ -512,13 +501,16 @@
         {
             "name": "GOOGLE MARATHON",
             "sub": "",
-            "1st": "Rs.2500",
-            "2nd": "Rs.1500",
+            "first": "Rs.2500",
+            "second": "Rs.1500",
             "price": "Rs.100 per head",
             "day": "Day 2",
             "time": "10AM to 4PM",
             "venue": "PL Lab",
-            "desc": "The event is to find an individual with analytical skills. This event will showcase a teams searching talent.",
+            "desc": [
+            	"The event is to find an individual with analytical skills.",
+            	"This event will showcase a teams searching talent."
+            ],
             "rules": [
                 "This is a team event of 2 members.",
                 "Team should consist of 2 participants only.",
@@ -553,13 +545,16 @@
         {
             "name": "HARDWARE ASSEMBLY",
             "sub": "",
-            "1st": "Rs.1000",
-            "2nd": "",
+            "first": "Rs.1000",
+            "second": "",
             "price": "Rs.100 per team",
             "day": "Day 1",
             "time": "1PM to 4PM",
             "venue": "S1 CSA",
-            "desc": "This event is to find a team with the best knowledge about computer hardware and its connections.This event will showcase team work, time management and organization capability.",
+            "desc": [
+            	"This event is to find a team with the best knowledge about computer hardware and its connections.",
+            	"This event will showcase team work, time management and organization capability."
+            ],
             "rules": [
                 "This is a team event of 2 participants.",
                 "First round includes a quiz section regarding the computer hardware.",
@@ -597,13 +592,16 @@
         {
             "name": "IOT WORKSHOP",
             "sub": "",
-            "1st": "",
-            "2nd": "",
+            "first": "",
+            "second": "",
             "price": "Rs.250 per head",
             "day": "Day 1",
             "time": "9:30AM to 4PM",
             "venue": "SI Lab",
-            "desc": "The IoT workshop will be a hands-on workshop in which the students are been trained about the basics of IoT using some of the electronics components. In this workshop, there is also the interfacing about the Firebase cloud platform and also teaches them how to interface with the cloud using the values. Which is been generated from the sensors.",
+            "desc": [
+            	"The IoT workshop will be a hands-on workshop in which the students are been trained about the basics of IoT using some of the electronics components.", 
+            	"In this workshop, there is also the interfacing about the Firebase cloud platform and also teaches them how to interface with the cloud using the values. Which is been generated from the sensors."
+            ],
             "rules": [
                 "The students attending the workshop don’t require any pre-knowledge in programming.",
                 "All the requirements necessary for the workshop will be provided by the college.",
@@ -636,14 +634,24 @@
         {
             "name": "JUST A MINUTE (JAM)",
             "sub": "",
-            "1st": "Rs.2500",
-            "2nd": "Rs.1500",
+            "first": "Rs.2500",
+            "second": "Rs.1500",
             "price": "Rs.100 per head",
             "day": "Day 2",
             "time": "10AM to 1PM",
-            "venue": "EC Lab",
-            "desc": "Project the given figure using shadow of provided materials.",
+            "venue": "CS Seminar Hall",
+            "desc": "This Event is to find individual with best communication skill.",
             "rules": [
+                "This is an individual event.",
+                "In the first round, general topics will be given, or images will be shown. Participants are allowed to talk about  each topic for 1 minute",
+                "The shortlisted students will be qualified for the next round. Topics provided in the second round will be technology based.",
+                "Language used must be English.",
+                "Topic will be given on spot.",
+                "Fluency, grammar and content will be checked.",
+                "Electronic devices like smart watch, mobile phones are not allowed.",
+                "Presenting more than 65 sec are not allowed.",
+                "Offensive words should not be used.",
+                "Judges decision will be final.",
                 "Team must consist of two members.",
                 "Prelims will be conducted if there are more than four groups.",
                 "Judgment will be based on the perfection and similarity with the actual picture.",
@@ -656,28 +664,457 @@
             ],
             "students": [
                 {
-                    "name": "Gayathri G Shenoy",
-                    "mob": "+919495187303"
+                    "name": "Aadil Kather ",
+                    "mob": "+919400708454"
                 },
                 {
-                    "name": "Swetha Vinayakumar",
-                    "mob": "+918129855045"
-                },
-                {
-                    "name": "Remya Mohanan",
-                    "mob": "+919539017349"
+                    "name": "Niva S",
+                    "mob": "+918281858581"
                 }
             ],
             "faculty": [
                 {
-                    "name": "Prof. Sreerag M",
-                    "mob": "+919446090468"
+                    "name": "Asha Rose Thomas",
+                    "mob": ""
                 },
                 {
-                    "name": "Prof. Neema M",
-                    "mob": "+918129244221"
+                    "name": "Rajesh Mon",
+                    "mob": ""
                 }
             ]
-        }
+        },
+        {
+            "name": "KING OF TROLLS",
+            "sub": "",
+            "first": "Rs.2000",
+            "second": "",
+            "price": "",
+            "day": "",
+            "time": "",
+            "venue": "Online",
+            "desc": "",
+            "rules": [
+            	"Troll can be made on any software.",
+            	"The troll should be related to “ CAMPUS LIFE",
+            	"The troll should not contain any personal criticism/attack.",
+            	"The troll should be immaculate of obscenity.",
+            	"Trolls can either be in English/Malayalam.",
+            	"Original trolls created by individuals are only eligible for contest.",
+            	"Trolls should be watermarked as “KING OF TROLLS-ASHWAMEDHA 2K19”. ",
+            	"Only the entries shared to ashwamedha2k19@gmail.com within the time period are considered for competition.",
+            	"Evaluation criteria based on the number of liked on Instagram page of ‘Ashwamedha 2k19’.",
+            	"Time period for uploading the entries is up to 6:00Pm ,2nd November 2019."
+            ],
+            "students": [
+                {
+                    "name": "Sandra Chandran",
+                    "mob": "+919061110413"
+                },
+                {
+                    "name": "Manomy",
+                    "mob": "+919605807815"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "",
+                    "mob": ""
+                }
+            ]
+        },    
+        {
+            "name": "OSCILLOART",
+            "sub": "",
+            "first": "Rs.1000",
+            "second": "Rs.500",
+            "price": "Rs.100 per team",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "Power Electronics Lab EEE",
+            "desc": "In this event the teams are instructed to create specific shapes on a CRO by connecting suitable circuit made by the given components.",
+            "rules": [
+                "A team of maximum 2 members can participate.",
+                "Components will be provided.",
+                "Event is divided into two levels.",
+                "Preliminary round – general technical MCQ quiz with a time slot of 20mins.",
+                "Only 4 teams are selected to the final round.",
+                "Failure to complete the circuit within the time limit will lead to elimination.",
+                "Any Event rules can be changed or updated accordingly and will be informed by the coordinators.",
+                "The Decision of the event coordinators (staff and students) will be final."
+            ],
+            "students": [
+                {
+                    "name": "Harisree",
+                    "mob": "+917510132875"
+                },
+                {
+                    "name": "Sreejith",
+                    "mob": "+917012351219"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Nayana J",
+                    "mob": ""
+                },
+                {
+                    "name": "Remya Varghese",
+                    "mob": ""
+                }
+            ]
+        },  
+        {
+            "name": "PROJECT R",
+            "sub": "",
+            "total": "10K",
+            "second": "",
+            "price": [
+            	"Rs. 100 for IEEE CS ",
+            	"Rs. 130 for IEEE",
+            	"Rs. 160 for Non-IEEE"
+            ],
+            "day": "Day 2",
+            "time": "10AM to 4PM",
+            "venue": "MBA Seminar Hall",
+            "desc": "Idea Presentation",
+            "rules": [
+            	"A team of 3 members are mandatory can participate.", 
+            	"A team should be led by a mentor is needed for each team.", 
+            	"Keep Original and genuine ideas!",
+            	"Ideas of any genre are invited.",
+            	"Similar ideas can result in disqualification of the team which submitted next.",  
+            	"7 minute Presentation",
+            	"1 minute video",
+            	"3 minute business structuring", 
+            	"5 minute prototype display",
+            	"The event will be conducted in 3 Phases:",
+            	["Phase 1: The origin. The participants need to come up with a good idea for their project and send to  us a poster(as a visual representation)  and an abstract (a brief explanation) of the same via email. Good project ideas which are well presented shall be  selected.",
+            	"Phase 2: The propositional act. Participants who qualified phase 1 will now have to make a Presentation and  pitch it during Ashwamedha in front of judges who will decide the selection process.", 
+            	"Phase 3: The Actuation trial. Participants are asked to make a (possibly) working model of the project. Based  on the progress and the design, the best teams will be selected as winners. And a cash prize upto Rupees 10000 shall be awarded to them."
+            	],
+            	"The Decision of the event coordinators (staff and students) will be final."
+
+
+            ],
+            "students": [
+                {
+                    "name": "Vidhu Hari ",
+                    "mob": "+919447889241"
+                },
+                {
+                    "name": "Aagneyan",
+                    "mob": "+919746005523"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. SUNDER V",
+                    "mob": ""
+                },
+                {
+                    "name": "Prof. REMYA V",
+                    "mob": ""
+                }
+            ]
+        }, 
+        {
+            "name": "TECH ASSEMBLE",
+            "sub": "",
+            "first": "Rs.1500",
+            "second": "Rs.500",
+            "price": "Rs.100 per team",
+            "day": "Day 2",
+            "time": "10AM to 1PM",
+            "venue": "EEE Machines Lab",
+            "desc": "The event showcase the talent of teams to reassemble the device parts.",
+            "rules": [
+                "Team should consist of 2 members.",
+                "A person alone cannot participate. ",
+                "If there are more than 4 groups, prelims would be conducted. ",
+                "There will be a preliminary round and final round. ",
+                "Time limit is decided according to the device given for reassembling.", 
+                "Reassembling will be depended on the type of device provided. ",
+                "The Decision of the event coordinators (staff and students) will be final."
+            ],
+            "students": [
+                {
+                    "name": "Amal Razik",
+                    "mob": "+919946631615"
+                },
+                {
+                    "name": "Suneesh R S",
+                    "mob": "+918086986540"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Rajalakshmi S",
+                    "mob": ""
+                },
+                {
+                    "name": "Prof. Santhosh S",
+                    "mob": ""
+                }
+            ]
+        },
+        {
+            "name": "TECHNOPHILE",
+            "sub": "",
+            "first": "Rs.2000",
+            "second": "Rs.1500",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "9:30AM to 1PM",
+            "venue": "S5 CSE/ADP Lab",
+            "desc": [
+            	"The event is to find an individual with best technical knowledge and skills.", 
+            	"This event will showcase the participant’s technical talent."],
+            "rules": [
+                "This is an individual event.",
+                "First round includes the crossword puzzle followed by MCQs. This round may be based on socially as well as technically relevant topics.",
+                "The students will be qualified to the next round based on a cut off from the average score calculated.",
+                "The shortlisted students will take part in a debate or group discussion. your communication skills and interpersonal skills will be assessed here.",
+                "The shortlisted students will take part in a circuit assembly and coding round. Here the technical skills of the students are tested.",
+                "The students should assemble the circuit based on the given layout within the allotted time.",
+                "For the coding round the students should execute the code within given time and should clear all the test cases given.",
+                "The students who excel in all the rounds will be selected as the winner.",
+                "The Decision of the event coordinators (staff and students) will be final.",
+            ],
+            "students": [
+                {
+                    "name": "Sreenath P",
+                    "mob": "+918281640883"
+                },
+                {
+                    "name": "Anjana B",
+                    "mob": "+919562342472"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Neetha K Nataraj",
+                    "mob": ""
+                },
+                {
+                    "name": "Joe Kurian",
+                    "mob": ""
+                }
+            ]
+        }, 
+        {
+            "name": "TECH NOVITA",
+            "sub": "",
+            "first": "Rs.1000",
+            "second": "Rs.500",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "S7 EEE",
+            "desc": "Technical quiz related to engineering field.",
+            "rules": [
+                "Individual event",
+                "The quiz will be based on the events related to engineering field.",
+                "In case of more than 6 participants there will be a preliminary round and 6 will be selected for the next round.",
+                "The prelims will contain a fixed number of questions along with a few stars marked question.",
+                "In case of a tie in prelims the participants answering the maximum number of starred questions will be selected.",
+                "6 winners will face each other for one more round and the best 4 will be selected for finals.",
+                "In case of a tie in the second and final rounds, the tie will be resolved in a tie breaker.",
+                "The quiz master will have the right to make changes to the pattern of the rounds.",
+                "The Decision of the event coordinators (staff and students) will be final."
+            ],
+            "students": [
+                {
+                    "name": "Amal J",
+                    "mob": "+919495991505"
+                },
+                {
+                    "name": "Karthik",
+                    "mob": "+918156898348"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Anna Baby",
+                    "mob": ""
+                },
+                {
+                    "name": "Venugopal",
+                    "mob": ""
+                }
+            ]
+        },
+        {
+            "name": "FAST FINGERS",
+            "sub": "",
+            "first": "Rs.4000",
+            "second": "Rs.3000",
+            "price": "Rs.100 per head",
+            "day": "Day 2",
+            "time": "Full Day",
+            "venue": "Electrical Lab",
+            "desc": [
+            	"The main objective of this event is to bring out the  intricate electronic know-how and to challenge application level knowledge of the participants.",
+            	"The participants are put to test through rigorous debugging, stabilizing and initializing core electronic simulated tests and rectification.",
+            	"This event is composed of three solid rounds with screening tests for the same at the end of every stage."
+            ],
+            "rules": [
+                "This is a group event, the group size should not exceed beyond 3/team.",
+                "Prelims will conducted prior to the first round if there are more than required numbers of team.",
+                "The team that finish each round the fastest will be given priority over the other team to the next round.",
+                "Use of mobile phones and any other forms of malpractices are strictly prohibited.",
+                "The Decision of the event coordinators (staff and students) will be final."
+            ],
+            "students": [
+                {
+                    "name": "Leo Solomon Paul",
+                    "mob": "+919207152373"
+                },
+                {
+                    "name": "Sachin P P",
+                    "mob": "+919645925787"
+                },
+                {
+                    "name": "Priyanka R Krishnan",
+                    "mob": "+918547455058"
+                },
+            ],
+            "faculty": [
+                {
+                    "name": "Jayalakshmi P K",
+                    "mob": "+919995894606"
+                },
+                {
+                    "name": "Vinila M L",
+                    "mob": "+919846670675"
+                }
+            ]
+        }, 
+        {
+            "name": "TYPE RACER",
+            "sub": "",
+            "first": "Rs.1500",
+            "second": "Rs.1000",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "1PM to 4PM",
+            "venue": "NP Lab",
+            "desc": "The main objective of this event is to measure and bring out the typing speed and typing accuracy of the participants which are put to test through time limited typing, tackling verbal and grammar tests, coding skills and blind typing. The event is composed of five solid rounds with screening tests for the same at the very end of every stage.",
+            "rules": [
+                "This is an individual event.",
+                "Prelims will conducted prior to the first round if there are more than required numbers of team.",
+                "Participants should only use the keyboards provided.",
+                "Use of mobile phones and any other forms of malpractices are strictly prohibited.",
+                "Copy and paste is not allowed.",
+                "The event will be strictly time bounded.",
+                "The Decision of the event coordinators (staff and students) will be final."
+            ],
+            "students": [
+                {
+                    "name": "Nidhin S",
+                    "mob": "+918075653890"
+                },
+                {
+                    "name": "Joseph Alwin Soza",
+                    "mob": "+919074832311"
+                },
+                {
+                    "name": "Mary Githreon",
+                    "mob": "+918943206147"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Jisha K R",
+                    "mob": "+918129014888"
+                },
+                {
+                    "name": "Subha M",
+                    "mob": ""
+                }
+            ]
+        },
+        {
+            "name": "OSCILLOART (Waveform Generation)",
+            "sub": "Think. Create. Make it.",
+            "first": "Rs.1500",
+            "second": "Rs.500",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "Circuits Lab ECE",
+            "desc": "Your mission is to create a waveform in the CRO by using given components. The “Oscilloart” measures your creativity,and how faster you will accomplish the given task, in the given time slot.",
+            "rules": [
+                "A team of maximum 2 members can participate.",
+                "The components will be provided.",
+                "Final decision will be taken by judges.",
+                "Any of the rule stated above can be changed or updated by the event coordinates and will be informed.",
+            ],
+            "students": [
+                {
+                    "name": "M R Harshitha",
+                    "mob": "+917025572149"
+                },
+                {
+                    "name": "Linsa Mary Varghese",
+                    "mob": "+919207572524"
+                },
+                {
+                    "name": "Sai Sree D",
+                    "mob": "+917025144835"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Prajeesh P A",
+                    "mob": "+919946528300"
+                },
+                {
+                    "name": "Prof. Arya Paul",
+                    "mob": "+919947337135"
+                }
+            ]
+        }, 
+        {
+            "name": "Zoom_ IN Zoom_ OUT",
+            "sub": "",
+            "first": "Rs.1500",
+            "second": "Rs.1000",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "10AM to 12:30PM",
+            "venue": "S3 CSB/College Premises",
+            "desc": "This Event is to find individual with best photographic skill.",
+            "rules": [
+                "Maximum of 2 participants are allowed in a contestant team. One may participate as an individual as well.",
+                "All photographs submitted must be taken within the campus.",
+                "The submissions have to be theme based. All themes will be announced during the event.",
+                "All photographs submitted must be captioned.",
+                "All photographs must be submitted within 2 hours of commencement of the event.",
+                "The photographs may be taken using any kind of cameras including mobile phones. The submissions should of a minimum clarity.",
+                "All submissions should be in JPEG format and must not contain watermarks or logos.",
+                "Edited photographs will not be considered for evaluation.",
+                "Judges decision will be final."
+            ],
+            "students": [
+                {
+                    "name": "Febina A E",
+                    "mob": "+919020236375"
+                },
+                {
+                    "name": "Lakshmi Rajan",
+                    "mob": "+919400206806"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Joseph George",
+                    "mob": ""
+                },
+                {
+                    "name": "Sumathy M V",
+                    "mob": ""
+                }
+            ]
+        }               
     ]
 }
