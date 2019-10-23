@@ -49,6 +49,10 @@ p {
     transition: transform 1s;
 }
 
+.noScroll {
+    overflow: hidden;
+}
+
 @media only screen and (min-width: 960px) {
     body {
         padding: 12px;

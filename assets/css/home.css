@@ -127,6 +127,81 @@ html {
     width: calc(80% - 6px - 36px);
 }
 
+#eventsList h2 {
+    cursor: pointer;
+}
+
+#eventDetails {
+    background-color: #000;
+    display: none;
+    height: 100%;
+    margin: -6px;
+    opacity: 0;
+    overflow-y: auto;
+    position: fixed;
+    padding: 12px;
+    top: 0;
+    width: calc(100% - 24px);
+    -webkit-transition: opacity 0.4s;
+    -moz-transition: opacity 0.4s;
+    -o-transition: opacity 0.4s;
+    transition: opacity 0.4s;
+}
+
+#eventDetails.reveal {
+    display: block;
+    opacity: 1;
+}
+
+#eventDetails #close {
+    cursor: pointer;
+    padding: 12px;
+    text-align: right;
+}
+
+#eventDetails p, #eventDetails li {
+    font-size: 18px;
+    margin-bottom: 18px;
+}
+
+#eventDetails #eTitle {
+    margin-bottom: 0px;
+}
+
+#eventDetails #eSub {
+    font-style: italic;
+}
+
+#eventDetails #ePrice {
+    font-size: 24px;
+    margin: 48px 0px;
+}
+
+#eventDetails .prize {
+    display: inline-block;
+    margin: 0px 12px 48px 0px;
+    text-align: center;
+}
+
+#eventDetails .prize p:nth-child(1) {
+    font-size: 36px;
+    margin: 0px;
+}
+
+#eventDetails #eCoord, #eventDetails #eRulesHead {
+    font-size: 24px;
+}
+
+#eventDetails .coordinator {
+    display: inline-block;
+    margin-right: 12px;
+    text-align: center;
+}
+
+#eventDetails #eRulesHead {
+    margin-top: 48px;
+}
+
 @media only screen and (min-width: 600px) {
     .h2 {
         font-size: 108px;
@@ -151,6 +226,29 @@ html {
     }
     #count .countItem:nth-child(2) {
         margin-right: 120px;
+    }
+    #eventDetails p, #eventDetails li {
+        font-size: 24px;
+        margin-bottom: 24px;
+    }
+    #eventDetails #ePrice {
+        font-size: 36px;
+        margin: 60px 0px;
+    }
+    #eventDetails .prize {
+        margin: 0px 24px 60px 0px;
+    }
+    #eventDetails .prize p:nth-child(1) {
+        font-size: 48px;
+    }
+    #eventDetails #eCoord, #eventDetails #eRulesHead {
+        font-size: 36px;
+    }
+    #eventDetails .coordinator {
+        margin-right: 24px;
+    }
+    #eventDetails #eRulesHead {
+        margin-top: 60px;
     }
 }
 
@@ -185,6 +283,32 @@ html {
     }
     #count .countItem:nth-child(2) {
         margin-right: 180px;
+    }
+    #eventDetails {
+        margin: -12px;
+    }
+    #eventDetails p, #eventDetails li {
+        font-size: 36px;
+        margin-bottom: 36px;
+    }
+    #eventDetails #ePrice {
+        font-size: 48px;
+        margin: 72px 0px;
+    }
+    #eventDetails .prize {
+        margin: 0px 36px 72px 0px;
+    }
+    #eventDetails .prize p:nth-child(1) {
+        font-size: 60px;
+    }
+    #eventDetails #eCoord, #eventDetails #eRulesHead {
+        font-size: 48px;
+    }
+    #eventDetails .coordinator {
+        margin-right: 36px;
+    }
+    #eventDetails #eRulesHead {
+        margin-top: 72px;
     }
 }
 

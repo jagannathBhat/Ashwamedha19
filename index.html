@@ -59,6 +59,52 @@
         </p>
     </section>
     <section id="eventsList"></section>
+    <div id="eventDetails">
+        <p id="close">Close</p>
+        <h3 id="eTitle" class="h2">CIRCUIT BOMB</h3>
+        <p id="eSub">tic...tic...tic (KEEP THE EYE NOBODY EXPLODES)</p>
+        <p id="eDesc">Your mission involves finding both analog and digital codes from the given circuit. In which you have to analyse the circuit in the given time with the given components. The final output will be given you have to find the input code to deactivate the bomb circuit.</p>
+        <p id="eTimeVenue">Day 2<br>10AM to 4PM<br>Communication Lab</p>
+        <p id="ePrice">Rs.200 per head</p>
+        <div id="ePrizes">
+            <div class="prize">
+                <p>Rs. 2000</p>
+                <p>First Prize</p>
+            </div>
+            <div class="prize">
+                <p>Rs. 1000</p>
+                <p>Second Prize</p>
+            </div>
+        </div>
+        <p id="eCoord">Coordinators</p>
+        <div id="eCoords">
+            <div class="coordinator">
+                <p>Jagannath Rameshan</p>
+                <p><a href="tel:+919400754215">+919400754215</a></p>
+            </div>
+            <div class="coordinator">
+                <p>Asiya Harris</p>
+                <p><a href="tel:+918547801712">+918547801712</a></p>
+            </div>
+            <div class="coordinator">
+                <p>Anna Kuriachan</p>
+                <p><a href="tel:+919645479518">+919645479518</a></p>
+            </div>
+        </div>
+        <p id="eRulesHead">Rules</p>
+        <div id="eRules">
+            <ol>
+                <li>General rules of ASHWAMEDHA ’19 is applicable for this event.</li>
+                <li>A team of maximum 3 members can participate.</li>
+                <li>The required components will be provided.</li>
+                <li>Event is divided into 2 rounds</li>
+                <li>1st round/ prelims: quiz with a time limit of 20mins. (general technical MCQ questions)</li>
+                <li>Only 3 teams will be selected to the final round.</li>
+                <li>Failure to complete the code within the time limit leads to elimination.</li>
+                <li>Any of the rules stated above can be changed or up…d by the event coordinators and will be informed.</li>
+            </ol>
+        </div>
+    </div>
     <script>
         let eventsList = {}
 
@@ -70,16 +116,128 @@
             })
         }
 
+        let reveal = (e) => {
+            e = e.target.innerText
+            e = eventsList.events.filter(a => {
+                return (a.name === e)
+            })
+            e = e[0]
+            document.getElementById('eTitle').innerText = e.hasOwnProperty('name') ? e.name : ''
+            document.getElementById('eSub').innerText = e.hasOwnProperty('sub') ? e.sub : ''
+            document.getElementById('eDesc').innerText = e.hasOwnProperty('desc') ? e.desc : ''
+            if (e.hasOwnProperty('day') && e.hasOwnProperty('time') & e.hasOwnProperty('venue'))
+                document.getElementById('eTimeVenue').innerHTML = e.day + '<br>' + e.time + '<br>' + e.venue
+            if (e.hasOwnProperty('price'))
+                document.getElementById('ePrice').innerText = e.price
+            document.getElementById('ePrizes').innerHTML = ''
+            if (e.hasOwnProperty('first')) {
+                let first = document.createElement('div')
+                first.classList.add('prize')
+                let amt = document.createElement('p')
+                amt.innerText = e.first
+                let prizetitle = document.createElement('p')
+                prizetitle.innerText = 'First Prize'
+                first.append(amt)
+                first.append(prizetitle)
+                document.getElementById('ePrizes').append(first)
+            }
+            if (e.hasOwnProperty('second')) {
+                let second = document.createElement('div')
+                second.classList.add('prize')
+                let amt = document.createElement('p')
+                amt.innerText = e.second
+                let prizetitle = document.createElement('p')
+                prizetitle.innerText = 'Second Prize'
+                second.append(amt)
+                second.append(prizetitle)
+                document.getElementById('ePrizes').append(second)
+            }
+            if (e.hasOwnProperty('third')) {
+                let third = document.createElement('div')
+                third.classList.add('prize')
+                let amt = document.createElement('p')
+                amt.innerText = e.second
+                let prizetitle = document.createElement('p')
+                prizetitle.innerText = 'Third Prize'
+                third.append(amt)
+                third.append(prizetitle)
+                document.getElementById('ePrizes').append(third)
+            }
+            if (e.hasOwnProperty('prize')) {
+                let prize = document.createElement('div')
+                prize.classList.add('prize')
+                let amt = document.createElement('p')
+                amt.innerText = e.second
+                let prizetitle = document.createElement('p')
+                prizetitle.innerText = 'Worth Prizes'
+                prize.append(amt)
+                prize.append(prizetitle)
+                document.getElementById('ePrizes').append(prize)
+            }
+            document.getElementById('eCoords').innerHTML = ''
+            if (e.hasOwnProperty('students')) {
+                document.getElementById('eCoord').innerText = 'Coordinators'
+                e.students.forEach((a) => {
+                    let student = document.createElement('div')
+                    student.classList.add('coordinator')
+                    let studentName = document.createElement('p')
+                    studentName.innerText = a.name
+                    let studentNo = document.createElement('p')
+                    studentNo.innerText = a.mob
+                    student.append(studentName)
+                    student.append(studentNo)
+                    document.getElementById('eCoords').append(student)
+                })
+            }
+            else {
+                document.getElementById('eCoord').innerText = ''
+            }
+            let generalRule = document.createElement('li')
+            generalRule.innerText = "General rules of ASHWAMEDHA ’19 is applicable for this event."
+            document.querySelector('#eRules ol').innerHTML = ''
+            document.querySelector('#eRules ol').append(generalRule)
+            if (e.hasOwnProperty('rules')) {
+                e.rules.forEach(r => {
+                    if (Array.isArray(r)) {
+                        let ruleList = document.createElement('ol')
+                        r.forEach(ru => {
+                            let rule = document.createElement('li')
+                            rule.innerText = ru
+                            ruleList.append(ru)
+                        })
+                        document.querySelector('#eRules ol').append(ruleList)
+                    }
+                    else {
+                        let rule = document.createElement('li')
+                        rule.innerText = r
+                        document.querySelector('#eRules ol').append(rule)
+                    }
+                })
+            }
+            document.getElementById('eventDetails').classList.add('reveal')
+            document.querySelector('html').classList.add('noScroll')
+            document.querySelector('body').classList.add('noScroll')
+        }
+
+        let close = () => {
+            document.getElementById('eventDetails').classList.remove('reveal')
+            document.querySelector('html').classList.remove('noScroll')
+            document.querySelector('body').classList.remove('noScroll')
+        }
+
         let displayEvents = () => {
             fetch('/assets/data/events.json').then(response => {
                 return response.json()
             }).then(data => {
                 eventsList = data
-                document.getElementById("eventsCount").innerText = eventsList.events.length
+                document.getElementById('eventsCount').innerText = eventsList.events.length
                 eventsList.events.forEach((e) => {
                     let h2 = document.createElement('h2')
                     h2.classList.add('h3', 'anim', 'animOpacity')
-                    h2.innerText = e.name;
+                    h2.addEventListener('click', (e) => {
+                        reveal(e)
+                    })
+                    h2.innerText = e.name
                     document.getElementById('eventsList').append(h2)
                 })
             })
@@ -87,7 +245,7 @@
 
         let title = () => {
             let intrvl = setInterval(() => {
-                let n = 0;
+                let n = 0
                 if ((n = document.querySelectorAll('#rise p span:not(.reveal)').length) > 0) {
                     document.querySelectorAll('#rise p span:not(.reveal)')[Math.floor(Math.random() * n)].classList.add('reveal')
                 }
@@ -102,6 +260,9 @@
         window.onresize = animate
         title()
         displayEvents()
+        document.getElementById('close').addEventListener('click', () => {
+            close()
+        })
     </script>
 </body>
 
