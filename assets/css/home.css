@@ -3,6 +3,7 @@ body {
     color: #fff;
     cursor: default;
     font-family: 'Oswald', sans-serif;
+    font-size: 18px;
 }
 
 html {
@@ -122,6 +123,21 @@ html {
     margin-right: 36px;
 }
 
+#stunt {
+    background: #000 url(/assets/image/stuntbg.jpg) center 18%/cover no-repeat;
+    background-attachment: fixed;
+    display: table;
+    height: 80vh;
+    width: 100%;
+}
+
+#stunt div {
+    background-color: #000000aa;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
 #eventsList {
     margin-left: 36px;
     width: calc(80% - 6px - 36px);
@@ -159,8 +175,7 @@ html {
     text-align: right;
 }
 
-#eventDetails p, #eventDetails li {
-    font-size: 18px;
+#eventDetails p, #eventDetails li, #stunt #stuntDate {
     margin-bottom: 18px;
 }
 
@@ -210,7 +225,18 @@ html {
     padding: 12px;
 }
 
+#aboutASIET h5 {
+    margin-bottom: 12px;
+}
+
+#aboutASIET p {
+    font-size: 24px;
+}
+
 @media only screen and (min-width: 600px) {
+    body {
+        font-size: 24px;
+    }
     .h2 {
         font-size: 108px;
     }
@@ -235,8 +261,7 @@ html {
     #count .countItem:nth-child(2) {
         margin-right: 120px;
     }
-    #eventDetails p, #eventDetails li {
-        font-size: 24px;
+    #eventDetails p, #eventDetails li, #stunt #stuntDate {
         margin-bottom: 24px;
     }
     #eventDetails #ePrice {
@@ -264,6 +289,9 @@ html {
 }
 
 @media only screen and (min-width: 960px) {
+    body {
+        font-size: 36px;
+    }
     .h1 {
         font-size: 180px;
     }
@@ -298,8 +326,7 @@ html {
     #eventDetails {
         margin: -12px;
     }
-    #eventDetails p, #eventDetails li {
-        font-size: 36px;
+    #eventDetails p, #eventDetails li, #stunt #stuntDate {
         margin-bottom: 36px;
     }
     #eventDetails #ePrice {
