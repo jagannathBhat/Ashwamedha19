@@ -202,6 +202,14 @@ html {
     margin-top: 48px;
 }
 
+#buyTickets button {
+    background: #ffffffdd;
+    border: 0px;
+    color: #000;
+    margin: 48px 0px;
+    padding: 12px;
+}
+
 @media only screen and (min-width: 600px) {
     .h2 {
         font-size: 108px;
@@ -249,6 +257,9 @@ html {
     }
     #eventDetails #eRulesHead {
         margin-top: 60px;
+    }
+    #buyTickets button {
+        margin: 60px 0px;
     }
 }
 
@@ -309,6 +320,9 @@ html {
     }
     #eventDetails #eRulesHead {
         margin-top: 72px;
+    }
+    #buyTickets button {
+        margin: 72px 0px;
     }
 }
 

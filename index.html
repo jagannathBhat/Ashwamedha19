@@ -61,48 +61,19 @@
     <section id="eventsList"></section>
     <div id="eventDetails">
         <p id="close">Close</p>
-        <h3 id="eTitle" class="h2">CIRCUIT BOMB</h3>
-        <p id="eSub">tic...tic...tic (KEEP THE EYE NOBODY EXPLODES)</p>
-        <p id="eDesc">Your mission involves finding both analog and digital codes from the given circuit. In which you have to analyse the circuit in the given time with the given components. The final output will be given you have to find the input code to deactivate the bomb circuit.</p>
-        <p id="eTimeVenue">Day 2<br>10AM to 4PM<br>Communication Lab</p>
-        <p id="ePrice">Rs.200 per head</p>
+        <h3 id="eTitle" class="h2"></h3>
+        <p id="eSub"></p>
+        <p id="eDesc"></p>
+        <a href="https://www.yepdesk.com/buy-tickets/5db04f6ae4b0306426d58832" id="buyTickets" target="_blank"><button class="h3">Buy Tickets</button></a>
+        <p id="eTimeVenue"></p>
+        <p id="ePrice"></p>
         <div id="ePrizes">
-            <div class="prize">
-                <p>Rs. 2000</p>
-                <p>First Prize</p>
-            </div>
-            <div class="prize">
-                <p>Rs. 1000</p>
-                <p>Second Prize</p>
-            </div>
         </div>
         <p id="eCoord">Coordinators</p>
-        <div id="eCoords">
-            <div class="coordinator">
-                <p>Jagannath Rameshan</p>
-                <p><a href="tel:+919400754215">+919400754215</a></p>
-            </div>
-            <div class="coordinator">
-                <p>Asiya Harris</p>
-                <p><a href="tel:+918547801712">+918547801712</a></p>
-            </div>
-            <div class="coordinator">
-                <p>Anna Kuriachan</p>
-                <p><a href="tel:+919645479518">+919645479518</a></p>
-            </div>
-        </div>
+        <div id="eCoords"></div>
         <p id="eRulesHead">Rules</p>
         <div id="eRules">
-            <ol>
-                <li>General rules of ASHWAMEDHA ’19 is applicable for this event.</li>
-                <li>A team of maximum 3 members can participate.</li>
-                <li>The required components will be provided.</li>
-                <li>Event is divided into 2 rounds</li>
-                <li>1st round/ prelims: quiz with a time limit of 20mins. (general technical MCQ questions)</li>
-                <li>Only 3 teams will be selected to the final round.</li>
-                <li>Failure to complete the code within the time limit leads to elimination.</li>
-                <li>Any of the rules stated above can be changed or up…d by the event coordinators and will be informed.</li>
-            </ol>
+            <ol></ol>
         </div>
     </div>
     <script>
@@ -193,7 +164,12 @@
                 document.getElementById('eCoord').innerText = ''
             }
             let generalRule = document.createElement('li')
-            generalRule.innerText = "General rules of ASHWAMEDHA ’19 is applicable for this event."
+            generalRule.innerText = 'General rules of ASHWAMEDHA ’19 is applicable for this event. '
+            let rulesDoc = document.createElement('a')
+            rulesDoc.setAttribute('href', '/assets/docs/ashwamedha19rules.pdf')
+            rulesDoc.setAttribute('download', 'Ashwamedha19 Rules.pdf')
+            rulesDoc.innerText = 'Click here to download the rules.'
+            generalRule.append(rulesDoc)
             document.querySelector('#eRules ol').innerHTML = ''
             document.querySelector('#eRules ol').append(generalRule)
             if (e.hasOwnProperty('rules')) {
@@ -203,7 +179,7 @@
                         r.forEach(ru => {
                             let rule = document.createElement('li')
                             rule.innerText = ru
-                            ruleList.append(ru)
+                            ruleList.append(rule)
                         })
                         document.querySelector('#eRules ol').append(ruleList)
                     }
@@ -231,10 +207,10 @@
             }).then(data => {
                 eventsList = data
                 document.getElementById('eventsCount').innerText = eventsList.events.length
-                eventsList.events.forEach((e) => {
+                eventsList.events.forEach(e => {
                     let h2 = document.createElement('h2')
                     h2.classList.add('h3', 'anim', 'animOpacity')
-                    h2.addEventListener('click', (e) => {
+                    h2.addEventListener('click', e => {
                         reveal(e)
                     })
                     h2.innerText = e.name

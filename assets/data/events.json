@@ -103,10 +103,7 @@
             "day": "Day 2",
             "time": "10AM to 1PM",
             "venue": "ADP Lab",
-            "desc": [
-            	"The event is to find an individual’s  creativity.", 
-            	"This event will showcase the participant’s skills in photoshop."
-            ],
+            "desc": "The event is to find an individual’s  creativity. This event will showcase the participant’s skills in photoshop.",
            	"rules": [
                 "Its an individual event.",
                 "Software's will be provided (photoshop and  light room).",
@@ -185,10 +182,7 @@
             "day": "Day 1",
             "time": "1:30PM to 4:30PM",
             "venue": "ADP Lab",
-            "desc": [
-            	"The event is to find an individual with good coding skills.",
-            	"This event will showcase the participant’s programming skills."
-            ],
+            "desc": "The event is to find an individual with good coding skills. This event will showcase the participant’s programming skills.",
             "rules": [
                 "This is an individual event.",
                 "The compiler provided will be Turbo c.",
@@ -288,17 +282,7 @@
             "time": "1PM to 4PM",
             "venue": "EC Lab",
             "desc": "Project the given figure using shadow of provided materials.",
-            "rules": [
-                "Team must consist of two members.",
-                "Prelims will be conducted if there are more than four groups.",
-                "Judgment will be based on the perfection and similarity with the actual picture.",
-                "Arrangements of the materials should be according to the given provision.",
-                "Source of light will be given and fixed. ",
-                "External accessories are not allowed other than the given materials.",
-                "Time duration:",
-                ["Half an hour for discussions.",
-                "One hour for construction."]
-            ],
+            "rules": "Team must consist of two members. Prelims will be conducted if there are more than four groups. Judgment will be based on the perfection and similarity with the actual picture. Arrangements of the materials should be according to the given provision. Source of light will be given and fixed. External accessories are not allowed other than the given materials. Time duration: Half an hour for discussions. One hour for construction.",
             "students": [
                 {
                     "name": "Gayathri G Shenoy",
@@ -495,10 +479,7 @@
             "day": "Day 2",
             "time": "10AM to 4PM",
             "venue": "PL Lab",
-            "desc": [
-            	"The event is to find an individual with analytical skills.",
-            	"This event will showcase a teams searching talent."
-            ],
+            "desc": "The event is to find an individual with analytical skills. This event will showcase a teams searching talent.",
             "rules": [
                 "This is a team event of 2 members.",
                 "Team should consist of 2 participants only.",
@@ -536,23 +517,8 @@
             "day": "Day 1",
             "time": "1PM to 4PM",
             "venue": "S1 CSA",
-            "desc": [
-            	"This event is to find a team with the best knowledge about computer hardware and its connections.",
-            	"This event will showcase team work, time management and organization capability."
-            ],
-            "rules": [
-                "This is a team event of 2 participants.",
-                "First round includes a quiz section regarding the computer hardware.",
-                "Those who clear round 1 will be going for the second round which will be the assembling round.",
-                "The challenge given to the team is to assemble a dismantled computer CPU and bring it back to normal condition. ",
-                "At ﬁrst the CPU is given to the team completely dismantled. ",
-                "Each team have to assemble it correctly within time limit. ",
-                "The team which complete the assembling in a shorter time will be the winners.",
-                "The tools required for assembling will be provided to each team (only one screwdriver for each team). ",
-                "The participants should not damage any parts especially the processors. ",
-                "The participants will not be given any trials or practice session before the event.",
-                "The Decision of the event coordinators (staff and students) will be final."
-            ],
+            "desc": "This event is to find a team with the best knowledge about computer hardware and its connections. This event will showcase team work, time management and organization capability.",
+            "rules": "This is a team event of 2 participants. First round includes a quiz section regarding the computer hardware. Those who clear round 1 will be going for the second round which will be the assembling round. The challenge given to the team is to assemble a dismantled computer CPU and bring it back to normal condition. At ﬁrst the CPU is given to the team completely dismantled. Each team have to assemble it correctly within time limit. The team which complete the assembling in a shorter time will be the winners. The tools required for assembling will be provided to each team (only one screwdriver for each team). The participants should not damage any parts especially the processors. The participants will not be given any trials or practice session before the event. The Decision of the event coordinators (staff and students) will be final.",
             "students": [
                 {
                     "name": "Abhishek Prasanth",
@@ -579,10 +545,7 @@
             "day": "Day 1",
             "time": "9:30AM to 4PM",
             "venue": "SI Lab",
-            "desc": [
-            	"The IoT workshop will be a hands-on workshop in which the students are been trained about the basics of IoT using some of the electronics components.", 
-            	"In this workshop, there is also the interfacing about the Firebase cloud platform and also teaches them how to interface with the cloud using the values. Which is been generated from the sensors."
-            ],
+            "desc": "The IoT workshop will be a hands-on workshop in which the students are been trained about the basics of IoT using some of the electronics components.In this workshop, there is also the interfacing about the Firebase cloud platform and also teaches them how to interface with the cloud using the values. Which is been generated from the sensors.",
             "rules": [
                 "The students attending the workshop don’t require any pre-knowledge in programming.",
                 "All the requirements necessary for the workshop will be provided by the college.",
@@ -729,11 +692,7 @@
         {
             "name": "PROJECT R",
             "total": "10K",
-            "price": [
-            	"Rs. 100 for IEEE CS ",
-            	"Rs. 130 for IEEE",
-            	"Rs. 160 for Non-IEEE"
-            ],
+            "price": "Rs. 100 for IEEE CS (Promo code: IEEE60)\nRs. 130 for IEEE (Promo code: IEEE30)\nRs. 160 for Non-IEEE",
             "day": "Day 2",
             "time": "10AM to 4PM",
             "venue": "MBA Seminar Hall",
@@ -821,9 +780,7 @@
             "day": "Day 1",
             "time": "9:30AM to 1PM",
             "venue": "S5 CSE/ADP Lab",
-            "desc": [
-            	"The event is to find an individual with best technical knowledge and skills.", 
-            	"This event will showcase the participant’s technical talent."],
+            "desc": "The event is to find an individual with best technical knowledge and skills. This event will showcase the participant’s technical talent.",
             "rules": [
                 "This is an individual event.",
                 "First round includes the crossword puzzle followed by MCQs. This round may be based on socially as well as technically relevant topics.",
@@ -901,11 +858,7 @@
             "day": "Day 2",
             "time": "Full Day",
             "venue": "Electrical Lab",
-            "desc": [
-            	"The main objective of this event is to bring out the  intricate electronic know-how and to challenge application level knowledge of the participants.",
-            	"The participants are put to test through rigorous debugging, stabilizing and initializing core electronic simulated tests and rectification.",
-            	"This event is composed of three solid rounds with screening tests for the same at the end of every stage."
-            ],
+            "desc": "The main objective of this event is to bring out the  intricate electronic know-how and to challenge application level knowledge of the participants. The participants are put to test through rigorous debugging, stabilizing and initializing core electronic simulated tests and rectification. This event is composed of three solid rounds with screening tests for the same at the end of every stage.",
             "rules": [
                 "This is a group event, the group size should not exceed beyond 3/team.",
                 "Prelims will conducted prior to the first round if there are more than required numbers of team.",
