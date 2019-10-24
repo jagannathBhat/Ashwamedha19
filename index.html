@@ -8,18 +8,18 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="#000" />
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="description" content="Technical festival of Adi Shankara Institute of Engineering and Technology, Kalady." />
-    <meta name="msapplication-square310x310logo" content="/assets/image/iconw310.png" />
+    <meta name="msapplication-square310x310logo" content="assets/image/iconw310.png" />
     <meta name="msapplication-TileColor" content="#000" />
     <meta name="application-name" content="Ashwamedha'19" />
     <meta name="theme-color" content="#000" />
-    <link rel="icon" sizes="192x192" href="/assets/image/icon192.png" />
-    <link rel="icon" sizes="512x512" href="/assets/image/icon512.png" />
-    <link rel="apple-touch-startup-image" href="/assets/image/iconfull.png" />
-    <link rel="apple-touch-icon" href="/assets/image/icon192.png" />
-    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" sizes="192x192" href="assets/image/icon192.png" />
+    <link rel="icon" sizes="512x512" href="assets/image/icon512.png" />
+    <link rel="apple-touch-startup-image" href="assets/image/iconfull.png" />
+    <link rel="apple-touch-icon" href="assets/image/icon192.png" />
+    <link rel="manifest" href="manifest.json" />
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="stylesheet" href="/assets/css/home.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/home.css">
     <title>Aswhamedha'19</title>
 </head>
 
@@ -214,7 +214,7 @@
             let generalRule = document.createElement('li')
             generalRule.innerText = 'General rules of ASHWAMEDHA ’19 is applicable for this event. '
             let rulesDoc = document.createElement('a')
-            rulesDoc.setAttribute('href', '/assets/docs/ashwamedha19rules.pdf')
+            rulesDoc.setAttribute('href', 'assets/docs/ashwamedha19rules.pdf')
             rulesDoc.setAttribute('download', 'Ashwamedha19 Rules.pdf')
             rulesDoc.innerText = 'Click here to download the rules.'
             generalRule.append(rulesDoc)
@@ -250,7 +250,7 @@
         }
 
         let displayEvents = () => {
-            fetch('/assets/data/events.json').then(response => {
+            fetch('assets/data/events.json').then(response => {
                 return response.json()
             }).then(data => {
                 eventsList = data
