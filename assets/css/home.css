@@ -233,6 +233,17 @@ html {
     font-size: 24px;
 }
 
+#map {
+    margin: 48px 0px;
+}
+
+#dev {
+    color: #ffffffaa;
+    font-size: 24px;
+    padding: 60px 0px 24px 0px;
+    text-align: center; 
+}
+
 @media only screen and (min-width: 600px) {
     body {
         font-size: 24px;
