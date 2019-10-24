@@ -7,7 +7,7 @@ body {
 }
 
 html {
-    background: #000 url(/assets/image/bgbw.png) -42vmax 50vh/84vmax auto no-repeat;
+    background: #000 url(assets/image/bgbw.png) -42vmax 50vh/84vmax auto no-repeat;
 }
 
 .animOpacity {
@@ -124,7 +124,7 @@ html {
 }
 
 #stunt {
-    background: #000 url(/assets/image/stuntbg.jpg) center 18%/cover no-repeat;
+    background: #000 url(assets/image/stuntbg.jpg) center 18%/cover no-repeat;
     background-attachment: fixed;
     display: table;
     height: 80vh;
