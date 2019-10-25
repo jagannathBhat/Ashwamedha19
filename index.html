@@ -201,10 +201,13 @@
                     student.classList.add('coordinator')
                     let studentName = document.createElement('p')
                     studentName.innerText = a.name
+                    let studentNoLink = document.createElement('a')
                     let studentNo = document.createElement('p')
                     studentNo.innerText = a.mob
+                    studentNoLink.setAttribute('href', 'tel:' + a.mob)
+                    studentNoLink.append(studentNo)
                     student.append(studentName)
-                    student.append(studentNo)
+                    student.append(studentNoLink)
                     document.getElementById('eCoords').append(student)
                 })
             }
