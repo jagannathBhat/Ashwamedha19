@@ -813,47 +813,6 @@
             ]
         },
         {
-            "name": "FAST FINGERS",
-            "first": "Rs.4000",
-            "second": "Rs.3000",
-            "price": "Rs.100 per head",
-            "day": "Day 2",
-            "time": "Full Day",
-            "venue": "Electrical Lab",
-            "desc": "The main objective of this event is to bring out the  intricate electronic know-how and to challenge application level knowledge of the participants. The participants are put to test through rigorous debugging, stabilizing and initializing core electronic simulated tests and rectification. This event is composed of three solid rounds with screening tests for the same at the end of every stage.",
-            "rules": [
-                "This is a group event, the group size should not exceed beyond 3/team.",
-                "Prelims will conducted prior to the first round if there are more than required numbers of team.",
-                "The team that finish each round the fastest will be given priority over the other team to the next round.",
-                "Use of mobile phones and any other forms of malpractices are strictly prohibited.",
-                "The Decision of the event coordinators (staff and students) will be final."
-            ],
-            "students": [
-                {
-                    "name": "Leo Solomon Paul",
-                    "mob": "+919207152373"
-                },
-                {
-                    "name": "Sachin P P",
-                    "mob": "+919645925787"
-                },
-                {
-                    "name": "Priyanka R Krishnan",
-                    "mob": "+918547455058"
-                }
-            ],
-            "faculty": [
-                {
-                    "name": "Jayalakshmi P K",
-                    "mob": "+919995894606"
-                },
-                {
-                    "name": "Vinila M L",
-                    "mob": "+919846670675"
-                }
-            ]
-        }, 
-        {
             "name": "TYPE RACER",
             "first": "Rs.1500",
             "second": "Rs.1000",
