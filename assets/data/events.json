@@ -5,7 +5,7 @@
             "sub": "tic...tic...tic (KEEP THE EYE NOBODY EXPLODES)",
             "first": "Rs.2000",
             "second": "Rs.1000",
-            "price": "Rs.200 per head",
+            "price": "Rs.200 per team",
             "day": "Day 2",
             "time": "10AM to 4PM",
             "venue": "Communication Lab",
@@ -22,7 +22,7 @@
             ],
             "students": [
                 {
-                    "name": "Jagannath Rameshan",
+                    "name": "Jagannath U",
                     "mob": "+919400754215"
                 },
                 {
@@ -46,11 +46,11 @@
             ]
         },
         {
-            "name": "ELECTRONIC DEBUGGING (Circuit Debugging)",
+            "name": "ELECTRONIC DEBUGGING",
             "sub": "If you didn’t fix it, It ain’t fixed!",
             "first": "Rs.2000",
             "second": "Rs.1000",
-            "price": "Rs.150 (50 per head)",
+            "price": "Rs.150 per team (50 per head)",
             "day": "Day 1",
             "time": "1:30PM to 5PM ",
             "venue": "Analog Communication Lab(EC Lab)",
@@ -58,16 +58,18 @@
             "rules": [
                 "A team of maximum three participants can contest for this event.",
                 "The event has three rounds which test your circuit debugging skills.",
-                ["Round 1 : 10 general aptitude and 10 simple electronics related questions.",
-                "Time allotted: 30 min.",
-                "Round 2 : Participants selected to second round will be given 5 digital and 5 analogue electronics questions and they are supposed to identify the fault and rectify the circuit.",
-                "Time allotted: 45 minutes",
-                "Round 3: Participants selected for this round will be given a hardware  circuit either digital or analogue. Faults in the circuit must be identified to get the corrected output. ",
-                "Time allotted : 2 hours"],
+                [
+                    "Round 1 : 10 general aptitude and 10 simple electronics related questions.",
+                    "Time allotted: 30 min.",
+                    "Round 2 : Participants selected to second round will be given 5 digital and 5 analogue electronics questions and they are supposed to identify the fault and rectify the circuit.",
+                    "Time allotted: 45 minutes",
+                    "Round 3: Participants selected for this round will be given a hardware circuit either digital or analogue. Faults in the circuit must be identified to get the corrected output. ",
+                    "Time allotted : 2 hours"
+                ],
                 "Failure to complete any of the round within the time limit leads to elimination.",
                 "The decision of judges and event coordinators shall be treated as final and binding to all.",
-				"A basic knowledge of digital and analogue circuitry is necessary.",
-				"All the components and material required for the circuit will be provided by us."
+                "A basic knowledge of digital and analogue circuitry is necessary.",
+                "All the components and material required for the circuit will be provided by us."
             ],
             "students": [
                 {
@@ -93,7 +95,6 @@
                     "mob": "+919446944885"
                 }
             ]
-
         },
         {
             "name": "CONCEPT ART(On spot photoshop)",
@@ -104,14 +105,14 @@
             "time": "10AM to 1PM",
             "venue": "ADP Lab",
             "desc": "The event is to find an individual’s  creativity. This event will showcase the participant’s skills in photoshop.",
-           	"rules": [
+            "rules": [
                 "Its an individual event.",
                 "Software's will be provided (photoshop and  light room).",
                 "20 stock images will be provided",
                 "Participants can't take images from any other sources",
                 "Time limit will be 2 hr 30 min",
                 "Event is about taking min 6 images and make the required  editing to create a meaningful image",
-                "Participants are prohibited from using any external filters other than the inbuilt filters in software",  
+                "Participants are prohibited from using any external filters other than the inbuilt filters in software",
                 "If any means of crash occurs to the software, the organisers won't be responsible so we request the participants to save the psd file in between editing.",
                 "Judgment will based on the creativeness, concept, effects and light used.",
                 "The decision of the event coordinators (staff and students) will be final."
@@ -134,7 +135,7 @@
                 {
                     "name": "Ms. Deepa P"
                 }
-            ]        	
+            ]
         },
         {
             "name": "CROSSWORD",
@@ -145,14 +146,14 @@
             "venue": "S7 EEE, S1 ME A",
             "desc": "In this event the teams have to complete the crossword that has been made on the floor using the letters provided. The question will include both technical and general.",
             "rules": [
-				"Team event (2 members).",
-				"Prelims will be conducted if there are more than 5 teams.",
-				"It is a time-based event. The aim is to complete the crossword within a specific time.",
-				"Time within which crossword should be completed will be announced at the time of the event.", 
-				"Only one team at a time will be allowed in the room to complete the crossword.", 
-				"All the teams not able to complete the crossword within the given time, the team with most correct answers will be the winners.", 
-				"In case of a tie the decision will be made by the judges on the tie breaker.", 
-				"The Decision of the event coordinators (staff and students) will be final."
+                "Team event (2 members).",
+                "Prelims will be conducted if there are more than 5 teams.",
+                "It is a time-based event. The aim is to complete the crossword within a specific time.",
+                "Time within which crossword should be completed will be announced at the time of the event.",
+                "Only one team at a time will be allowed in the room to complete the crossword.",
+                "All the teams not able to complete the crossword within the given time, the team with most correct answers will be the winners.",
+                "In case of a tie the decision will be made by the judges on the tie breaker.",
+                "The Decision of the event coordinators (staff and students) will be final."
             ],
             "students": [
                 {
@@ -172,7 +173,6 @@
                     "name": "Prof. Lakshmipriya"
                 }
             ]
-
         },
         {
             "name": "DARK FANTASY(Blind C Coding)",
@@ -187,15 +187,16 @@
                 "This is an individual event.",
                 "The compiler provided will be Turbo c.",
                 "This event consists of three rounds :",
-				["1st Round (Logic) : Aptitude and Programming level questions will be given ,in which participants will have to answer problems based on c language. Selected participants will step into the next round.",
-				"2nd Round (Run) : Problem statement is given to participants, they should have to execute the code in particular time limit with no errors.",
-				"3rd Round : Only problem statement will be provided.",
-				"(Blind Code)Participants need to type the code in TURBO C with MONITORS SWITCHED OFF in particular time limit. Mouse will also be detached.",
-				"Winners will be announced based on the results of compilation and execution."],
-				"Shortlisted participants of Round I will appear for Round II and Shortlisted participants of Round II will appear for Round III for which above rules will be applicable.",
-				"In case of tie then timing and no. of errors will be considered.",
-				"The Decision of the event coordinators (staff and students) will be final."
-
+                [
+                    "1st Round (Logic) : Aptitude and Programming level questions will be given ,in which participants will have to answer problems based on c language. Selected participants will step into the next round.",
+                    "2nd Round (Run) : Problem statement is given to participants, they should have to execute the code in particular time limit with no errors.",
+                    "3rd Round : Only problem statement will be provided.",
+                    "(Blind Code)Participants need to type the code in TURBO C with MONITORS SWITCHED OFF in particular time limit. Mouse will also be detached.",
+                    "Winners will be announced based on the results of compilation and execution."
+                ],
+                "Shortlisted participants of Round I will appear for Round II and Shortlisted participants of Round II will appear for Round III for which above rules will be applicable.",
+                "In case of tie then timing and no. of errors will be considered.",
+                "The Decision of the event coordinators (staff and students) will be final."
             ],
             "students": [
                 {
@@ -215,22 +216,22 @@
                 {
                     "name": "Miss Janet Roselin"
                 }
-            ]        	
+            ]
         },
         {
             "name": "DRONE RACE",
             "sub": "SET THE AIR ON FIRE",
             "first": "Rs.12000",
             "second": "Rs.5000",
-            "3rd": "Rs.3000",
-            "price": "Rs.500 per head",
+            "third": "Rs.3000",
+            "price": "Rs.500 per team",
             "day": "Day 1",
             "time": "1:30PM to 5PM",
             "venue": "Ground",
             "desc": "The race comprises of 2 rounds. The first round tests the time of flight of all participating drones in the race pit and the best 5 will pass to the final round which is a head-on competition were the fastest flier will bag the prize.",
             "rules": [
                 "Each team can have a maximum of 2 members.",
-                "Each team should bring their drone.",
+                "Each team should bring their own drone. ",
                 "Drones should be in good condition.",
                 "The drone should be in the range of 45-70cm in diameter.",
                 "The drone must not be automated and must be controlled manually.",
@@ -248,7 +249,7 @@
                 "Top X number of pilots (where X is dependent upon the number of attending pilots) based on their fastest time set in the Qualifiers will proceed to the final Round. ",
                 "Once pilots have successfully completed all laps, they must return to the start/finish pad, land and DISARM.",
                 "Pilots that have crashed at any point during their race, are unable to resume racing, must DISARM their aircraft and wait until all aircraft have landed to retrieve their aircraft.",
-                "Participants should follow the instructions.",
+                "Participants should follow the instructions. If anyone fails , they will be disqualified from the event.",
                 "The decision of the judges will be final and no one can object their decision."
             ],
             "students": [
@@ -277,7 +278,7 @@
             "sub": "Trap the shadow",
             "first": "Rs.2000",
             "second": "Rs.1000",
-            "price": "Rs.250 per head",
+            "price": "Rs.250 per team",
             "day": "Day 2",
             "time": "1PM to 4PM",
             "venue": "EC Lab",
@@ -332,7 +333,7 @@
             ]
         },
         {
-        	"name": "CELL PROBE",
+            "name": "CELL PROBE",
             "first": "Rs.3000",
             "second": "Rs.2000",
             "price": "Rs.150 per head",
@@ -368,7 +369,8 @@
                     "mob": "+919961113367"
                 },
                 {
-                    "name": "Mr Ashin Paul"
+                    "name": "Prof. Albins Paul",
+                    "mob": "+919495129696"
                 }
             ]
         },
@@ -385,12 +387,14 @@
                 "Participants will be provided with an edited Video and the Raw Footages of that video.",
                 "Participants should create the replicate of that Edited Footage Within the Time limit.",
                 "Judgement is based on:",
-                ["Similarity of the Video:",
-                "Timeline management",
-                "Sound effects",
-                "Transitions",
-                "Colour grading",
-                "Quality of the Output"],
+                [
+                    "Similarity of the Video:",
+                    "Timeline management",
+                    "Sound effects",
+                    "Transitions",
+                    "Colour grading",
+                    "Quality of the Output"
+                ],
                 "Time allotted will be announced according to the Video providing and the by checking the rendering speed of the PC’s provided.",
                 "Participants should Render the Video and the final output should be ready within the time limit.",
                 "Organizers will examine the final Timeline of the Video.",
@@ -446,7 +450,6 @@
                 "Second Attempt: any robot that loses the line course and fails to reacquire it will be allowed a single reattempt. The robot must start the course again from the beginning, and if it loses the line course on its second attempt it will be disqualified.",
                 "Course Specifications: The line following course shall traverse a white paper rectangle, 44” wide and 96” long. The line shall be a black, 1/2” wide line traversing the arena from end to end. There shall be no crossovers (e.g. places where the line crosses itself). Switchbacks and hairpins are possible, but the adjacent sections of the line shall be no closer together than 15cm when measured from the center of each line. The line course shall have 1 or more sharp right-angle, but no angle will be greater than 90 degrees.",
                 "The Decision of the event coordinators (staff and students) will be final."
-
             ],
             "students": [
                 {
@@ -518,7 +521,18 @@
             "time": "1PM to 4PM",
             "venue": "S1 CSA",
             "desc": "This event is to find a team with the best knowledge about computer hardware and its connections. This event will showcase team work, time management and organization capability.",
-            "rules": "This is a team event of 2 participants. First round includes a quiz section regarding the computer hardware. Those who clear round 1 will be going for the second round which will be the assembling round. The challenge given to the team is to assemble a dismantled computer CPU and bring it back to normal condition. At ﬁrst the CPU is given to the team completely dismantled. Each team have to assemble it correctly within time limit. The team which complete the assembling in a shorter time will be the winners. The tools required for assembling will be provided to each team (only one screwdriver for each team). The participants should not damage any parts especially the processors. The participants will not be given any trials or practice session before the event. The Decision of the event coordinators (staff and students) will be final.",
+            "rules": ["General rules of  ASHWAMEDHA ’19 is applicable for this event.",
+            "This is a team event of 2 participants.",
+            "First round includes a quiz section regarding the computer hardware.",
+            "Those who clear round 1 will be going for the second round which will be the assembling round.",
+            "The challenge given to the team is to assemble a dismandled  computer CPU and bring it back to normal condition.",
+            "At ﬁrst the cpu is given to the team completely dismandled.",
+            "Each team have to assemble it correctly within time limit.",
+            "The team which complete the assembling in a shorter time will be the winners.",
+            "The tools required for assembling will be provided to each team. (only one screwdriver for each team).",
+            "The participants should not damage any parts  especially the processors.",
+            "The participants will not be given any trials or practice session before the event.",
+            "The Decision of the event coordinators (staff and students) will be final."],
             "students": [
                 {
                     "name": "Abhishek Prasanth",
@@ -538,7 +552,7 @@
                     "name": "Mr. Sumesh S Menon"
                 }
             ]
-        }, 
+        },
         {
             "name": "IOT WORKSHOP",
             "price": "Rs.250 per head",
@@ -574,7 +588,7 @@
                     "mob": "+918547152491"
                 }
             ]
-        },  
+        },
         {
             "name": "JUST A MINUTE (JAM)",
             "first": "Rs.2500",
@@ -596,14 +610,7 @@
                 "Offensive words should not be used.",
                 "Judges decision will be final.",
                 "Team must consist of two members.",
-                "Prelims will be conducted if there are more than four groups.",
-                "Judgment will be based on the perfection and similarity with the actual picture.",
-                "Arrangements of the materials should be according to the given provision.",
-                "Source of light will be given and fixed. ",
-                "External accessories are not allowed other than the given materials.",
-                "Time duration:",
-                ["Half an hour for discussions.",
-                "One hour for construction."]
+                "Prelims will be conducted if there are more than four groups."
             ],
             "students": [
                 {
@@ -629,16 +636,16 @@
             "first": "Rs.2000",
             "venue": "Online",
             "rules": [
-            	"Troll can be made on any software.",
-            	"The troll should be related to “ CAMPUS LIFE",
-            	"The troll should not contain any personal criticism/attack.",
-            	"The troll should be immaculate of obscenity.",
-            	"Trolls can either be in English/Malayalam.",
-            	"Original trolls created by individuals are only eligible for contest.",
-            	"Trolls should be watermarked as “KING OF TROLLS-ASHWAMEDHA 2K19”. ",
-            	"Only the entries shared to ashwamedha2k19@gmail.com within the time period are considered for competition.",
-            	"Evaluation criteria based on the number of liked on Instagram page of ‘Ashwamedha 2k19’.",
-            	"Time period for uploading the entries is up to 6:00Pm ,2nd November 2019."
+                "Troll can be made on any software.",
+                "The troll should be related to “ CAMPUS LIFE",
+                "The troll should not contain any personal criticism/attack.",
+                "The troll should be immaculate of obscenity.",
+                "Trolls can either be in English/Malayalam.",
+                "Original trolls created by individuals are only eligible for contest.",
+                "Trolls should be watermarked as “KING OF TROLLS-ASHWAMEDHA 2K19”. ",
+                "Only the entries shared to ashwamedha2k19@gmail.com within the time period are considered for competition.",
+                "Evaluation criteria based on the number of liked on Instagram page of ‘Ashwamedha 2k19’.",
+                "Time period for uploading the entries is up to 6:00Pm ,2nd November 2019."
             ],
             "students": [
                 {
@@ -650,7 +657,7 @@
                     "mob": "+919605807815"
                 }
             ]
-        },  
+        },
         {
             "name": "PROJECT R",
             "total": "10K",
@@ -660,23 +667,22 @@
             "venue": "MBA Seminar Hall",
             "desc": "Idea Presentation",
             "rules": [
-            	"A team of 3 members are mandatory can participate.", 
-            	"A team should be led by a mentor is needed for each team.", 
-            	"Keep Original and genuine ideas!",
-            	"Ideas of any genre are invited.",
-            	"Similar ideas can result in disqualification of the team which submitted next.",  
-            	"7 minute Presentation",
-            	"1 minute video",
-            	"3 minute business structuring", 
-            	"5 minute prototype display",
-            	"The event will be conducted in 3 Phases:",
-            	["Phase 1: The origin. The participants need to come up with a good idea for their project and send to  us a poster(as a visual representation)  and an abstract (a brief explanation) of the same via email. Good project ideas which are well presented shall be  selected.",
-            	"Phase 2: The propositional act. Participants who qualified phase 1 will now have to make a Presentation and  pitch it during Ashwamedha in front of judges who will decide the selection process.", 
-            	"Phase 3: The Actuation trial. Participants are asked to make a (possibly) working model of the project. Based  on the progress and the design, the best teams will be selected as winners. And a cash prize upto Rupees 10000 shall be awarded to them."
-            	],
-            	"The Decision of the event coordinators (staff and students) will be final."
-
-
+                "A team of 3 members are mandatory can participate.",
+                "A team should be led by a mentor is needed for each team.",
+                "Keep Original and genuine ideas!",
+                "Ideas of any genre are invited.",
+                "Similar ideas can result in disqualification of the team which submitted next.",
+                "7 minute Presentation",
+                "1 minute video",
+                "3 minute business structuring",
+                "5 minute prototype display",
+                "The event will be conducted in 3 Phases:",
+                [
+                    "Phase 1: The origin. The participants need to come up with a good idea for their project and send to  us a poster(as a visual representation)  and an abstract (a brief explanation) of the same via email. Good project ideas which are well presented shall be  selected.",
+                    "Phase 2: The propositional act. Participants who qualified phase 1 will now have to make a Presentation and  pitch it during Ashwamedha in front of judges who will decide the selection process.",
+                    "Phase 3: The Actuation trial. Participants are asked to make a (possibly) working model of the project. Based  on the progress and the design, the best teams will be selected as winners. And a cash prize upto Rupees 10000 shall be awarded to them."
+                ],
+                "The Decision of the event coordinators (staff and students) will be final."
             ],
             "students": [
                 {
@@ -696,7 +702,7 @@
                     "name": "Prof. REMYA V"
                 }
             ]
-        }, 
+        },
         {
             "name": "TECH ASSEMBLE",
             "first": "Rs.1500",
@@ -711,7 +717,7 @@
                 "A person alone cannot participate. ",
                 "If there are more than 4 groups, prelims would be conducted. ",
                 "There will be a preliminary round and final round. ",
-                "Time limit is decided according to the device given for reassembling.", 
+                "Time limit is decided according to the device given for reassembling.",
                 "Reassembling will be depended on the type of device provided. ",
                 "The Decision of the event coordinators (staff and students) will be final."
             ],
@@ -736,7 +742,7 @@
         },
         {
             "name": "TECHNOPHILE",
-            "first": "Rs.2000",
+            "first": "Rs.2500",
             "second": "Rs.1500",
             "price": "Rs.100 per head",
             "day": "Day 1",
@@ -744,15 +750,17 @@
             "venue": "S5 CSE/ADP Lab",
             "desc": "The event is to find an individual with best technical knowledge and skills. This event will showcase the participant’s technical talent.",
             "rules": [
+                "General rules of ASHWAMEDHA ’19 is applicable for this event.",
                 "This is an individual event.",
-                "First round includes the crossword puzzle followed by MCQs. This round may be based on socially as well as technically relevant topics.",
+                "First round includes MCQ Quiz. This round may be based on General Knowledge.",
+                "The second round is a technical crossword puzzle.",
                 "The students will be qualified to the next round based on a cut off from the average score calculated.",
-                "The shortlisted students will take part in a debate or group discussion. your communication skills and interpersonal skills will be assessed here.",
-                "The shortlisted students will take part in a circuit assembly and coding round. Here the technical skills of the students are tested.",
+                "The shortlisted students will take part in a circuit assembly and coding round. Here the core technical skills of the students are tested.",
                 "The students should assemble the circuit based on the given layout within the allotted time.",
-                "For the coding round the students should execute the code within given time and should clear all the test cases given.",
+                "For coding, the students should execute the code within given time and should clear all the test cases given.",
                 "The students who excel in all the rounds will be selected as the winner.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The results will be based on time taken to finish the given task.",
+                "The Decision of Judges will be final."
             ],
             "students": [
                 {
@@ -772,7 +780,7 @@
                     "name": "Joe Kurian"
                 }
             ]
-        }, 
+        },
         {
             "name": "TECHNOVITA",
             "first": "Rs.1000",
@@ -813,7 +821,7 @@
             ]
         },
         {
-            "name": "FAST FINGERS",
+            "name": "TRILOGY",
             "first": "Rs.4000",
             "second": "Rs.3000",
             "price": "Rs.100 per head",
@@ -852,7 +860,7 @@
                     "mob": "+919846670675"
                 }
             ]
-        }, 
+        },
         {
             "name": "TYPE RACER",
             "first": "Rs.1500",
@@ -896,9 +904,9 @@
             ]
         },
         {
-            "name": "OSCILLOART (Waveform Generation)",
+            "name": "Waveform Generation",
             "sub": "Think. Create. Make it.",
-            "first": "Rs.1500",
+            "first": "Rs.1700",
             "second": "Rs.500",
             "price": "Rs.100 per head",
             "day": "Day 1",
@@ -935,7 +943,7 @@
                     "mob": "+919947337135"
                 }
             ]
-        }, 
+        },
         {
             "name": "Zoom_ IN Zoom_ OUT",
             "first": "Rs.1500",
@@ -974,6 +982,6 @@
                     "name": "Sumathy M V"
                 }
             ]
-        }               
+        }
     ]
 }
