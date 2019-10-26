@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url(../docs/oswald/Oswald-Regular.ttf) format('ttf');
+}
+
 body, html {
     margin: 0px;
     overflow-x: hidden;
