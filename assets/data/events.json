@@ -978,6 +978,44 @@
                     "name": "Sumathy M V"
                 }
             ]
+        },
+        {
+            "name": "OSCILLOART",
+            "first": "Rs.1000",
+            "second": "Rs.500",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "POWER ELECTRONICS LAB EEE",
+            "desc": "In this event the teams are instructed to create specific shapes on a CRO by connecting suitable circuit made by the given components.",
+            "rules": [
+                    "A team of maximum 2 members can participate.",
+                    "Components will be provided.",
+                    "Event is divided into two levels.",
+                    "Preliminary round – general technical MCQ quiz with a time slot of 20mins.",
+                    "Only 4 teams are selected to the final round.",
+                    "Failure to complete the circuit within the time limit will lead to elimination.",
+                    "Any Event rules can be changed or updated accordingly and will be informed by the coordinators.",
+                    "The Decision of the event coordinators (staff and students) will be final."
+            ],
+            "students": [
+                {
+                    "name": "HARISREE",
+                    "mob": "+917510132875"
+                },
+                {
+                    "name": "SREEJITH",
+                    "mob": "+917012351219"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "NAYANA J"
+                },
+                {
+                    "name": "REMYA VARGHESE"
+                }
+            ]
         }
     ]
 }
