@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Oswald';
-    src: url(../docs/oswald/Oswald-Regular.ttf) format('ttf');
+    src: url('../docs/oswald/Oswald-Regular.ttf');
 }
 
 body, html {
