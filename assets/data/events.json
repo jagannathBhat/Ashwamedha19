@@ -22,7 +22,7 @@
             ],
             "students": [
                 {
-                    "name": "Jagannath U",
+                    "name": "Jagannath Umeshan",
                     "mob": "+919400754215"
                 },
                 {
@@ -56,20 +56,12 @@
             "venue": "Analog Communication Lab(EC Lab)",
             "desc": "Presenting Electronic Debugging, where the ECE geeks bring out their debugging powers. The target of the team is to locate the faults and fix them successfully within time limit.",
             "rules": [
-                "A team of maximum three participants can contest for this event.",
-                "The event has three rounds which test your circuit debugging skills.",
-                [
-                    "Round 1 : 10 general aptitude and 10 simple electronics related questions.",
-                    "Time allotted: 30 min.",
-                    "Round 2 : Participants selected to second round will be given 5 digital and 5 analogue electronics questions and they are supposed to identify the fault and rectify the circuit.",
-                    "Time allotted: 45 minutes",
-                    "Round 3: Participants selected for this round will be given a hardware circuit either digital or analogue. Faults in the circuit must be identified to get the corrected output. ",
-                    "Time allotted : 2 hours"
-                ],
-                "Failure to complete any of the round within the time limit leads to elimination.",
-                "The decision of judges and event coordinators shall be treated as final and binding to all.",
-                "A basic knowledge of digital and analogue circuitry is necessary.",
-                "All the components and material required for the circuit will be provided by us."
+                "All the students and participants entering the college premises should bring their collage id cards, Participation or stay in the campus during ASHWAMEDHA 2K19 shall not be allowed without the same. ",
+                "Cross college teams are allowed. ",
+                "Entry permitted to the students of Engineering colleges and MBA colleges(affiliated to KTU). ",
+                "Participants arriving at the campus should confirm their participation at the registration counter. ",
+                "The participation registration fee is as mentioned in the respective event rules ",
+                "Participants who wish to avail accommodation will be provided only if informed before two days."
             ],
             "students": [
                 {
@@ -194,7 +186,6 @@
                     "(Blind Code)Participants need to type the code in TURBO C with MONITORS SWITCHED OFF in particular time limit. Mouse will also be detached.",
                     "Winners will be announced based on the results of compilation and execution."
                 ],
-                "Shortlisted participants of Round I will appear for Round II and Shortlisted participants of Round II will appear for Round III for which above rules will be applicable.",
                 "In case of tie then timing and no. of errors will be considered.",
                 "The Decision of the event coordinators (staff and students) will be final."
             ],
@@ -283,7 +274,12 @@
             "time": "1PM to 4PM",
             "venue": "EC Lab",
             "desc": "Project the given figure using shadow of provided materials.",
-            "rules": "Team must consist of two members. Prelims will be conducted if there are more than four groups. Judgment will be based on the perfection and similarity with the actual picture. Arrangements of the materials should be according to the given provision. Source of light will be given and fixed. External accessories are not allowed other than the given materials. Time duration: Half an hour for discussions. One hour for construction.",
+            "rules": ["Team must consist of two members.",
+                "Prelims will be conducted if there are more than four groups.",
+                "Judgment will be based on the perfection and similarity with the actual picture.", "Arrangements of the materials should be according to the given provision.",
+                "Source of light will be given and fixed.",
+                "External accessories are not allowed other than the given materials.",
+                "Time duration: Half an hour for discussions. One hour for construction."],
             "students": [
                 {
                     "name": "Gayathri G Shenoy",
@@ -476,13 +472,12 @@
         },
         {
             "name": "GOOGLE MARATHON",
-            "first": "Rs.2500",
-            "second": "Rs.1500",
-            "price": "Rs.100 per head",
+            "prize": "Rs.3K",
+            "price": "Rs.150 per head",
             "day": "Day 2",
             "time": "10AM to 4PM",
             "venue": "PL Lab",
-            "desc": "The event is to find an individual with analytical skills. This event will showcase a teams searching talent.",
+            "desc": "To All Those Great Explorers Who Knows To Grab Information Within A Few Clicks ! Are u great at searching ,browsing and exploring through the website that connects all other websites? The one which connects about 1 million users !!! Yes ...Google !! ASHWAMEDHA'19 the national level technical fest of Adishankara Institute of Engineering and Technology gives you the  ground to show case your browsing and exploring talent through the web at its beat down event called the 'Google Marathon'.",
             "rules": [
                 "This is a team event of 2 members.",
                 "Team should consist of 2 participants only.",
@@ -496,11 +491,11 @@
             "students": [
                 {
                     "name": "Manu Mathew Cherian",
-                    "mob": "+9194967554302"
+                    "mob": "+919496755430"
                 },
                 {
                     "name": "Gokul Deep A",
-                    "mob": "+918129765962"
+                    "mob": "+918129765692"
                 }
             ],
             "faculty": [
@@ -521,18 +516,20 @@
             "time": "1PM to 4PM",
             "venue": "S1 CSA",
             "desc": "This event is to find a team with the best knowledge about computer hardware and its connections. This event will showcase team work, time management and organization capability.",
-            "rules": ["General rules of  ASHWAMEDHA ’19 is applicable for this event.",
-            "This is a team event of 2 participants.",
-            "First round includes a quiz section regarding the computer hardware.",
-            "Those who clear round 1 will be going for the second round which will be the assembling round.",
-            "The challenge given to the team is to assemble a dismandled  computer CPU and bring it back to normal condition.",
-            "At ﬁrst the cpu is given to the team completely dismandled.",
-            "Each team have to assemble it correctly within time limit.",
-            "The team which complete the assembling in a shorter time will be the winners.",
-            "The tools required for assembling will be provided to each team. (only one screwdriver for each team).",
-            "The participants should not damage any parts  especially the processors.",
-            "The participants will not be given any trials or practice session before the event.",
-            "The Decision of the event coordinators (staff and students) will be final."],
+            "rules": [
+                "General rules of  ASHWAMEDHA ’19 is applicable for this event.",
+                "This is a team event of 2 participants.",
+                "First round includes a quiz section regarding the computer hardware.",
+                "Those who clear round 1 will be going for the second round which will be the assembling round.",
+                "The challenge given to the team is to assemble a dismandled  computer CPU and bring it back to normal condition.",
+                "At ﬁrst the cpu is given to the team completely dismandled.",
+                "Each team have to assemble it correctly within time limit.",
+                "The team which complete the assembling in a shorter time will be the winners.",
+                "The tools required for assembling will be provided to each team. (only one screwdriver for each team).",
+                "The participants should not damage any parts  especially the processors.",
+                "The participants will not be given any trials or practice session before the event.",
+                "The Decision of the event coordinators (staff and students) will be final."
+            ],
             "students": [
                 {
                     "name": "Abhishek Prasanth",
@@ -660,7 +657,7 @@
         },
         {
             "name": "PROJECT R",
-            "total": "10K",
+            "prize": "10K",
             "price": "Rs. 100 for IEEE CS (Promo code: IEEE60)\nRs. 130 for IEEE (Promo code: IEEE30)\nRs. 160 for Non-IEEE",
             "day": "Day 2",
             "time": "10AM to 4PM",
