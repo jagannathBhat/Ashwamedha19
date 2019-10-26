@@ -560,7 +560,7 @@
             "rules": [
                 "The students attending the workshop don’t require any pre-knowledge in programming.",
                 "All the requirements necessary for the workshop will be provided by the college.",
-                "Participants are requested to carry a USB charger within them while attending the workshop.",
+                "Participants are requested to carry a USB charger with them while attending the workshop.",
                 "Students participating will be grouped as a team of 5.",
                 "Individual participants are also been considered, will assign a team.",
                 "The team will be responsible for damaging any of the components and if found any damage additional fees will be remitted from the team."
@@ -658,7 +658,7 @@
         {
             "name": "PROJECT R",
             "prize": "10K",
-            "price": "Rs. 100 for IEEE CS (Promo code: IEEE60)\nRs. 130 for IEEE (Promo code: IEEE30)\nRs. 160 for Non-IEEE",
+            "price": "Rs. 100 for IEEE CS (Promo code: IEEE60)\nRs. 130 for IEEE (Promo code: IEEE30)\nRs. 150 for Non-IEEE",
             "day": "Day 2",
             "time": "10AM to 4PM",
             "venue": "MBA Seminar Hall",
@@ -739,8 +739,7 @@
         },
         {
             "name": "TECHNOPHILE",
-            "first": "Rs.2500",
-            "second": "Rs.1500",
+            "first": "Rs.3000",
             "price": "Rs.100 per head",
             "day": "Day 1",
             "time": "9:30AM to 1PM",
