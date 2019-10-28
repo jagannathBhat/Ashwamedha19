@@ -1,4 +1,4 @@
-let CACHE_NAME = 'ashwamedha19-cache-v1'
+let CACHE_NAME = 'ashwamedha19-cache-v3'
 let urlsToCache = [
     '/',
     '/assets/css/style.css',
@@ -7,7 +7,8 @@ let urlsToCache = [
     '/assets/docs/ashwamedha19rules.pdf',
     '/assets/docs/oswald/Oswald-Regular.ttf',
     '/assets/image/bgbw.png',
-    '/assets/image/stuntbg.jpg'
+    '/assets/image/stuntbg.jpg',
+    '/assets/image/bmwbg.jpg'
 ]
 
 self.addEventListener('install', event => {
@@ -30,5 +31,17 @@ self.addEventListener('fetch', event => {
         }).catch(() => {
             return caches.match(event.request)
         })
+    )
+})
+
+self.addEventListener('activate', event => {
+    event.waitUntil(
+        caches.keys().then(
+            cacheNames => Promise.all(
+                cacheNames.filter(cacheName => true).map(
+                    cacheName => caches.delete(cacheName)
+                )
+            )
+        )
     )
 })
