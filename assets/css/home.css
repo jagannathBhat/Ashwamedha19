@@ -1,3 +1,8 @@
+::selection {
+    background: #fff;
+    color: #000;
+}
+
 body {
     background-color: #000000cc;
     color: #fff;
@@ -123,7 +128,7 @@ html {
     margin-right: 36px;
 }
 
-#stunt {
+#stunt, #bmw {
     background: #000 url(../image/stuntbg.jpg) center 18%/cover no-repeat;
     background-attachment: fixed;
     display: table;
@@ -131,7 +136,12 @@ html {
     width: 100%;
 }
 
-#stunt div {
+#bmw {
+    background: #000 url(../image/bmwbg.jpg) center/cover no-repeat;
+    background-attachment: fixed;
+}
+
+#stunt div, #bmw div {
     background-color: #000000aa;
     display: table-cell;
     text-align: center;
@@ -221,16 +231,17 @@ html {
     background: #ffffffdd;
     border: 0px;
     color: #000;
-    margin: 48px 0px;
+    margin: 48px 0px 12px 0px;
     padding: 12px;
+}
+
+.small {
+    font-size: 16px;
+    margin-top: 0px;
 }
 
 #aboutASIET h5 {
     margin-bottom: 12px;
-}
-
-#aboutASIET p {
-    font-size: 24px;
 }
 
 #map {
@@ -295,7 +306,7 @@ html {
         margin-top: 60px;
     }
     #buyTickets button {
-        margin: 60px 0px;
+        margin: 60px 0px 12px 0px;
     }
 }
 
@@ -360,7 +371,7 @@ html {
         margin-top: 72px;
     }
     #buyTickets button {
-        margin: 72px 0px;
+        margin: 72px 0px 12px 0px;
     }
 }
 
