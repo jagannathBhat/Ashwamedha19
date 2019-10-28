@@ -1,0 +1,36 @@
+{
+    "name": "",
+    "sub": "",
+    "first": "",
+    "second": "",
+    "third": "",
+    "prize": "",
+    "price": "",
+    "day": "",
+    "time": "",
+    "venue": "",
+    "desc": "",
+    "rules": [
+        ""
+    ],
+    "students": [
+        {
+            "name": "",
+            "mob": ""
+        },
+        {
+            "name": "",
+            "mob": ""
+        }
+    ],
+    "faculty": [
+        {
+            "name": "",
+            "mob": ""
+        },
+        {
+            "name": "",
+            "mob": ""
+        }
+    ]
+}

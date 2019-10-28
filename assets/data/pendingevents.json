@@ -1,0 +1,86 @@
+{
+    "events": [
+        {
+            "name": "Waveform Generation",
+            "sub": "Think. Create. Make it.",
+            "first": "Rs.1700",
+            "second": "Rs.500",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "Circuits Lab ECE",
+            "desc": "Your mission is to create a waveform in the CRO by using given components. The “Oscilloart” measures your creativity,and how faster you will accomplish the given task, in the given time slot.",
+            "rules": [
+                "A team of maximum 2 members can participate.",
+                "The components will be provided.",
+                "Final decision will be taken by judges.",
+                "Any of the rule stated above can be changed or updated by the event coordinates and will be informed."
+            ],
+            "students": [
+                {
+                    "name": "M R Harshitha",
+                    "mob": "+917025572149"
+                },
+                {
+                    "name": "Linsa Mary Varghese",
+                    "mob": "+919207572524"
+                },
+                {
+                    "name": "Sai Sree D",
+                    "mob": "+917025144835"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Prajeesh P A",
+                    "mob": "+919946528300"
+                },
+                {
+                    "name": "Prof. Arya Paul",
+                    "mob": "+919947337135"
+                }
+            ]
+        },
+        {
+            "name": "Waveform Generation",
+            "sub": "Think. Create. Make it.",
+            "first": "Rs.1700",
+            "second": "Rs.500",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "Circuits Lab ECE",
+            "desc": "Your mission is to create a waveform in the CRO by using given components. The “Oscilloart” measures your creativity,and how faster you will accomplish the given task, in the given time slot.",
+            "rules": [
+                "A team of maximum 2 members can participate.",
+                "The components will be provided.",
+                "Final decision will be taken by judges.",
+                "Any of the rule stated above can be changed or updated by the event coordinates and will be informed."
+            ],
+            "students": [
+                {
+                    "name": "M R Harshitha",
+                    "mob": "+917025572149"
+                },
+                {
+                    "name": "Linsa Mary Varghese",
+                    "mob": "+919207572524"
+                },
+                {
+                    "name": "Sai Sree D",
+                    "mob": "+917025144835"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Prajeesh P A",
+                    "mob": "+919946528300"
+                },
+                {
+                    "name": "Prof. Arya Paul",
+                    "mob": "+919947337135"
+                }
+            ]
+        }
+    ]
+}
