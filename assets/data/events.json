@@ -1,6 +1,216 @@
 {
     "events": [
         {
+            "name": "ARCHIEMANIA",
+            "first": "4000",
+            "second": "2000",
+            "price": "150 Rs per head",
+            "day": "Day 2",
+            "time": "10AM-12PM",
+            "venue": "IN FRONT OF GT LAB",
+            "desc": "Let’s gather some bricks and mortar. Wait not for a wall but for one of the fabulous structure in civil engineering...\"ARCH\".",
+            "rules": [
+                "Event is open for students from any engineering branch.",
+                "Participants should report at least half an hour prior to the event schedule. ",
+                "There are 2 rounds and the first round will be a prelim.",
+                "Only top five teams will be selected into the second round",
+                "Materials needed for the competition will be provided by the college.",
+                "Each group can have minimum of 2 and maximum of 4 members",
+                "Use of mobile phones is strictly prohibited.",
+                "The decision of the judges will be final."
+            ],
+            "students": [
+                {
+                    "name": "JESVIN",
+                    "mob": "+918281829705"
+                },
+                {
+                    "name": "AISWARYA",
+                    "mob": "+919526905455"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "PROF.ANN MARY"
+                },
+                {
+                    "name": "SUNITHA MISS"
+                }
+            ]
+        },
+        {
+            "name": "ARKIO",
+            "first": "4000",
+            "second": "2000",
+            "price": "150 Rs per head",
+            "day": "Day 2",
+            "time": "10AM- 1PM",
+            "venue": "S3 CIVIL",
+            "desc": "Roll up your imaginations into reality, and make a structure beautiful and attractive which can take the highest load!",
+            "rules": [
+                "Type of civil engineering structure to be designed will be given 10 minutes before the commencement of event.",
+                "Team size :2 students per team",
+                "Time duration: 2hours",
+                "Materials",
+                [
+                    "Use popsicle sticks provided.",
+                    "Maximum number of sticks provided will be 100",
+                    "Adhesives, scissors and popsicle sticks will be provided before the commencement of the event."
+                ],
+                "Sticks can be physically altered by cutting or notching at an angle using scissors.",
+                "Use of any item other than specified are not allowed to use and will lead to disqualification",
+                "Specification of the structure will be provided 10 minutes before the commencement of event.",
+                "Judging will be based on aesthetics, dimensions, deformation, load carrying capacity, and self weight.",
+                "The decision of judges will be final.",
+                "The event is open for all engineering students and students from KTU affiliated MBA colleges.",
+                "Note - In case of more than 5 registrations, preliminary round consisting of a quiz will be conducted."
+            ],
+            "students": [
+                {
+                    "name": "JOYAL K GEORGE",
+                    "mob": "+918113803381"
+                },
+                {
+                    "name": "NAINA C JESSIAN",
+                    "mob": "+917902445261"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "PROF. LAKSHMI"
+                },
+                {
+                    "name": "SATI MISS"
+                }
+            ]
+        },
+        {
+            "name": "BATTLE OF TENDERS",
+            "first": "4000",
+            "second": "2000",
+            "price": "150 Rs per head",
+            "day": "Day 2",
+            "time": "11AM-1PM",
+            "venue": "GT2 LAB",
+            "desc": "Use of planning skill and its estimation with \"BATTLE OF TENDERS\"",
+            "rules": [
+                "The event is civil based.",
+                "Team entries are not allowed. ",
+                "Use of materials other than provided ones will lead to disqualification.",
+                "A prelims may be conducted if the no. of participants are more  than 6–technical quiz based on general aptitude and engineering knowledge.",
+                "In that case only the members who qualify for the prelims will be allowed to participate further. ",
+                "The valuation of the event will be based on –innovative ideas in planning and its estimation.",
+                "The decision of the judges will be final."
+            ],
+            "students": [
+                {
+                    "name": "EMILY BENNY",
+                    "mob": "+918281886490"
+                },
+                {
+                    "name": "SRUTHY SUNILKUMAR",
+                    "mob": "+919947401048"
+                },
+                {
+                    "name": "ANJANA",
+                    "mob": "+918304855370"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "PROF. SHABNUM SUHARA"
+                },
+                {
+                    "name": "PROF. CHITHRA"
+                }
+            ]
+        },
+        {
+            "name": "BEST ENGINEER",
+            "first": "2500",
+            "second": "1500",
+            "price": "Rs.200 per head",
+            "day": "Day 2",
+            "time": "9:30AM to 1PM",
+            "venue": "Mechanical department and respective labs",
+            "desc": "The event is to find an individual with best technical knowledge and skills. This event will showcase the participant’s technical talent. This event consist of 3 rounds: First Round: MCQ Quiz, Second Round: Practical Round, Third Round: Technical stress interview Round",
+            "rules": [
+                "This is an individual event.",
+                "The event has 3 rounds.",
+                "First round includes  MCQ Quiz. This round may be based on socially as well as technically relevant topics.",
+                "The students will be qualified to the next round based on a cut off from the average score calculated.",
+                "Second Round, The shortlisted students will take part in a practice round in their respective labs. your technical  skills will be assessed here.",
+                "Third round, The shortlisted students will take part in a technical stress interview round. Here the technical skills of the students are tested.",
+                "The students will be graded based on their performance by experts.",
+                "The Winners will be selected based on their performance in all the rounds.",
+                "The decision of the judges will be final."
+            ],
+            "students": [
+                {
+                    "name": "Sreeram R",
+                    "mob": "8075591896"
+                },
+                {
+                    "name": "Samduth Santhosh",
+                    "mob": "8075496809"
+                },
+                {
+                    "name": "Varghese Paul",
+                    "mob": "7025825986"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Dr. Kiran Joy"
+                },
+                {
+                    "name": "Prof. Tony K P"
+                }
+            ]
+        },
+        {
+            "name": "CELL PROBE",
+            "first": "Rs.3000",
+            "second": "Rs.2000",
+            "price": "Rs.150 per head",
+            "day": "Day 1",
+            "time": "Full Day",
+            "venue": "Seminar Hall",
+            "desc": "The event is to find an individual with good knowledge regarding smartphones.",
+            "rules": [
+                "This is an individual event.",
+                "All the BTech Students can participate.",
+                "The decision of organizing panel is considered absolute in all manners.",
+                "The event consists of 2 rounds.",
+                "In the first round, participants will be provided with a Smartphone and are allowed to review it for 3-5 mins.",
+                "Shortlisted Participants will be entering Round 2.",
+                "Second Round consists of Blindfolded Identification of the phone.",
+                "In the end, Tiebreaker may consist of certain questions related to the former sessions.",
+                "The Winner will be declared on the basis of Cumulative Score",
+                "The decision of the judges will be final."
+            ],
+            "students": [
+                {
+                    "name": "Sachin A",
+                    "mob": "+919745957302"
+                },
+                {
+                    "name": "Namita Mary Wilson",
+                    "mob": "+919188426070"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Raghi R Menon",
+                    "mob": "+919961113367"
+                },
+                {
+                    "name": "Prof. Albins Paul",
+                    "mob": "+919495129696"
+                }
+            ]
+        },
+        {
             "name": "CIRCUIT BOMB",
             "sub": "tic...tic...tic (KEEP THE EYE NOBODY EXPLODES)",
             "first": "Rs.2000",
@@ -14,7 +224,7 @@
                 "A team of maximum 3 members can participate.",
                 "The required components will be provided.",
                 "Event is divided into 2 rounds",
-                "1st round/ prelims: quiz with a time limit of 20mins. (general technical MCQ  questions )",
+                "1st round/ prelims: a quiz with a time limit of 20mins. (general technical MCQ  questions )",
                 "Only 3 teams will be selected to the final round.",
                 "Maximum 3 chances will be provided to check the code in the given time.",
                 "Failure to complete the code within the time limit leads to elimination.",
@@ -46,50 +256,60 @@
             ]
         },
         {
-            "name": "ELECTRONIC DEBUGGING",
-            "sub": "If you didn’t fix it, It ain’t fixed!",
-            "first": "Rs.2000",
-            "second": "Rs.1000",
-            "price": "Rs.150 per team (50 per head)",
+            "name": "CIVIL EXPO",
+            "first": "6000",
+            "second": "4000",
+            "price": "250 Rs per head",
             "day": "Day 1",
-            "time": "1:30PM to 5PM ",
-            "venue": "Analog Communication Lab(EC Lab)",
-            "desc": "Presenting Electronic Debugging, where the ECE geeks bring out their debugging powers. The target of the team is to locate the faults and fix them successfully within time limit.",
+            "time": "10AM-4PM",
+            "venue": "SURVEY LAB",
+            "desc": "Civil engineering structures that are made by the participants are exhibited and are evaluated on the basis of criteria’s that are given under.",
             "rules": [
-                "All the students and participants entering the college premises should bring their collage id cards, Participation or stay in the campus during ASHWAMEDHA 2K19 shall not be allowed without the same. ",
-                "Cross college teams are allowed. ",
-                "Entry permitted to the students of Engineering colleges and MBA colleges(affiliated to KTU). ",
-                "Participants arriving at the campus should confirm their participation at the registration counter. ",
-                "The participation registration fee is as mentioned in the respective event rules ",
-                "Participants who wish to avail accommodation will be provided only if informed before two days."
+                "Individual and team participation are allowed.",
+                "Each team should also present a poster explaining the model. Marks are awarded for the posters displayed.",
+                "There will be no separate prizes for working models and still models. Criteria is set accordingly.",
+                "Criteria for Still Models",
+                [
+                    "Aesthetics - 50%",
+                    "Practicality - 10%",
+                    "Materials Used- 10%",
+                    "Civil Engineering Value - 20%",
+                    "Poster - 10%"
+                ],
+                "Criteria for working models",
+                [
+                    "Practicality - 50%",
+                    "Aesthetics - 10%",
+                    "Materials Used - 10%",
+                    "Civil Engineering Value - 20%",
+                    "Poster – 10%"
+                ],
+                "The decisions of the judges will be final."
             ],
             "students": [
                 {
-                    "name": "Arya S Nair ",
-                    "mob": "+916238155017"
+                    "name": "ROBIN BENNY",
+                    "mob": "+919496401349"
                 },
                 {
-                    "name": "Annette Joy",
-                    "mob": "+918281625471"
-                },
-                {
-                    "name": "Anagha Sanakan",
-                    "mob": "+918113819500"
+                    "name": "BESTO BABICHAN",
+                    "mob": "+919496358748"
                 }
             ],
             "faculty": [
                 {
-                    "name": "Asst. Prof. Divya V Chandran",
-                    "mob": "+919809639849"
+                    "name": "PROF. HARSHANANDHA"
                 },
                 {
-                    "name": "Asst. Prof. Archana Aniyan",
-                    "mob": "+919446944885"
+                    "name": "PROF. NITHA"
+                },
+                {
+                    "name": "MANI SIR"
                 }
             ]
         },
         {
-            "name": "CONCEPT ART(On spot photoshop)",
+            "name": "CONCEPT ART (On spot photoshop)",
             "first": "Rs.2500",
             "second": "Rs.1000",
             "price": "Rs.150 per head",
@@ -98,16 +318,16 @@
             "venue": "ADP Lab",
             "desc": "The event is to find an individual’s  creativity. This event will showcase the participant’s skills in photoshop.",
             "rules": [
-                "Its an individual event.",
-                "Software's will be provided (photoshop and  light room).",
+                "It's an individual event.",
+                "Software's will be provided (photoshop and lightroom).",
                 "20 stock images will be provided",
                 "Participants can't take images from any other sources",
                 "Time limit will be 2 hr 30 min",
                 "Event is about taking min 6 images and make the required  editing to create a meaningful image",
                 "Participants are prohibited from using any external filters other than the inbuilt filters in software",
-                "If any means of crash occurs to the software, the organisers won't be responsible so we request the participants to save the psd file in between editing.",
-                "Judgment will based on the creativeness, concept, effects and light used.",
-                "The decision of the event coordinators (staff and students) will be final."
+                "If any means of crash occurs to the software, the organizers won't be responsible so we request the participants to save the PSD file in between editing.",
+                "Judgment will be based on the creativeness, concept, effects, and lightly used.",
+                "The decision of the judges will be final."
             ],
             "students": [
                 {
@@ -130,6 +350,47 @@
             ]
         },
         {
+            "name": "CONSILIUM",
+            "first": "4000",
+            "second": "2000",
+            "price": "150 Rs per head",
+            "day": "Day 2",
+            "time": "10AM-1PM",
+            "venue": "CE LIBRARY",
+            "desc": "A technical event of town planning. Various adhverse conditions are given &participants ability to plan in a greener way is evaluted.",
+            "rules": [
+                "The general rules of ASHWAMEDHA  2K19  is applicable to this event",
+                "Only team entries are eligible.",
+                "A team shall consist of max 3 persons.",
+                "The participants will be given a blank sheet of paper for the sketching the town based on a theme given.",
+                "The event will be judged on the basis of neatness of the drawing, innovative ideas for sustainability, special features and also on how the plan is presented.",
+                "The decisions of the judges will be final.",
+                "If  there is more than 5 team, preliminary test will be conducted."
+            ],
+            "students": [
+                {
+                    "name": "DIVYA",
+                    "mob": "+919847396174"
+                },
+                {
+                    "name": "EVEENA",
+                    "mob": "+918848829955"
+                },
+                {
+                    "name": "VISHNU KS",
+                    "mob": "+918921347503"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "PROF. REEMA"
+                },
+                {
+                    "name": "KRISHNA MISS"
+                }
+            ]
+        },
+        {
             "name": "CROSSWORD",
             "first": "Rs.1000",
             "price": "Rs.100 per team",
@@ -144,8 +405,8 @@
                 "Time within which crossword should be completed will be announced at the time of the event.",
                 "Only one team at a time will be allowed in the room to complete the crossword.",
                 "All the teams not able to complete the crossword within the given time, the team with most correct answers will be the winners.",
-                "In case of a tie the decision will be made by the judges on the tie breaker.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "In case of a tie the decision will be made by the judges on the tiebreaker.",
+                "The decision of the judges will be final."
             ],
             "students": [
                 {
@@ -178,16 +439,16 @@
             "rules": [
                 "This is an individual event.",
                 "The compiler provided will be Turbo c.",
-                "This event consists of three rounds :",
+                "This event consists of three rounds:",
                 [
-                    "1st Round (Logic) : Aptitude and Programming level questions will be given ,in which participants will have to answer problems based on c language. Selected participants will step into the next round.",
-                    "2nd Round (Run) : Problem statement is given to participants, they should have to execute the code in particular time limit with no errors.",
-                    "3rd Round : Only problem statement will be provided.",
-                    "(Blind Code)Participants need to type the code in TURBO C with MONITORS SWITCHED OFF in particular time limit. Mouse will also be detached.",
+                    "1st Round (Logic): Aptitude and Programming level questions will be given ,in which participants will have to answer problems based on c language. Selected participants will step into the next round.",
+                    "2nd Round (Run): the Problem statement is given to participants, they should have to execute the code in particular time limit with no errors.",
+                    "3rd Round: Only problem statement will be provided.",
+                    "(Blind Code)Participants need to type the code in TURBO C with MONITORS SWITCHED OFF in a particular time limit. Mouse will also be detached.",
                     "Winners will be announced based on the results of compilation and execution."
                 ],
                 "In case of tie then timing and no. of errors will be considered.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The decision of the judges will be final."
             ],
             "students": [
                 {
@@ -210,57 +471,118 @@
             ]
         },
         {
-            "name": "DRONE RACE",
-            "sub": "SET THE AIR ON FIRE",
-            "first": "Rs.12000",
-            "second": "Rs.5000",
-            "third": "Rs.3000",
-            "price": "Rs.500 per team",
-            "day": "Day 1",
-            "time": "1:30PM to 5PM",
-            "venue": "Ground",
-            "desc": "The race comprises of 2 rounds. The first round tests the time of flight of all participating drones in the race pit and the best 5 will pass to the final round which is a head-on competition were the fastest flier will bag the prize.",
+            "name": "ELECTRA HUNT",
+            "first": "3000",
+            "price": "200 Rs per team",
+            "day": "Day 2",
+            "time": "10AM-4PM",
+            "venue": "Power Electronics Lab EEE, EEE Seminar Hall, S1 ME Classroom (B)",
             "rules": [
-                "Each team can have a maximum of 2 members.",
-                "Each team should bring their own drone. ",
-                "Drones should be in good condition.",
-                "The drone should be in the range of 45-70cm in diameter.",
-                "The drone must not be automated and must be controlled manually.",
-                "Pilots will carry a minimum of 2 batteries.",
-                "Pilots will carry their own battery chargers, charging points would be provided.",
-                "Pilots should bring their own soldering and other materials.",
-                "Pilots are allowed to bring their own launch pads to races.",
-                "All frames must pass a safety and airworthiness inspection. Once the airframe has been checked and approved, it must not be modified or changed, or it will need to be re-inspected.",
-                "Pilots will only use the circular antenna on quads and antenna must be in good condition.",
-                "Pilots must adhere to all rules within the competition venue, and will not fly in any other part of the venue unless it is a designated flight zone.",
-                "Pilots must arrive at the venue with their complete setup 1 hour before the official race time and must be in complete READY-TO-GO state 15 mins before race time.",
-                "Pilots will NOT be given any practice sessions during the 15 mins before the race starts. Pilots who are not in READY-TO-GO state 15 mins prior to race time will be disqualified from participating in the race.",
-                "Participants have to control their drone and cross the obstacles in the path and complete the circuit.",
-                "Pilots will be given maximum of 3 chances in the Qualifier Rounds, by which pilots have to record their best lap time. In that 1 round is mandatory while 2 rounds are optional if the pilot is happy with his/her lap time in any of the 3 rounds max.",
-                "Top X number of pilots (where X is dependent upon the number of attending pilots) based on their fastest time set in the Qualifiers will proceed to the final Round. ",
-                "Once pilots have successfully completed all laps, they must return to the start/finish pad, land and DISARM.",
-                "Pilots that have crashed at any point during their race, are unable to resume racing, must DISARM their aircraft and wait until all aircraft have landed to retrieve their aircraft.",
-                "Participants should follow the instructions. If anyone fails , they will be disqualified from the event.",
-                "The decision of the judges will be final and no one can object their decision."
+                "General rules of ASHWAMEDHA ’19 is applicable for this event.",
+                "Students can participate in groups of 4(not more), Individual participation is not allowed.",
+                "Change in participants after the registration is not allowed.",
+                "The competition would be conducted in 3 rounds, of which first 2 would be knockout rounds and then the final round.",
+                "Winners will be declared at the end of round 3.",
+                "Use of extra equipment’s other than the ones provided are not permitted.",
+                "Provided components should be returned safely after the event is complete.",
+                "Use of mobile phones or any other electronic gadgets is strictly prohibited.",
+                "External help by any means is strictly prohibited.",
+                "Undisciplined or disrespectful behavior during the competition towards the staff, volunteers or coordinators of the competition will lead to disqualification of the team from the competition.",
+                "ORGANISERS RESERVE THE RIGHT TO CHANGE THE RULES AND THE CONDUCT OF THE EVENT WITHOUT PRIOR NOTICE.",
+                "IF ANY TEAM IS FOUND VIOLATING ANY OF THE EVENT RULES, ORGANISERS RESERVE THE RIGHT TO DISQUALIFY THE TEAM FROM THE COMPETITION.",
+                "The decision of the judges will be final."
             ],
             "students": [
                 {
-                    "name": "Eldho K Paul",
-                    "mob": "+918157965226"
+                    "name": "Anand K A",
+                    "mob": "+919526721388"
                 },
                 {
-                    "name": "Dennies Rocky",
-                    "mob": "+919496700975"
+                    "name": "Aravind S",
+                    "mob": "+919495947964"
+                },
+                {
+                    "name": "Nidheesh C D",
+                    "mob": "+919895158878"
                 }
             ],
             "faculty": [
                 {
-                    "name": "Prof. Ajay Kumar",
-                    "mob": "+919846900310"
+                    "name": "Akhila K"
                 },
                 {
-                    "name": "Prof. Albins Paul",
-                    "mob": "+919495129696"
+                    "name": "Rajalakshmy Menon"
+                }
+            ]
+        },
+        {
+            "name": "DEATH DRIFT",
+            "sub": "THE RC-BOT RUSH",
+            "first": "10K",
+            "second": "5K",
+            "price": "600 per team",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "Volleyball/Basketball court",
+            "desc": "ARENA - The actual arena will be displayed only at the venue. Prepare for the best adrenaline loaded speed track. The bot has to use the path as in racecourse, but it must complete all the obstacles. Different terrains like concrete, sand, soil, gravel, glass, wood etc. will be used in the track. Ten minutes of preparatory time will be given to the teams before the start of the race to study the arena and devise game-play strategies. There may             be bridges, inclined planes, wedges, and many more surprise elements. Final aim is to reach the finish line in the least possible time. The track width will be of 1.4m and of a length 30meters and may increase the course.",
+            "rules": [
+                "A team may consist of a maximum of 2 members. ",
+                "Open event in which  Nation-wide Cross-college are teams allowed. ",
+                "Teams may register online for the event via the provided Google form. Spot registrations are also possible. ",
+                "Maximum of two players are allowed into the arena.",
+                "There will be checkpoints all along the track. If any kind of human intervention (only event managers) is required, then the bot has to start once again from the last checkpoint with penalties. ",
+                "For example, if a bot falls from a cliff and is unable to get back on the track, then the official will restart the bot immediately from the last checkpoint it had surpassed, while the other team continues to move ahead on its path without stopping( As per the ",
+                "round’s rules).",
+                "If a bot hasn't moved from its spot for more than 60 seconds, it will lead to disqualification.",
+                "Change or recharging of batteries in the middle of the race is not allowed which may leads to penalties. ",
+                "In case of any discrepancy, decision of the organizing panel will be considered absolute.",
+                "Judges decision will be the final.",
+                "Complaining about the arena is not entertained.",
+                "The players have to Submit with college ID cards at the frontdesk for verification.",
+                "BOT SPECIFICATION",
+                [
+                    "Violating any of the following clauses will lead to immediate disqualification. ",
+                    "Each team is allowed to have only one bot for all the rounds.",
+                    "The bot must fit into a cube of 45cm*60cm*50cm",
+                    "No external power supply will be supplied at the venue.",
+                    "All teams should arrange for their own power.",
+                    "Ready-made gear assemblies and wheels can be used.",
+                    "The bot must be fully packed to resist all wear and tear."
+                ],
+                "The event consisting of a qualifier round and pro-rounds.",
+                "QUALIFIER",
+                [
+                    "Registered candidates must throttle their bot in the arena at maximum speed at specified time and venue. Selection to the following rounds depends upon the bot and the driver. Bot will be advancing to the next round based on their time of completion of the race."
+                ],
+                "PRO ROUNDS",
+                [
+                    "This round consists of sprint races and circuit races all along the Death Track. The spirit of racing is kept up and the Need for Speed should be maintained in this final sprint for being the conqueror of DEATH DRIFT."
+                ]
+            ],
+            "students": [
+                {
+                    "name": "Azhar Muhammed Ansari",
+                    "mob": "+919526367196"
+                },
+                {
+                    "name": "Alan Joseph",
+                    "mob": "+917012881294"
+                },
+                {
+                    "name": "Gil Saju",
+                    "mob": "+919544747894"
+                },
+                {
+                    "name": "Faris Rahman",
+                    "mob": "+919645412360"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof.Jithesh SR"
+                },
+                {
+                    "name": "Prof.Sreekanth Sharma"
                 }
             ]
         },
@@ -274,12 +596,15 @@
             "time": "1PM to 4PM",
             "venue": "EC Lab",
             "desc": "Project the given figure using shadow of provided materials.",
-            "rules": ["Team must consist of two members.",
+            "rules": [
+                "Team must consist of two members.",
                 "Prelims will be conducted if there are more than four groups.",
-                "Judgment will be based on the perfection and similarity with the actual picture.", "Arrangements of the materials should be according to the given provision.",
+                "Judgment will be based on the perfection and similarity with the actual picture.",
+                "Arrangements of the materials should be according to the given provision.",
                 "Source of light will be given and fixed.",
                 "External accessories are not allowed other than the given materials.",
-                "Time duration: Half an hour for discussions. One hour for construction."],
+                "Time duration: Half an hour for discussions. One hour for construction."
+            ],
             "students": [
                 {
                     "name": "Gayathri G Shenoy",
@@ -306,67 +631,179 @@
             ]
         },
         {
-            "name": "FLAGSHIP FIERA",
-            "price": "Rs.20 per head",
-            "day": "Day 1",
-            "time": "Full Day",
-            "venue": "Seminar Hall",
-            "desc": "The event is an expo of flagships of Smartphone giants.",
-            "rules": [
-                "All the BTech Students can participate.",
-                "Audience must handle the items displayed with care.",
-                "Participants must do the payment for any destruction done by them to the displayed items ."
-            ],
+            "name": "ELECTRIC VEHICLE WORKSHOP",
+            "price": "400 Rs per head",
+            "day": "Day 2",
+            "venue": "Mechanical department Seminar hall",
+            "desc": "It's for the first time an electric vehicle workshop is being held on the campus. Individuals who already have a basic understanding of hybrid or electric vehicles, who are seeking to increase their knowledge and understanding of hybrid vehicle system and its applications will find this workshop helpful. The workshop will familiarize you with the specs and basic understanding of electric cars.",
             "students": [
                 {
-                    "name": "Ashwin Kumar V",
-                    "mob": "+919497720233"
+                    "name": "Mridhun George",
+                    "mob": "+917907234882"
                 },
                 {
-                    "name": "Nimita Mary Wilson",
-                    "mob": "+919207127820"
-                }
-            ]
-        },
-        {
-            "name": "CELL PROBE",
-            "first": "Rs.3000",
-            "second": "Rs.2000",
-            "price": "Rs.150 per head",
-            "day": "Day 1",
-            "time": "Full Day",
-            "venue": "Seminar Hall",
-            "desc": "The event is to find an individual with good knowledge regarding smartphones.",
-            "rules": [
-                "This is an individual event.",
-                "All the BTech Students can participate.",
-                "The decision of organizing panel is considered absolute in all manners.",
-                "The event consists of 2 rounds.",
-                "In the First round ,participants will be provided with a Smartphone and are allowed to review it for 3-5 mins.",
-                "Shortlisted Participants will be entering Round 2.",
-                "Second Round consists of Blindfolded Identification of the phone.",
-                "In the end, Tiebreaker may consist of certain questions related to the former sessions.",
-                "The Winner will be declared on the basis of Cumulative Score",
-                "The Decision of the event coordinators (staff and students) will be final."
-            ],
-            "students": [
-                {
-                    "name": "Sachin A",
-                    "mob": "+919745957302"
-                },
-                {
-                    "name": "Namita Mary Wilson",
-                    "mob": "+919188426070"
+                    "name": "Sreelal Prem",
+                    "mob": "+918086279291"
                 }
             ],
             "faculty": [
                 {
-                    "name": "Prof. Raghi R Menon",
-                    "mob": "+919961113367"
+                    "name": "Prof. Aravind M",
+                    "mob": "+918891037876"
                 },
                 {
-                    "name": "Prof. Albins Paul",
-                    "mob": "+919495129696"
+                    "name": "Prof. Akhil"
+                }
+            ]
+        },
+        {
+            "name": "ELECTRONIC DEBUGGING",
+            "sub": "If you didn’t fix it, It ain’t fixed!",
+            "first": "Rs.2000",
+            "second": "Rs.1000",
+            "price": "Rs.150 per team (50 per head)",
+            "day": "Day 1",
+            "time": "1:30PM to 5PM ",
+            "venue": "Analog Communication Lab(EC Lab)",
+            "desc": "Presenting Electronic Debugging, where the ECE geeks bring out their debugging powers. The target of the team is to locate the faults and fix them successfully within time limit.",
+            "rules": [
+                "All the students and participants entering the college premises should bring their college id cards, Participation or stay in the campus during ASHWAMEDHA 2K19 shall not be allowed without the same. ",
+                "Cross college teams are allowed. ",
+                "Entry permitted to the students of Engineering colleges and MBA colleges(affiliated to KTU). ",
+                "Participants arriving at the campus should confirm their participation at the registration counter. ",
+                "The participation registration fee is as mentioned in the respective event rules ",
+                "Participants who wish to avail accommodation will be provided only if informed before two days."
+            ],
+            "students": [
+                {
+                    "name": "Arya S Nair ",
+                    "mob": "+916238155017"
+                },
+                {
+                    "name": "Annette Joy",
+                    "mob": "+918281625471"
+                },
+                {
+                    "name": "Anagha Sanakan",
+                    "mob": "+918113819500"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Asst. Prof. Divya V Chandran",
+                    "mob": "+919809639849"
+                },
+                {
+                    "name": "Asst. Prof. Archana Aniyan",
+                    "mob": "+919446944885"
+                }
+            ]
+        },
+        {
+            "name": "ENGINE ASSEMBLY",
+            "sub": "CONSTRUCT THE DEMOLISHED",
+            "price": "Rs.1000 per team (200 per head)",
+            "day": "Day 1 & 2",
+            "time": "10PM to 1PM",
+            "venue": "Project/Fabrication facility, Mechanical Block",
+            "rules": [
+                "A team of five participants can attend the workshop.",
+                "The event includes dismantling and reassembling of a four-stroke petrol engine.",
+                "All the components and material required for the workshop will be provided by us."
+            ],
+            "students": [
+                {
+                    "name": "Gokulkrishnan Jayan",
+                    "mob": "9495354998"
+                },
+                {
+                    "name": "Harikrishnan C Valsan",
+                    "mob": "9633625229"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Asst. Prof. Eldhose K Joy",
+                    "mob": "9605440515"
+                },
+                {
+                    "name": "Asst. Prof. Eldhise Yacob",
+                    "mob": "9495470604"
+                }
+            ]
+        },
+        {
+            "name": "INVESTIGATION PROJECT 404",
+            "first": "5000",
+            "price": "100 Rs per head",
+            "day": "Day 2",
+            "time": "11AM-1PM",
+            "venue": "CIVIL LIBRARY, NEAR AND AROUND CIVIL DEPARTMENT",
+            "desc": "Receive your box of clues, piece it all together, get lost in the fictional world, and uncover the mystery.",
+            "rules": [
+                "The event is general.",
+                "The event is open to all college students from any departments.",
+                "Only group participation is allowed.",
+                "Each group can have maximum of four members.",
+                "The entire competition is divided into three rounds, each of one being a knockout round.",
+                "Each round will be independent of the previous one and the winner will be chosen at the end of round three.",
+                "Rounds will include general facts, logical reasoning, mathematical and common understanding skills.",
+                "The judgement will be based on speed and time of completion.",
+                "The decisions of the judges will be final.",
+                "Note: In case of more than 6 registrations, preliminary round consisting of an aptitude quiz will be conducted."
+            ],
+            "students": [
+                {
+                    "name": "SONU RAJAN",
+                    "mob": "+919496201374"
+                },
+                {
+                    "name": "DINU SCARIA",
+                    "mob": "+919495631916"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "PROF.NITHA"
+                },
+                {
+                    "name": "RAJANI MISS"
+                }
+            ]
+        },
+        {
+            "name": "FIFA",
+            "first": "1k",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "9AM to 1PM",
+            "venue": "Gaming Hub",
+            "desc": "Come, Participate and show off your gaming skills.",
+            "rules": [
+                "This is an individual event.",
+                "Match Format: Players go head-to-head in two 4-minute halves",
+                "Tournament Format: Knockout (changes according to number of registration).",
+                "Controller: PC wired controller gamepad.",
+                "If both players draw a match, the winner will be decided by penalties(even after the extra time score goes the same).",
+                "Players can pause the game twice,but in the event of pausing the game while the ball is with the opponent will lead to disqualification.",
+                "Only standard teams are allowed.",
+                "The decision of judges (staff and students will be final).",
+                "Players are requested to bring their joysticks if possible,only a limited number of joysticks will be provided."
+            ],
+            "students": [
+                {
+                    "name": "Jobil",
+                    "mob": "+918848980724"
+                },
+                {
+                    "name": "Edwin",
+                    "mob": "+919947212581"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Narendran A.K",
+                    "mob": "+919074480396"
                 }
             ]
         },
@@ -399,7 +836,7 @@
                 "Inbuilt Luts can be used.",
                 "Participants should bring separate headphones for individual Privacy.",
                 "Maximum number of participants 30.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The Decision of the judges (staff and students) will be final."
             ],
             "students": [
                 {
@@ -417,6 +854,29 @@
                 },
                 {
                     "name": "Prof. Simi M S"
+                }
+            ]
+        },
+        {
+            "name": "FLAGSHIP FIERA",
+            "price": "Rs.20 per head",
+            "day": "Day 1",
+            "time": "Full Day",
+            "venue": "Seminar Hall",
+            "desc": "The event is an expo of flagships of Smartphone giants.",
+            "rules": [
+                "All the BTech Students can participate.",
+                "Audience must handle the items displayed with care.",
+                "Participants must do the payment for any destruction done by them to the displayed items ."
+            ],
+            "students": [
+                {
+                    "name": "Ashwin Kumar V",
+                    "mob": "+919497720233"
+                },
+                {
+                    "name": "Nimita Mary Wilson",
+                    "mob": "+919207127820"
                 }
             ]
         },
@@ -445,7 +905,7 @@
                 "Losing the Line: any robot that loses the line course must reacquire the line at the point where it was lost, or at any earlier (e.g. already traversed) point.",
                 "Second Attempt: any robot that loses the line course and fails to reacquire it will be allowed a single reattempt. The robot must start the course again from the beginning, and if it loses the line course on its second attempt it will be disqualified.",
                 "Course Specifications: The line following course shall traverse a white paper rectangle, 44” wide and 96” long. The line shall be a black, 1/2” wide line traversing the arena from end to end. There shall be no crossovers (e.g. places where the line crosses itself). Switchbacks and hairpins are possible, but the adjacent sections of the line shall be no closer together than 15cm when measured from the center of each line. The line course shall have 1 or more sharp right-angle, but no angle will be greater than 90 degrees.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The Decision of the judges will be final."
             ],
             "students": [
                 {
@@ -477,16 +937,16 @@
             "day": "Day 2",
             "time": "10AM to 4PM",
             "venue": "PL Lab",
-            "desc": "To All Those Great Explorers Who Knows To Grab Information Within A Few Clicks ! Are u great at searching ,browsing and exploring through the website that connects all other websites? The one which connects about 1 million users !!! Yes ...Google !! ASHWAMEDHA'19 the national level technical fest of Adishankara Institute of Engineering and Technology gives you the  ground to show case your browsing and exploring talent through the web at its beat down event called the 'Google Marathon'.",
+            "desc": "To All Those Great Explorers Who Knows To Grab Information Within A Few Clicks! Are u great at searching, browsing and exploring through the website that connects all other websites? The one which connects about 1 million users !!! Yes ...Google !! ASHWAMEDHA'19 the national level technical fest of Adi Shankara Institute of Engineering and Technology gives you the  ground to showcase your browsing and exploring talent through the web at its beat down event called the 'Google Marathon'.",
             "rules": [
                 "This is a team event of 2 members.",
                 "Team should consist of 2 participants only.",
                 "A person alone cannot participate.",
-                "If more team are present ,then there will be a preliminary round.",
-                "There will be timeout for completing the contest.",
-                "Inter college and inter department teams are allowed.",
+                "If more team are present, then there will be a preliminary round.",
+                "There will be a timeout for completing the contest.",
+                "Inter college and inter-department teams are allowed.",
                 "Final decision regarding winner solely goes to judges.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The Decision of the judges will be final."
             ],
             "students": [
                 {
@@ -510,25 +970,24 @@
         },
         {
             "name": "HARDWARE ASSEMBLY",
-            "first": "Rs.1000",
-            "price": "Rs.100 per team",
+            "first": "Rs.2000",
+            "price": "Rs.100 per head",
             "day": "Day 1",
             "time": "1PM to 4PM",
             "venue": "S1 CSA",
             "desc": "This event is to find a team with the best knowledge about computer hardware and its connections. This event will showcase team work, time management and organization capability.",
             "rules": [
-                "General rules of  ASHWAMEDHA ’19 is applicable for this event.",
-                "This is a team event of 2 participants.",
+                "This is an individual.",
                 "First round includes a quiz section regarding the computer hardware.",
                 "Those who clear round 1 will be going for the second round which will be the assembling round.",
-                "The challenge given to the team is to assemble a dismandled  computer CPU and bring it back to normal condition.",
-                "At ﬁrst the cpu is given to the team completely dismandled.",
-                "Each team have to assemble it correctly within time limit.",
-                "The team which complete the assembling in a shorter time will be the winners.",
+                "The challenge given is to assemble a dismantled computer CPU and bring it back to normal condition.",
+                "At ﬁrst the CPU is given to the team completely dismantled.",
+                "Participant has to assemble it correctly within the time limit.",
+                "The participant which complete the assembling in a shorter time will be the winner.",
                 "The tools required for assembling will be provided to each team. (only one screwdriver for each team).",
-                "The participants should not damage any parts  especially the processors.",
+                "The participants should not damage any parts especially the processors.",
                 "The participants will not be given any trials or practice session before the event.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The Decision of the judges will be final."
             ],
             "students": [
                 {
@@ -556,7 +1015,7 @@
             "day": "Day 1",
             "time": "9:30AM to 4PM",
             "venue": "SI Lab",
-            "desc": "The IoT workshop will be a hands-on workshop in which the students are been trained about the basics of IoT using some of the electronics components.In this workshop, there is also the interfacing about the Firebase cloud platform and also teaches them how to interface with the cloud using the values. Which is been generated from the sensors.",
+            "desc": "The IoT workshop will be a hands-on workshop in which the students are been trained about the basics of IoT using some of the electronics components. In this workshop, there is also the interfacing about the Firebase cloud platform and also teaches them how to interface with the cloud using the values. Which is been generated from the sensors.",
             "rules": [
                 "The students attending the workshop don’t require any pre-knowledge in programming.",
                 "All the requirements necessary for the workshop will be provided by the college.",
@@ -598,12 +1057,12 @@
             "rules": [
                 "This is an individual event.",
                 "In the first round, general topics will be given, or images will be shown. Participants are allowed to talk about  each topic for 1 minute",
-                "The shortlisted students will be qualified for the next round. Topics provided in the second round will be technology based.",
+                "The shortlisted students will be qualified for the next round. Topics provided in the second round will be technology-based.",
                 "Language used must be English.",
                 "Topic will be given on spot.",
                 "Fluency, grammar and content will be checked.",
-                "Electronic devices like smart watch, mobile phones are not allowed.",
-                "Presenting more than 65 sec are not allowed.",
+                "Electronic devices like smartwatches, mobile phones are not allowed.",
+                "Presenting more than 65 sec is not allowed.",
                 "Offensive words should not be used."
             ],
             "students": [
@@ -653,6 +1112,44 @@
             ]
         },
         {
+            "name": "MAZE RUNNER",
+            "first": "3000",
+            "price": "250 Rs per head",
+            "day": "Day 1 & 2",
+            "venue": "CIVIL LOBBY",
+            "desc": "\"I shall be telling this with a sigh , somewhere ages and ages hence , two roads diverged in a wood and I took the one less handled by , and that made all the difference\" Enter the maze grid through the entry door. one wrong move gonna take you into loops and loops. Different puzzles to be solved within, if you get it all right which lead you to the correct exit, then you win !!",
+            "rules": [
+            	"The event is general.",
+            	"The event is open to all KTU-affiliated college students irrespective of branches and school students.",
+            	"Only individual participation is allowed for each registration.",
+            	"The event includes general facts, logical reasoning, mathematical and common understanding skills.",
+            	"The judgement will be based on speed, accuracy and time of completion.",
+            	"Multiple registration not permitted for an individual.",
+            	"The decisions of the judges will be final.",
+            	"In case of more than 6 registrations, preliminary round consisting of an aptitude quiz will be conducted."
+            ],
+            "students": [
+                {
+                    "name": "ALTHALIF V I",
+                    "mob": "+919400803406"
+                },
+                {
+                    "name": "NOUREEN MUHAMMED RAFI",
+                    "mob": "+918547029637"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "",
+                    "mob": ""
+                },
+                {
+                    "name": "",
+                    "mob": ""
+                }
+            ]
+        },
+        {
             "name": "PROJECT R",
             "prize": "10K",
             "price": "Rs. 100 for IEEE CS (Promo code: IEEE60)\nRs. 130 for IEEE (Promo code: IEEE30)\nRs. 150 for Non-IEEE",
@@ -668,15 +1165,15 @@
                 "Similar ideas can result in disqualification of the team which submitted next.",
                 "7 minute Presentation",
                 "1 minute video",
-                "3 minute business structuring",
-                "5 minute prototype display",
+                "3-minute business structuring",
+                "5-minute prototype display",
                 "The event will be conducted in 3 Phases:",
                 [
-                    "Phase 1: The origin. The participants need to come up with a good idea for their project and send to  us a poster(as a visual representation)  and an abstract (a brief explanation) of the same via email. Good project ideas which are well presented shall be  selected.",
+                    "Phase 1: The origin. The participants need to come up with a good idea for their project and send us a poster(as a visual representation)  and an abstract (a brief explanation) of the same via email. Good project ideas which are well presented shall be  selected.",
                     "Phase 2: The propositional act. Participants who qualified phase 1 will now have to make a Presentation and  pitch it during Ashwamedha in front of judges who will decide the selection process.",
-                    "Phase 3: The Actuation trial. Participants are asked to make a (possibly) working model of the project. Based  on the progress and the design, the best teams will be selected as winners. And a cash prize upto Rupees 10000 shall be awarded to them."
+                    "Phase 3: The Actuation trial. Participants are asked to make a (possibly) working model of the project. Based on the progress and the design, the best teams will be selected as winners. And a cash prize up to Rupees 10000 shall be awarded to them."
                 ],
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The Decision of the judges will be final."
             ],
             "students": [
                 {
@@ -713,7 +1210,7 @@
                 "There will be a preliminary round and final round. ",
                 "Time limit is decided according to the device given for reassembling.",
                 "Reassembling will be depended on the type of device provided. ",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The Decision of the judges will be final."
             ],
             "students": [
                 {
@@ -750,9 +1247,9 @@
                 "The students will be qualified to the next round based on a cut off from the average score calculated.",
                 "The shortlisted students will take part in a circuit assembly and coding round. Here the core technical skills of the students are tested.",
                 "The students should assemble the circuit based on the given layout within the allotted time.",
-                "For coding, the students should execute the code within given time and should clear all the test cases given.",
+                "For coding, the students should execute the code within the given time and should clear all the test cases given.",
                 "The students who excel in all the rounds will be selected as the winner.",
-                "The results will be based on time taken to finish the given task.",
+                "The results will be based on the time taken to finish the given task.",
                 "The Decision of Judges will be final."
             ],
             "students": [
@@ -785,14 +1282,14 @@
             "desc": "Technical quiz related to engineering field.",
             "rules": [
                 "Individual event",
-                "The quiz will be based on the events related to engineering field.",
+                "The quiz will be based on the events related to the engineering field.",
                 "In case of more than 6 participants there will be a preliminary round and 6 will be selected for the next round.",
                 "The prelims will contain a fixed number of questions along with a few stars marked question.",
-                "In case of a tie in prelims the participants answering the maximum number of starred questions will be selected.",
+                "In case of a tie in prelims, the participants answering the maximum number of starred questions will be selected.",
                 "6 winners will face each other for one more round and the best 4 will be selected for finals.",
-                "In case of a tie in the second and final rounds, the tie will be resolved in a tie breaker.",
+                "In case of a tie in the second and final rounds, the tie will be resolved in a tiebreaker.",
                 "The quiz master will have the right to make changes to the pattern of the rounds.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The Decision of the judges (staff and students) will be final."
             ],
             "students": [
                 {
@@ -821,13 +1318,13 @@
             "day": "Day 2",
             "time": "Full Day",
             "venue": "Electrical Lab",
-            "desc": "The main objective of this event is to bring out the  intricate electronic know-how and to challenge application level knowledge of the participants. The participants are put to test through rigorous debugging, stabilizing and initializing core electronic simulated tests and rectification. This event is composed of three solid rounds with screening tests for the same at the end of every stage.",
+            "desc": "The main objective of this event is to bring out the intricate electronic know-how and to challenge application-level knowledge of the participants. The participants are put to test through rigorous debugging, stabilizing and initializing core electronic simulated tests and rectification. This event is composed of three solid rounds with screening tests for the same at the end of every stage.",
             "rules": [
                 "This is a group event, the group size should not exceed beyond 3/team.",
-                "Prelims will conducted prior to the first round if there are more than required numbers of team.",
-                "The team that finish each round the fastest will be given priority over the other team to the next round.",
+                "Prelims will be conducted prior to the first round if there are more than required numbers of team.",
+                "The team that finishes each round the fastest will be given priority over the other team to the next round.",
                 "Use of mobile phones and any other forms of malpractices are strictly prohibited.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The Decision of the judges will be final."
             ],
             "students": [
                 {
@@ -856,21 +1353,21 @@
         },
         {
             "name": "TYPE RACER",
-            "first": "Rs.1500",
+            "first": "Rs.2000",
             "second": "Rs.1000",
             "price": "Rs.100 per head",
             "day": "Day 1",
             "time": "1PM to 4PM",
             "venue": "NP Lab",
-            "desc": "The main objective of this event is to measure and bring out the typing speed and typing accuracy of the participants which are put to test through time limited typing, tackling verbal and grammar tests, coding skills and blind typing. The event is composed of five solid rounds with screening tests for the same at the very end of every stage.",
+            "desc": "The main objective of this event is to measure and bring out the typing speed and typing accuracy of the participants which are put to test through time-limited typing, tackling verbal and grammar tests, coding skills and blind typing. The event is composed of four solid rounds with screening tests for the same at the very end of every stage.",
             "rules": [
                 "This is an individual event.",
-                "Prelims will conducted prior to the first round if there are more than required numbers of team.",
+                "Prelims will be conducted prior to the first round if there are more than required numbers of participants.",
                 "Participants should only use the keyboards provided.",
                 "Use of mobile phones and any other forms of malpractices are strictly prohibited.",
                 "Copy and paste is not allowed.",
-                "The event will be strictly time bounded.",
-                "The Decision of the event coordinators (staff and students) will be final."
+                "The event will be strictly time-bounded.",
+                "The Decision of the judges will be final."
             ],
             "students": [
                 {
@@ -906,9 +1403,9 @@
             "venue": "S3 CSB/College Premises",
             "desc": "This Event is to find individual with best photographic skill.",
             "rules": [
-                "Maximum of 2 participants are allowed in a contestant team. One may participate as an individual as well.",
+                "A maximum of 2 participants are allowed in a contestant team. One may participate as an individual as well.",
                 "All photographs submitted must be taken within the campus.",
-                "The submissions have to be theme based. All themes will be announced during the event.",
+                "The submissions have to be theme-based. All themes will be announced during the event.",
                 "All photographs submitted must be captioned.",
                 "All photographs must be submitted within 2 hours of commencement of the event.",
                 "The photographs may be taken using any kind of cameras including mobile phones. The submissions should of a minimum clarity.",
@@ -932,44 +1429,6 @@
                 },
                 {
                     "name": "Sumathy M V"
-                }
-            ]
-        },
-        {
-            "name": "OSCILLOART",
-            "first": "Rs.1000",
-            "second": "Rs.500",
-            "price": "Rs.100 per head",
-            "day": "Day 1",
-            "time": "10AM to 1PM",
-            "venue": "POWER ELECTRONICS LAB EEE",
-            "desc": "In this event the teams are instructed to create specific shapes on a CRO by connecting suitable circuit made by the given components.",
-            "rules": [
-                    "A team of maximum 2 members can participate.",
-                    "Components will be provided.",
-                    "Event is divided into two levels.",
-                    "Preliminary round – general technical MCQ quiz with a time slot of 20mins.",
-                    "Only 4 teams are selected to the final round.",
-                    "Failure to complete the circuit within the time limit will lead to elimination.",
-                    "Any Event rules can be changed or updated accordingly and will be informed by the coordinators.",
-                    "The Decision of the event coordinators (staff and students) will be final."
-            ],
-            "students": [
-                {
-                    "name": "HARISREE",
-                    "mob": "+917510132875"
-                },
-                {
-                    "name": "SREEJITH",
-                    "mob": "+917012351219"
-                }
-            ],
-            "faculty": [
-                {
-                    "name": "NAYANA J"
-                },
-                {
-                    "name": "REMYA VARGHESE"
                 }
             ]
         }

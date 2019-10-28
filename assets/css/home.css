@@ -240,6 +240,11 @@ html {
     margin-top: 0px;
 }
 
+#aboutASIET {
+    padding: 0px 12px;
+    text-align: justify;
+}
+
 #aboutASIET h5 {
     margin-bottom: 12px;
 }

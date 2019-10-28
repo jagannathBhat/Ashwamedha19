@@ -81,6 +81,61 @@
                     "mob": "+919947337135"
                 }
             ]
+        },
+        {
+            "name": "DRONE RACE",
+            "sub": "SET THE AIR ON FIRE",
+            "first": "Rs.12000",
+            "second": "Rs.5000",
+            "third": "Rs.3000",
+            "price": "Rs.500 per team",
+            "day": "Day 1",
+            "time": "1:30PM to 5PM",
+            "venue": "Ground",
+            "desc": "The race comprises of 2 rounds. The first round tests the time of flight of all participating drones in the race pit and the best 5 will pass to the final round which is a head-on competition were the fastest flier will bag the prize.",
+            "rules": [
+                "Each team can have a maximum of 2 members.",
+                "Each team should bring their own drone. ",
+                "Drones should be in good condition.",
+                "The drone should be in the range of 45-70cm in diameter.",
+                "The drone must not be automated and must be controlled manually.",
+                "Pilots will carry a minimum of 2 batteries.",
+                "Pilots will carry their own battery chargers, charging points would be provided.",
+                "Pilots should bring their own soldering and other materials.",
+                "Pilots are allowed to bring their own launch pads to races.",
+                "All frames must pass a safety and airworthiness inspection. Once the airframe has been checked and approved, it must not be modified or changed, or it will need to be re-inspected.",
+                "Pilots will only use the circular antenna on quads and antenna must be in good condition.",
+                "Pilots must adhere to all rules within the competition venue, and will not fly in any other part of the venue unless it is a designated flight zone.",
+                "Pilots must arrive at the venue with their complete setup 1 hour before the official race time and must be in complete READY-TO-GO state 15 mins before race time.",
+                "Pilots will NOT be given any practice sessions during the 15 mins before the race starts. Pilots who are not in READY-TO-GO state 15 mins prior to race time will be disqualified from participating in the race.",
+                "Participants have to control their drone and cross the obstacles in the path and complete the circuit.",
+                "Pilots will be given maximum of 3 chances in the Qualifier Rounds, by which pilots have to record their best lap time. In that 1 round is mandatory while 2 rounds are optional if the pilot is happy with his/her lap time in any of the 3 rounds max.",
+                "Top X number of pilots (where X is dependent upon the number of attending pilots) based on their fastest time set in the Qualifiers will proceed to the final Round. ",
+                "Once pilots have successfully completed all laps, they must return to the start/finish pad, land and DISARM.",
+                "Pilots that have crashed at any point during their race, are unable to resume racing, must DISARM their aircraft and wait until all aircraft have landed to retrieve their aircraft.",
+                "Participants should follow the instructions. If anyone fails, they will be disqualified from the event.",
+                "The decision of the judges will be final and no one can object their decision."
+            ],
+            "students": [
+                {
+                    "name": "Eldho K Paul",
+                    "mob": "+918157965226"
+                },
+                {
+                    "name": "Dennies Rocky",
+                    "mob": "+919496700975"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Ajay Kumar",
+                    "mob": "+919846900310"
+                },
+                {
+                    "name": "Prof. Albins Paul",
+                    "mob": "+919495129696"
+                }
+            ]
         }
     ]
 }
