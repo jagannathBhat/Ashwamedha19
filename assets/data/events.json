@@ -1119,14 +1119,14 @@
             "venue": "CIVIL LOBBY",
             "desc": "\"I shall be telling this with a sigh , somewhere ages and ages hence , two roads diverged in a wood and I took the one less handled by , and that made all the difference\" Enter the maze grid through the entry door. one wrong move gonna take you into loops and loops. Different puzzles to be solved within, if you get it all right which lead you to the correct exit, then you win !!",
             "rules": [
-            	"The event is general.",
-            	"The event is open to all KTU-affiliated college students irrespective of branches and school students.",
-            	"Only individual participation is allowed for each registration.",
-            	"The event includes general facts, logical reasoning, mathematical and common understanding skills.",
-            	"The judgement will be based on speed, accuracy and time of completion.",
-            	"Multiple registration not permitted for an individual.",
-            	"The decisions of the judges will be final.",
-            	"In case of more than 6 registrations, preliminary round consisting of an aptitude quiz will be conducted."
+                "The event is general.",
+                "The event is open to all KTU-affiliated college students irrespective of branches and school students.",
+                "Only individual participation is allowed for each registration.",
+                "The event includes general facts, logical reasoning, mathematical and common understanding skills.",
+                "The judgement will be based on speed, accuracy and time of completion.",
+                "Multiple registration not permitted for an individual.",
+                "The decisions of the judges will be final.",
+                "In case of more than 6 registrations, preliminary round consisting of an aptitude quiz will be conducted."
             ],
             "students": [
                 {
@@ -1311,45 +1311,45 @@
             ]
         },
         {
-    "name": "TIKI TAKA",
-    "sub": "5'S FOOTBALL",
-    "first": "7000",
-    "second": "3500",
-    "price": "700 Rs per team",
-    "day": "Day 1",
-    "time": "9:30AM-4PM",
-    "venue": "COLLEGE FOOTBALL GROUND",
-    "desc": "The event is to find the best 5 a side football team.",
-    "rules": [
-        "This is a team event,in which each team consist of 5 on field players and 2 substitution players.",
-        "The rounds will be on a knockout basis.Each game consist of two halves with 10 minutes each.",
-        "The winner will get qualified to the next level and in case of a draw,winner will be chosen from penalties.",
-        "The game includes rolling substitutions.",
-        "The desicions made by the referee will be final.",
-        "Freekicks are awarded for time waisting,fouls etc based on the referee's desicion and all freekicks are indirect.",
-        "Shots should be made from outside the opposition goalkeeper area or else a goalie kick will be awarded.",
-        "Penalties are given if a goalkeeper touches the ball outside his goalkeeper area or if a player touches the ball insde his goalkeeper area and the penalties will be a one step penalty.",
-        "Goalkeeper can throw,kick and roll the ball but cannot throw the ball beyond the half line ,if yes so a freekick will be awarded."
-    ],
-    "students": [
-        {
-            "name": "JOEL PAUL M J",
-            "mob": "+917012824421"
+            "name": "TIKI TAKA",
+            "sub": "5'S FOOTBALL",
+            "first": "7000",
+            "second": "3500",
+            "price": "700 Rs per team",
+            "day": "Day 1",
+            "time": "9:30AM-4PM",
+            "venue": "COLLEGE FOOTBALL GROUND",
+            "desc": "The event is to find the best 5 a side football team.",
+            "rules": [
+                "This is a team event,in which each team consist of 5 on field players and 2 substitution players.",
+                "The rounds will be on a knockout basis.Each game consist of two halves with 10 minutes each.",
+                "The winner will get qualified to the next level and in case of a draw,winner will be chosen from penalties.",
+                "The game includes rolling substitutions.",
+                "The desicions made by the referee will be final.",
+                "Freekicks are awarded for time waisting,fouls etc based on the referee's desicion and all freekicks are indirect.",
+                "Shots should be made from outside the opposition goalkeeper area or else a goalie kick will be awarded.",
+                "Penalties are given if a goalkeeper touches the ball outside his goalkeeper area or if a player touches the ball insde his goalkeeper area and the penalties will be a one step penalty.",
+                "Goalkeeper can throw,kick and roll the ball but cannot throw the ball beyond the half line ,if yes so a freekick will be awarded."
+            ],
+            "students": [
+                {
+                    "name": "JOEL PAUL M J",
+                    "mob": "+917012824421"
+                },
+                {
+                    "name": "J JAYADEEP",
+                    "mob": "+919495489776"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "VISHNU S"
+                },
+                {
+                    "name": "HARIDAS"
+                }
+            ]
         },
-        {
-            "name": "J JAYADEEP",
-            "mob": "+919495489776"
-        }
-    ],
-    "faculty": [
-        {
-            "name": "VISHNU S"
-        },
-        {
-            "name": "HARIDAS"
-        }
-    ]
-},
         {
             "name": "TRILOGY",
             "first": "Rs.4000",
