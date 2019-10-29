@@ -1260,6 +1260,86 @@
             ]
         },
         {
+            "name": "ROBO-SOCCER",
+            "sub": "THE SOCCER SHOWDOWN",
+            "prize": "16K",
+            "price": "Rs. 500 per team",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "Centre Courtyard",
+            "desc": "An event organized to showcase the robotic talents and the spirit of soccer in a single stage. The participants can bring in manually controlled or automated robots designed to play soccer in an arena specially designed for the same. As always the aim of a soccer match is to score the maximum number of goal in limited amount of time and it’s the same focus in this event but only using the robotics skills of moving the ball, pushing the ball towards the goal, to move the robot around the arena and to avoid collisions etc.",
+            "rules": [
+                "Dimensions",
+                [
+                    "The robot Should not exceed 25x25x25cms (with overhanging body works). External device used for controlling is not included in the size constraints.",
+                    "Overall Weight should not exceed 6kg (fixed).",
+                    "Length of the robot’s wire must be at least 5m.",
+                    "The arena shall be 400 cm long and 200 cm wide. The goal post shall be 60 cm wide and 24 cm in height from the bottom. The penalty shot will be taken at a distance of 65 cm from the opponent's goal post."
+                ],
+                "Robot Specification",
+                [
+                    "Rolling motion (Wheels, tracks with belt) are allowed.",
+                    "Jumping, hoping and flying (using helium balloons, aero foil, etc.) are not allowed.",
+                    "Robots can be controlled using wired or wireless methods. In case of wireless control, participants should take necessary precautions to avoid frequency interference. ",
+                    "For wired control all the wires coming out of the bot should be stacked into single bundle. Wires should be properly insulated.",
+                    "The ball can be either dragged or pushed by the robot (use of strikers are not allowed to use).",
+                    "Use of readymade parts like LEGO kits (except remote control kits) is strictly prohibited. If judges suspect that a team has put no effort into the construction of the vehicle and has purchased it readymade, they are liable for disqualification. ",
+                    "The vehicle can only drag the ball. Capturing the ball by any means (Example: by means of a slot running through the body, or a cup) may lead to disqualification. ",
+                    "The ball cannot roll under the vehicle. Guiding slots (projections/depressions on the surface of the vehicle) should not exceed the radius of the ball. The vehicles cannot employ a mechanism to strike the ball."
+                ],
+                "GAMEPLAY RULES",
+                [
+                    "A standard golf ball will be used for the game. (With an approximate diameter of 45mm, and weight 45gm). ",
+                    "Each league match shall be 6 minutes long with halftime of 3 minutes. ",
+                    "Semi-final and final match durations shall be of 10 minutes with halftime of 5 minutes each. ",
+                    "The configurations that the vehicle must abide by during the match are described under arena specifications. ",
+                    "There should be no entanglement of wires during the match. ",
+                    "Intentional physical cornering and rough play may be declared as foul depending on the decision of the judges. ",
+                    "The referee shall take decisions regarding the fouls committed during the match. ",
+                    "Three fouls shall lead to a penalty shoot-out. ",
+                    "In case of unpredictable issues like immobility of robots or weather, the match will be paused by the judges. They can also decide the position of the robots when the match continues",
+                    "The restrictions on the accessible areas on the arena for each vehicle shall be strictly followed during the course of the match. A violation of this rule shall lead to a penalty shoot. ",
+                    "The penalties shall be taken from the centre of the penalty spot, which is at a distance of 65cm from the goal post, onto an open goal; none of the machines can guard their goal during this. ",
+                    "If the ball leaves the arena, the game will be started from the centre. A foul in the D-box (the area just before the goal post) leads to a penalty to the opposite team."
+                ],
+                "TEAM SPECIFICATION",
+                [
+                    "A team may consist of a maximum of 3 participants. These participants can be from the same or different institutes.",
+                    "Every team must have a unique name. Each team must specify their team representative (leader) at the time of registration. All the important communications between event coordinators and the registered teams will be done through their team representative. The team representative must submit valid contact details (phone no., email ID etc.) at the time of registration."
+                ],
+                "BATTERY AND POWER",
+                [
+                    "The robot can be powered by Battery. Power source for battery eliminators would be available at the venue",
+                    "Maximum allowed power is 12V.",
+                    "Use of damaged, non-leak proof batteries may lead to disqualification.",
+                    "The teams are suggested to have at least one extra battery ready and charged up during competition so that on advancing to the next level, they won’t have to wait or suffer due to the uncharged battery. If teams do not show up during their allotted slot, they will be disqualified."
+                ]
+            ],
+            "students": [
+                {
+                    "name": "HARIKRISHNAN SUERESH KUMAR",
+                    "mob": "+916238319404"
+                },
+                {
+                    "name": "HARIKRISHNAN K.B",
+                    "mob": "+918921994485"
+                },
+                {
+                    "name": "AMAL PAYYAPPILLY",
+                    "mob": "+916282220255"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof ELDHO MATHEW",
+                    "mob": "+919447726894"
+                },
+                {
+                    "name": "Prof AJU SIVAN"
+                }
+            ]
+        },
+        {
             "name": "TECH ASSEMBLE",
             "first": "Rs.1500",
             "second": "Rs.500",
