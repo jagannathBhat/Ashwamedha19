@@ -136,6 +136,32 @@
                     "mob": "+919495129696"
                 }
             ]
+        },
+        {
+            "name": "ELECTRIC VEHICLE WORKSHOP",
+            "price": "400 Rs per head",
+            "day": "Day 2",
+            "venue": "Mechanical department Seminar hall",
+            "desc": "It's for the first time an electric vehicle workshop is being held on the campus. Individuals who already have a basic understanding of hybrid or electric vehicles, who are seeking to increase their knowledge and understanding of hybrid vehicle system and its applications will find this workshop helpful. The workshop will familiarize you with the specs and basic understanding of electric cars.",
+            "students": [
+                {
+                    "name": "Mridhun George",
+                    "mob": "+917907234882"
+                },
+                {
+                    "name": "Sreelal Prem",
+                    "mob": "+918086279291"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Aravind M",
+                    "mob": "+918891037876"
+                },
+                {
+                    "name": "Prof. Akhil"
+                }
+            ]
         }
     ]
 }

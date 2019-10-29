@@ -439,10 +439,10 @@
                 "The compiler provided will be GCC.",
                 "This event consists of three rounds:",
                 [
-                    "1st Round (Logic): Aptitude and Programming level questions will be given ,in which participants will have to answer problems based on c language. Selected participants will step into the next round.",
+                    "1st Round (Logic): Aptitude and Programming level questions will be given, in which participants will have to answer problems based on c language.",
                     "2nd Round (Run): the Problem statement is given to participants, they should have to execute the code in particular time limit with no errors.",
                     "3rd Round: Only problem statement will be provided.",
-                    "(Blind Code)Participants need to type the code in TURBO C with MONITORS SWITCHED OFF in a particular time limit. Mouse will also be detached.",
+                    "(Blind Code)Participants need to type the code in GCC with MONITORS SWITCHED OFF in a particular time limit. Mouse will also be detached.",
                     "Winners will be announced based on the results of compilation and execution."
                 ],
                 "In case of tie then timing and no. of errors will be considered.",
@@ -651,32 +651,6 @@
                 {
                     "name": "Prof. Neema M",
                     "mob": "+918129244221"
-                }
-            ]
-        },
-        {
-            "name": "ELECTRIC VEHICLE WORKSHOP",
-            "price": "400 Rs per head",
-            "day": "Day 2",
-            "venue": "Mechanical department Seminar hall",
-            "desc": "It's for the first time an electric vehicle workshop is being held on the campus. Individuals who already have a basic understanding of hybrid or electric vehicles, who are seeking to increase their knowledge and understanding of hybrid vehicle system and its applications will find this workshop helpful. The workshop will familiarize you with the specs and basic understanding of electric cars.",
-            "students": [
-                {
-                    "name": "Mridhun George",
-                    "mob": "+917907234882"
-                },
-                {
-                    "name": "Sreelal Prem",
-                    "mob": "+918086279291"
-                }
-            ],
-            "faculty": [
-                {
-                    "name": "Prof. Aravind M",
-                    "mob": "+918891037876"
-                },
-                {
-                    "name": "Prof. Akhil"
                 }
             ]
         },
@@ -1244,6 +1218,33 @@
                 {
                     "name": "",
                     "mob": ""
+                }
+            ]
+        },
+        {
+            "name": "Motorsports Designing",
+            "price": "Rs 300 per head",
+            "day": "Day 1",
+            "time": "10AM-12PM",
+            "venue": "Central Computing Facility",
+            "desc": "Thinking of a career in designing ? Then you are in the right place.",
+            "rules": [
+                "This is an individual event.",
+                "Bring your own laptops with SW installed, if not computers will be provided.",
+                "Aspirants and amateur level designers have maximum relevance to attend.",
+                "Workshop registration includes complimentary registration to SolidWorks Designing Competition.",
+                "In case of very less participation, changes maybe put forth by the coordinators.",
+                "Refreshments will be provided.",
+                "The decisions of the staff coordinators will be final."
+            ],
+            "students": [
+                {
+                    "name": "Akshay Ajoy",
+                    "mob": "+918078207696"
+                },
+                {
+                    "name": "Aby Scaria",
+                    "mob": "+919495980928"
                 }
             ]
         },
