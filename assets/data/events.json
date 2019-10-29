@@ -1035,17 +1035,18 @@
             "venue": "S1 CSA",
             "desc": "This event is to find a team with the best knowledge about computer hardware and its connections. This event will showcase team work, time management and organization capability.",
             "rules": [
-                "This is an individual.",
+                "General rules of  ASHWAMEDHA ’19 are applicable for this event.",
+                "This is an individual Event.",
                 "First round includes a quiz section regarding the computer hardware.",
-                "Those who clear round 1 will be going for the second round which will be the assembling round.",
-                "The challenge given is to assemble a dismantled computer CPU and bring it back to normal condition.",
-                "At ﬁrst the CPU is given to the team completely dismantled.",
-                "Participant has to assemble it correctly within the time limit.",
-                "The participant which complete the assembling in a shorter time will be the winner.",
-                "The tools required for assembling will be provided to each team. (only one screwdriver for each team).",
-                "The participants should not damage any parts especially the processors.",
+                "Those who clear round 1 will go to the second round which will be the assembling round.",
+                "The challenge given to the participants is to assemble a dismantled  computer CPU and bring it back to normal condition.",
+                "The CPU given at the start of the competition would be completely dismantled. ",
+                "Each participant will  have to assemble it correctly within time limit.",
+                "The participant  who complete the assembling in a shorter time will be the winner.",
+                "The tools required for assembling will be provided to each participant.(only one screwdriver for each participant).",
+                "The participants should not damage any parts, especially the processors.",
                 "The participants will not be given any trials or practice session before the event.",
-                "The Decision of the judges will be final."
+                "The Decision of the judges would be final."
             ],
             "students": [
                 {
@@ -1055,6 +1056,10 @@
                 {
                     "name": "Athira Lakshmi Vinod",
                     "mob": "+919447202515"
+                },
+                {
+                    "name": "Febin Sebastian",
+                    "mob": "+919745671073"
                 }
             ],
             "faculty": [
