@@ -436,7 +436,7 @@
             "desc": "The event is to find an individual with good coding skills. This event will showcase the participant’s programming skills.",
             "rules": [
                 "This is an individual event.",
-                "The compiler provided will be Turbo c.",
+                "The compiler provided will be GCC.",
                 "This event consists of three rounds:",
                 [
                     "1st Round (Logic): Aptitude and Programming level questions will be given ,in which participants will have to answer problems based on c language. Selected participants will step into the next round.",
@@ -916,20 +916,20 @@
             "rules": [
                 "Robots per Event: One",
                 "Length of Event: 3 minutes Max",
-                "Robot Weight Range: 500g",
-                "Robot Dimensions: W:25cm x L:25cm x H:7cm",
+                "Robot Weight Range: 600g",
+                "Robot Dimensions: W: 25cm x L: 25cm x H: 7cm",
                 "Arena Specifications: 111cm wide by 2448cm long",
                 "Robot Control: Autonomous",
-                "Size and Weight Limits: dimensional and weight limits for robots shall be strictly enforced. Robots must have passed inspection prior to competing.",
+                " Size and Weight Limits: dimensional and weight limits for robots shall be strictly enforced. Robots must have passed inspection prior to competing.",
                 "Course Time: time is measured from the time the robot crosses the starting line until the time it crosses the finish line. A robot is deemed to have crossed the line when the forward most wheel, track, or leg of the robot contacts or crosses over the line.",
                 "Time Limit: a maximum of 3 minutes is allowed for a robot to complete the course. A robot that cannot complete the course in the allotted time shall be disqualified.",
                 "Timekeeping: time shall be measured by an electronic gate system or by a judge with a stopwatch, based on the availability of equipment. In either case the recorded time shall be final.",
                 "Autonomous Control: once a robot has crossed the starting line it must remain fully autonomous, or it will be disqualified.",
-                "Arena Edges: a robot that wanders off of the arena surface will be disqualified. A robot shall be deemed to have left the arena when any wheel, leg, or track has moved completely off the arena surface.",
+                " Arena Edges: a robot that wanders off of the arena surface will be disqualified. A robot shall be deemed to have left the arena when any wheel, leg, or track has moved completely off the arena surface.",
                 "Losing the Line: any robot that loses the line course must reacquire the line at the point where it was lost, or at any earlier (e.g. already traversed) point.",
-                "Second Attempt: any robot that loses the line course and fails to reacquire it will be allowed a single reattempt. The robot must start the course again from the beginning, and if it loses the line course on its second attempt it will be disqualified.",
-                "Course Specifications: The line following course shall traverse a white paper rectangle, 44” wide and 96” long. The line shall be a black, 1/2” wide line traversing the arena from end to end. There shall be no crossovers (e.g. places where the line crosses itself). Switchbacks and hairpins are possible, but the adjacent sections of the line shall be no closer together than 15cm when measured from the center of each line. The line course shall have 1 or more sharp right-angle, but no angle will be greater than 90 degrees.",
-                "The Decision of the judges will be final."
+                " Second Attempt: any robot that loses the line course and fails to reacquire it will be allowed a single reattempt. The robot must start the course again from the beginning, and if it loses the line course on its second attempt it will be disqualified.",
+                "Power of Officials: the decisions of all officials regarding these rules and the conduct of the event shall be final.",
+                " Course Specifications: The line following course shall traverse a white paper rectangle 44\" wide and 96\" long. The line shall be a black, 1/2\" wide line traversing the arena from end to end. There shall be no crossovers (e.g. places where the line crosses itself). Switchbacks and hairpins are possible, but the adjacent sections of the line shall be no closer together than 15cm when measured from the center of each line. The line course shall have 1 or more sharp right-angle, but no angle will be greater than 90 degrees."
             ],
             "students": [
                 {
@@ -1023,6 +1023,38 @@
             "faculty": [
                 {
                     "name": "MAJO DAVIS"
+                }
+            ]
+        },
+        {
+            "name": "GROUP DISCUSSION",
+            "prize": "4K",
+            "price": "Rs 200 per head",
+            "day": "Day 2",
+            "time": "1PM",
+            "venue": "SEMINAR HALL- MECHANICAL BLOCK",
+            "desc": "",
+            "rules": [
+                "Each group will be having 6-10 members.",
+                "Event will be comprising of initial rounds depending upon the number of participants and a final round. ",
+                "Each group will be given a minimum of 10 minutes.",
+                "Language spoken must be English.",
+                "Derogatory remarks on teammates or public figures are discouraged.",
+                "Decision of the staff coordinators will be final in all regards.",
+                "Students are supposed to bring their college ID cards for verification process."
+            ],
+            "students": [
+                {
+                    "name": "Ramakrishnan V",
+                    "mob": "+919745973910"
+                },
+                {
+                    "name": "U.S. Harikrishna",
+                    "mob": "+918281875871"
+                },
+                {
+                    "name": "Josemon K L",
+                    "mob": "+919496491371"
                 }
             ]
         },
@@ -1157,7 +1189,7 @@
             "venue": "Online",
             "rules": [
                 "Troll can be made on any software.",
-                "The troll should be related to “ CAMPUS LIFE",
+                "The troll should be related to \"CAMPUS LIFE\"",
                 "The troll should not contain any personal criticism/attack.",
                 "The troll should be immaculate of obscenity.",
                 "Trolls can either be in English/Malayalam.",
@@ -1402,7 +1434,7 @@
             ],
             "students": [
                 {
-                    "name": "Amal Razik",
+                    "name": "Amal Razic K A",
                     "mob": "+919946631615"
                 },
                 {
