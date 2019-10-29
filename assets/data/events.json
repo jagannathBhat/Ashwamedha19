@@ -426,12 +426,12 @@
             ]
         },
         {
-            "name": "DARK FANTASY(Blind C Coding)",
+            "name": "DARK FANTASY (Blind C Coding)",
             "first": "Rs.2000",
             "second": "Rs.1000",
             "price": "Rs.150 per head",
             "day": "Day 1",
-            "time": "1:30PM to 4:30PM",
+            "time": "9:30AM to 12:30PM",
             "venue": "ADP Lab",
             "desc": "The event is to find an individual with good coding skills. This event will showcase the participant’s programming skills.",
             "rules": [
@@ -1412,6 +1412,93 @@
                 },
                 {
                     "name": "Prof AJU SIVAN"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "sub": "",
+            "first": "",
+            "second": "",
+            "third": "",
+            "prize": "",
+            "price": "",
+            "day": "",
+            "time": "",
+            "venue": "",
+            "desc": "",
+            "rules": [
+                ""
+            ],
+            "students": [
+                {
+                    "name": "",
+                    "mob": ""
+                },
+                {
+                    "name": "",
+                    "mob": ""
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "",
+                    "mob": ""
+                },
+                {
+                    "name": "",
+                    "mob": ""
+                }
+            ]
+        },
+        {
+            "name": "ROBO WAR",
+            "prize": "30K",
+            "price": "Rs 700 per team",
+            "day": "Day 1",
+            "time": "",
+            "venue": "",
+            "rules": [
+                "Dimension and fabrications",
+                [
+                    "Dimensions should not exceed 75×50×50cms",
+                    "The weight of the machine should not exceed 25kgs and should not be less than 15kgs (excluding remote control and remote control wires)."
+                ],
+                "Mobility includes",
+                [
+                    "Rolling(wheels,tracks or the whole robot)."
+                ],
+                "Battery",
+                [
+                    "The electrical voltage at any point of time in the machine should not exceed 24v(DC/AC)."
+                ],
+                "Weapon restrictions",
+                [
+                    "Must incorporate an active offensive weapon which is designed to damage, immobilize or seriously affect the operation of the opponent’s robot. Weapon specifications must be included on your registration form for approval."
+                ]
+            ],
+            "students": [
+                {
+                    "name": "Rahul Srikumar",
+                    "mob": "7982080632"
+                },
+                {
+                    "name": "Arun Prasad N P",
+                    "mob": "9497271061"
+                },
+                {
+                    "name": "Arun krishnan K R ",
+                    "mob": "9846415876"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "",
+                    "mob": ""
+                },
+                {
+                    "name": "",
+                    "mob": ""
                 }
             ]
         },
