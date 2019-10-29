@@ -154,7 +154,12 @@
             document.getElementById('eTitle').innerText = e.hasOwnProperty('name') ? e.name : ''
             document.getElementById('eSub').innerText = e.hasOwnProperty('sub') ? e.sub : ''
             document.getElementById('eDesc').innerText = e.hasOwnProperty('desc') ? e.desc : ''
-            document.getElementById('buyTickets').setAttribute('href', e.name === 'PROJECT R' ? 'http://bit.ly/Rregistration' : 'https://www.yepdesk.com/buy-tickets/5db04f6ae4b0306426d58832')
+            if (e.hasOwnProperty('name') && e.name != 'EXHIBIT') {
+                document.getElementById('buyTickets').style.display = 'inline-block'
+                document.getElementById('buyTickets').setAttribute('href', e.name === 'PROJECT R' ? 'http://bit.ly/Rregistration' : 'https://www.yepdesk.com/buy-tickets/5db04f6ae4b0306426d58832')
+            }
+            else if (e.hasOwnProperty('name') && e.name === 'EXHIBIT')
+                document.getElementById('buyTickets').style.display = 'none'
             if (e.hasOwnProperty('day') && e.hasOwnProperty('time') & e.hasOwnProperty('venue'))
                 document.getElementById('eTimeVenue').innerHTML = e.day + '<br>' + e.time + '<br>' + e.venue
             if (e.hasOwnProperty('price'))
