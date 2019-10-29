@@ -993,6 +993,40 @@
             ]
         },
         {
+            "name": "GRID RACING",
+            "prize": "1K",
+            "price": "Rs. 100 per head",
+            "day": "Day 2",
+            "time": "9:30AM to 1PM",
+            "venue": "Gaming Hub",
+            "desc": "Dig, drift, drag, and roll your ride to win. Face numerous rivals and become a racing legend. Show off your gaming skills.",
+            "rules": [
+                "General rules of ASHWAMEDHA ’19 is applicable for this event.",
+                "This is an individual event.",
+                "Damage: On",
+                "Tournament Format: Race( changes according to number of participants).",
+                "Controller:PC wired controller gamepad.",
+                "Players can pause the game twice.",
+                "Max number of flashbacks 4.",
+                "Max number of corner cutting 4."
+            ],
+            "students": [
+                {
+                    "name": "VISHNU NAIR",
+                    "mob": "+917025893287"
+                },
+                {
+                    "name": "RAHUL VINOD",
+                    "mob": "+918075811615"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "MAJO DAVIS"
+                }
+            ]
+        },
+        {
             "name": "HARDWARE ASSEMBLY",
             "first": "Rs.2000",
             "price": "Rs.100 per head",
@@ -1079,15 +1113,19 @@
             "venue": "CS Seminar Hall",
             "desc": "This Event is to find individual with best communication skill.",
             "rules": [
+                "General rules of ASHWAMEDHA ’19  are applicable for this event.",
                 "This is an individual event.",
-                "In the first round, general topics will be given, or images will be shown. Participants are allowed to talk about  each topic for 1 minute",
-                "The shortlisted students will be qualified for the next round. Topics provided in the second round will be technology-based.",
+                "There will be maximum of 30 participants from which only 5 participants will be qualified for the next round.",
+                "Topic will be given on the spot.",
                 "Language used must be English.",
-                "Topic will be given on spot.",
-                "Fluency, grammar and content will be checked.",
-                "Electronic devices like smartwatches, mobile phones are not allowed.",
-                "Presenting more than 65 sec is not allowed.",
-                "Offensive words should not be used."
+                "Fluency, grammar and content will be checked. ",
+                "Participants are allowed to talk about each topic for 1 minute.",
+                "In the first round, two general topics or images will be given. ",
+                "The shortlisted students will be qualified for the next round. 2 technology based topics will be provided in this round. ",
+                "Electronic devices like smart watch, mobile phones are not allowed.",
+                "The expected duration is between 50 and 65 seconds.",
+                "Offensive words should not be used.",
+                "Judges decision would be final."
             ],
             "students": [
                 {
@@ -1423,7 +1461,7 @@
             "price": "Rs.100 per head",
             "day": "Day 1",
             "time": "10AM to 1PM",
-            "venue": "S7 EEE",
+            "venue": "S1 ME(A)",
             "desc": "Technical quiz related to engineering field.",
             "rules": [
                 "Individual event",
@@ -1434,7 +1472,7 @@
                 "6 winners will face each other for one more round and the best 4 will be selected for finals.",
                 "In case of a tie in the second and final rounds, the tie will be resolved in a tiebreaker.",
                 "The quiz master will have the right to make changes to the pattern of the rounds.",
-                "The Decision of the judges (staff and students) will be final."
+                "The decision of the judges (staff and students) will be final."
             ],
             "students": [
                 {
