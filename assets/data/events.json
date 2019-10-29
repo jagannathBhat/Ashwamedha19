@@ -4,18 +4,18 @@
             "name": "ARCHIEMANIA",
             "first": "4000",
             "second": "2000",
-            "price": "150 Rs per head",
+            "price": "200 Rs per team",
             "day": "Day 2",
             "time": "10AM-12PM",
             "venue": "IN FRONT OF GT LAB",
             "desc": "Let’s gather some bricks and mortar. Wait not for a wall but for one of the fabulous structure in civil engineering...\"ARCH\".",
             "rules": [
-                "Event is open for students from any engineering branch.",
+                "Event is open for students from any college and school students.",
                 "Participants should report at least half an hour prior to the event schedule. ",
                 "There are 2 rounds and the first round will be a prelim.",
-                "Only top five teams will be selected into the second round",
-                "Materials needed for the competition will be provided by the college.",
-                "Each group can have minimum of 2 and maximum of 4 members",
+                "Only top five teams will be selected into the second round.",
+                "Materials needed for the competition will be provided by the organizers.",
+                "Each group can have minimum of 2 and maximum of 4 members.",
                 "Use of mobile phones is strictly prohibited.",
                 "The decision of the judges will be final."
             ],
@@ -42,15 +42,15 @@
             "name": "ARKIO",
             "first": "4000",
             "second": "2000",
-            "price": "150 Rs per head",
+            "price": "150 Rs per team",
             "day": "Day 2",
             "time": "10AM- 1PM",
             "venue": "S3 CIVIL",
             "desc": "Roll up your imaginations into reality, and make a structure beautiful and attractive which can take the highest load!",
             "rules": [
                 "Type of civil engineering structure to be designed will be given 10 minutes before the commencement of event.",
-                "Team size :2 students per team",
-                "Time duration: 2hours",
+                "Team size: 2 students per team",
+                "Time duration: 2 hours",
                 "Materials",
                 [
                     "Use popsicle sticks provided.",
@@ -86,8 +86,7 @@
         },
         {
             "name": "BATTLE OF TENDERS",
-            "first": "4000",
-            "second": "2000",
+            "prize": "4500",
             "price": "150 Rs per head",
             "day": "Day 2",
             "time": "11AM-1PM",
@@ -262,7 +261,7 @@
             "price": "250 Rs per head",
             "day": "Day 1",
             "time": "10AM-4PM",
-            "venue": "SURVEY LAB",
+            "venue": "S7 EEE",
             "desc": "Civil engineering structures that are made by the participants are exhibited and are evaluated on the basis of criteria’s that are given under.",
             "rules": [
                 "Individual and team participation are allowed.",
@@ -353,7 +352,7 @@
             "name": "CONSILIUM",
             "first": "4000",
             "second": "2000",
-            "price": "150 Rs per head",
+            "price": "300 Rs per team",
             "day": "Day 2",
             "time": "10AM-1PM",
             "venue": "CE LIBRARY",
@@ -512,6 +511,32 @@
                 },
                 {
                     "name": "Rajalakshmy Menon"
+                }
+            ]
+        },
+        {
+            "name": "EXHIBIT",
+            "price": "Free event",
+            "day": "Day 1 & 2",
+            "time": "Full Day",
+            "venue": "S5 CIVIL",
+            "desc": "Emerging trends in construction materials & greener construction practices are exhibited.",
+            "students": [
+                {
+                    "name": "JERIN",
+                    "mob": "+919496789295"
+                },
+                {
+                    "name": "ASHWATHI  MURUGAN",
+                    "mob": "+919400757458"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "PROF. AKHILA"
+                },
+                {
+                    "name": "SREEJA MISS"
                 }
             ]
         },
@@ -735,7 +760,7 @@
         {
             "name": "INVESTIGATION PROJECT 404",
             "first": "5000",
-            "price": "100 Rs per head",
+            "price": "250 Rs per team",
             "day": "Day 2",
             "time": "11AM-1PM",
             "venue": "CIVIL LIBRARY, NEAR AND AROUND CIVIL DEPARTMENT",
@@ -1120,13 +1145,12 @@
             "desc": "\"I shall be telling this with a sigh , somewhere ages and ages hence , two roads diverged in a wood and I took the one less handled by , and that made all the difference\" Enter the maze grid through the entry door. one wrong move gonna take you into loops and loops. Different puzzles to be solved within, if you get it all right which lead you to the correct exit, then you win !!",
             "rules": [
                 "The event is general.",
-                "The event is open to all KTU-affiliated college students irrespective of branches and school students.",
+                "The event is open to all college and school going students irrespective of branches.",
                 "Only individual participation is allowed for each registration.",
                 "The event includes general facts, logical reasoning, mathematical and common understanding skills.",
                 "The judgement will be based on speed, accuracy and time of completion.",
                 "Multiple registration not permitted for an individual.",
-                "The decisions of the judges will be final.",
-                "In case of more than 6 registrations, preliminary round consisting of an aptitude quiz will be conducted."
+                "The decisions of the judges will be final."
             ],
             "students": [
                 {
@@ -1191,6 +1215,48 @@
                 },
                 {
                     "name": "Prof. REMYA V"
+                }
+            ]
+        },
+        {
+            "name": "REFUERZOS",
+            "first": "5000",
+            "second": "3000",
+            "price": "250 Rs per team",
+            "day": "Day 1",
+            "time": "1PM - 4PM",
+            "venue": "S1 Civil",
+            "desc": "Use your technical skill in reinforcement STEEL  with \"REFUERZOS\"!!",
+            "rules": [
+                "Team of 4 participants is required.",
+                "Use of material other than the provided ones will lead to disqualification.",
+                "Judges decision is final.",
+                "The overall competition consists of 3 rounds.",
+                "Round 1(prelims) - pen and paper test-Based on general aptitude and engineering knowledge.",
+                "Only the team who qualify the prelims will be allowed to participate for the further round.",
+                "Round 2- In this round the participant will be tested based on their practical skills and the basic concepts of reinforcement.",
+                "The candidates will be provided with toothpicks and glue. They have to build a miniature model of column reinforcement.",
+                "Round 3- This is the final round. Here the reinforcement providing ability of the participants will be evaluated. A structural element will be specified for which the participants need to provide the reinforcements.",
+                "In this round the plan and the elevation of a structural element will be given to the participants. They have to bend and tie the steel bars in position according to given plan.",
+                "In case of tie of mark at any level then a further round will be conducted for those team depending on the decision of the event coordinators or organizers.",
+                "The decisions of the organizing committee will be final. "
+            ],
+            "students": [
+                {
+                    "name": "JOHN GEORGE",
+                    "mob": "+919496256030"
+                },
+                {
+                    "name": "SREEHARI S",
+                    "mob": "+919495814803"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "PROF.ANGITHA"
+                },
+                {
+                    "name": "PROF.REEMA"
                 }
             ]
         },
