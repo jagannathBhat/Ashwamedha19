@@ -166,48 +166,20 @@
             ]
         },
         {
-            "name": "PUBG TOURNAMENT",
-            "first": "3000",
-            "second": "1000",
-            "price": "Rs 300 per team",
+            "name": "BOOSTED",
+            "sub": "Engine tuning workshop",
+            "price": "Rs 500 per head ",
             "day": "Day 1",
-            "time": "930AM to 1PM",
-            "venue": "",
-            "desc": "No one owns life , But anyone who can pickup a fryingpan owns death. Take down some of the finest players around for the ultimate chicken dinner.",
-            "rules": [
-                "This is a team event.",
-                "A team should consist of 4 member",
-                "The number of rounds will depend on the number of participants.",
-                "The participants will be qualified to the next round based on a cut off rank from the previous round.",
-                "The playmap can be either ERANGEL or SANHOK.",
-                "Consoles, finger triggers, hacks are NOT  allowed. If found, the team will be disqualified immediately and refunds will not be provided.",
-                "Any malpractice if found will lead to disqualification of team from the tournament.",
-                "It is mandatory to bring your own Headphones. No headphones are  provided to participants.",
-                "Participants are  responsible for any kind of lags like network issues or battery issues or other, so you should have good internet connectivity & bring your power banks along with you.",
-                "The tournament will be held on TPP mode.",
-                "Room ID and PASSWORD will be provided 15 mins before the starting of every round.",
-                "Emulators are prohibited.",
-                "The Decision of the judges will be final.",
-                "Minimum team requirement is 10."
-            ],
+            "time": "11AM to 1PM",
+            "venue": "Mechanical department seminar hall",
             "students": [
                 {
-                    "name": "Muhammed Faseeh",
-                    "mob": "+918281584867"
+                    "name": "Cijesh S",
+                    "mob": "+919497171436"
                 },
                 {
-                    "name": "Yadhukrishnan",
-                    "mob": "+918281623539"
-                }
-            ],
-            "faculty": [
-                {
-                    "name": "",
-                    "mob": ""
-                },
-                {
-                    "name": "",
-                    "mob": ""
+                    "name": "Jaise Michael",
+                    "mob": "+919747056721"
                 }
             ]
         },
@@ -471,14 +443,18 @@
             "day": "Day 1",
             "time": "10AM to 1PM",
             "venue": "S7 Mechanical",
-            "desc": "",
+            "desc": "Contraption is a chain of different energy conversion steps, in which one step triggers the next one leading to completion of final task.In this event participants are asked to make a contraption system which will hit a skittle arrangement.",
             "rules": [
-                "This is a team event.Each team can occupy a maximum of 3 members.",
-                "Each team has to make a contraption system out of the provided items.",
-                "Participants can start a chain reaction triggering a sequence of events to hit the target(s).",
-                "The coordinators hold the right to change some of the rules without prior intimation.",
-                "Students are supposed to bring their college ID cards for verification process.",
-                "Decision of the Staff Co-ordinators will be final."
+                "A maximum of 3 members in each group are allowed.",
+                "Participants are provided with the components required.",
+                "The total duration of this contest is 3 hours.",
+                "The participants have to hit the targets placed in rows using their contraption system.",
+                "The system should have a minimum number of 10 steps.A step is an action that results into         another action and continues to the final aim.",
+                "Parallel steps will be awarded more marks.A parallel step is an action which initiates two or  more steps at the same time.",
+                "Participants can start the chain reaction automatically or manually.",
+                "Participants are allowed to make a maximum of 2 checkpoints in their system according to their convince, but the marks will be deducted accordingly as well.",
+                "Participents are allowed to use fire and water in their contraption system.",
+                "Participants  will be provided with power supply if needed."
             ],
             "students": [
                 {
@@ -496,12 +472,8 @@
             ],
             "faculty": [
                 {
-                    "name": "",
-                    "mob": ""
-                },
-                {
-                    "name": "",
-                    "mob": ""
+                    "name": "Prof. Tony K.P",
+                    "mob": "+919946417275"
                 }
             ]
         },
@@ -1429,7 +1401,43 @@
             ]
         },
         {
-            "name": "REFUERZOS",
+            "name": "PUBG TOURNAMENT",
+            "first": "3000",
+            "second": "1000",
+            "price": "Rs 300 per team",
+            "day": "Day 1",
+            "time": "930AM to 1PM",
+            "venue": "",
+            "desc": "No one owns life , But anyone who can pickup a fryingpan owns death. Take down some of the finest players around for the ultimate chicken dinner.",
+            "rules": [
+                "This is a team event.",
+                "A team should consist of 4 member",
+                "The number of rounds will depend on the number of participants.",
+                "The participants will be qualified to the next round based on a cut off rank from the previous round.",
+                "The playmap can be either ERANGEL or SANHOK.",
+                "Consoles, finger triggers, hacks are NOT  allowed. If found, the team will be disqualified immediately and refunds will not be provided.",
+                "Any malpractice if found will lead to disqualification of team from the tournament.",
+                "It is mandatory to bring your own Headphones. No headphones are  provided to participants.",
+                "Participants are  responsible for any kind of lags like network issues or battery issues or other, so you should have good internet connectivity & bring your power banks along with you.",
+                "The tournament will be held on TPP mode.",
+                "Room ID and PASSWORD will be provided 15 mins before the starting of every round.",
+                "Emulators are prohibited.",
+                "The Decision of the judges will be final.",
+                "Minimum team requirement is 10."
+            ],
+            "students": [
+                {
+                    "name": "Muhammed Faseeh",
+                    "mob": "+918281584867"
+                },
+                {
+                    "name": "Yadhukrishnan",
+                    "mob": "+918281623539"
+                }
+            ]
+        },
+        {
+            "name": "REFUREZOS",
             "first": "5000",
             "second": "3000",
             "price": "250 Rs per team",
