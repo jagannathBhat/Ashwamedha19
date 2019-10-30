@@ -168,6 +168,36 @@
             ]
         },
         {
+            "name": "Blackhat Lounge",
+            "prize": "5K",
+            "price": "Rs 300 per team",
+            "day": "Day 1",
+            "time": "10AM to 4PM",
+            "venue": "CSE SEMINAR HALL",
+            "desc": "The event will be a combination of a power talk on cyber security and bug bounty programs by prominent bug-bounty hunter Mr.Hariharan and Mr. Anup Narayan, CEO First Legion (security quotient) followed by a Capture the Flag challenge which tests out the swiftness and skills of ethical hackers.",
+            "rules": [
+                "Team event( maximum 3 members)",
+                "It's strictly forbidden to perform any kind of Denial of Service Attack (DoS/DDoS) against the servers or the competition's infrastructure;",
+                "Do NOT try to use Brute Force on the flag submission system because the flags are not possible to guess;",
+                "Do NOT try to exchange flags or write-ups during the competition;",
+                "The flag pattern will be as follows: ASIET{flag_here};",
+                "The competition will last for 4 hours in a row, no breaks;",
+                "The teams may have as maximum of 3 members;",
+                "Any kind of *violation* of these rules will mean immediate disqualification of the team;",
+                "Bring your own laptops;"
+            ],
+            "students": [
+                {
+                    "name": "ARJUN CHANDRAN",
+                    "mob": "+919747970122"
+                },
+                {
+                    "name": "RAVISHANKAR M",
+                    "mob": "+917736987299"
+                }
+            ]
+        },
+        {
             "name": "CELL PROBE",
             "first": "Rs.3000",
             "second": "Rs.2000",
