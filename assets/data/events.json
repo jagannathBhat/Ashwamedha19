@@ -469,6 +469,47 @@
             ]
         },
         {
+            "name": "DIZMASTER",
+            "sub": "A race for the crown of the utlimate SolidWorks designer out there. ",
+            "first": "",
+            "second": "",
+            "third": "",
+            "prize": "",
+            "price": "Rs 100 per head",
+            "day": "Day 1",
+            "time": "1230PM to 130PM",
+            "venue": "CCF LAB",
+            "desc": "",
+            "rules": [
+                "The competition will mainly be based on rollcage design.",
+                "In case of very less participation, changes may be put forth by the coordinators. ",
+                "This is an individual event. ",
+                "The judge's decision is final and binding. ",
+                "Rough work stationary will be provided. ",
+                "The decision of the judges will be final."
+            ],
+            "students": [
+                {
+                    "name": "Akshay Ajoy",
+                    "mob": "+918078207696"
+                },
+                {
+                    "name": "Aby Scaria",
+                    "mob": "+919495980928"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "",
+                    "mob": ""
+                },
+                {
+                    "name": "",
+                    "mob": ""
+                }
+            ]
+        },
+        {
             "name": "ELECTRA HUNT",
             "first": "3000",
             "price": "200 Rs per team",
@@ -1209,16 +1250,6 @@
                     "name": "NOUREEN MUHAMMED RAFI",
                     "mob": "+918547029637"
                 }
-            ],
-            "faculty": [
-                {
-                    "name": "",
-                    "mob": ""
-                },
-                {
-                    "name": "",
-                    "mob": ""
-                }
             ]
         },
         {
@@ -1227,7 +1258,7 @@
             "day": "Day 1",
             "time": "10AM-12PM",
             "venue": "Central Computing Facility",
-            "desc": "Thinking of a career in designing ? Then you are in the right place.",
+            "desc": "Thinking of a career in designing ? Then you are in the right place. For aspirants and beginners.",
             "rules": [
                 "This is an individual event.",
                 "Bring your own laptops with SW installed, if not computers will be provided.",
@@ -1412,42 +1443,6 @@
                 },
                 {
                     "name": "Prof AJU SIVAN"
-                }
-            ]
-        },
-        {
-            "name": "",
-            "sub": "",
-            "first": "",
-            "second": "",
-            "third": "",
-            "prize": "",
-            "price": "",
-            "day": "",
-            "time": "",
-            "venue": "",
-            "desc": "",
-            "rules": [
-                ""
-            ],
-            "students": [
-                {
-                    "name": "",
-                    "mob": ""
-                },
-                {
-                    "name": "",
-                    "mob": ""
-                }
-            ],
-            "faculty": [
-                {
-                    "name": "",
-                    "mob": ""
-                },
-                {
-                    "name": "",
-                    "mob": ""
                 }
             ]
         },
