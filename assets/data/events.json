@@ -166,6 +166,52 @@
             ]
         },
         {
+            "name": "PUBG TOURNAMENT",
+            "first": "3000",
+            "second": "1000",
+            "price": "Rs 300 per team",
+            "day": "Day 1",
+            "time": "930AM to 1PM",
+            "venue": "",
+            "desc": "No one owns life , But anyone who can pickup a fryingpan owns death. Take down some of the finest players around for the ultimate chicken dinner.",
+            "rules": [
+                "This is a team event.",
+                "A team should consist of 4 member",
+                "The number of rounds will depend on the number of participants.",
+                "The participants will be qualified to the next round based on a cut off rank from the previous round.",
+                "The playmap can be either ERANGEL or SANHOK.",
+                "Consoles, finger triggers, hacks are NOT  allowed. If found, the team will be disqualified immediately and refunds will not be provided.",
+                "Any malpractice if found will lead to disqualification of team from the tournament.",
+                "It is mandatory to bring your own Headphones. No headphones are  provided to participants.",
+                "Participants are  responsible for any kind of lags like network issues or battery issues or other, so you should have good internet connectivity & bring your power banks along with you.",
+                "The tournament will be held on TPP mode.",
+                "Room ID and PASSWORD will be provided 15 mins before the starting of every round.",
+                "Emulators are prohibited.",
+                "The Decision of the judges will be final.",
+                "Minimum team requirement is 10."
+            ],
+            "students": [
+                {
+                    "name": "Muhammed Faseeh",
+                    "mob": "+918281584867"
+                },
+                {
+                    "name": "Yadhukrishnan",
+                    "mob": "+918281623539"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "",
+                    "mob": ""
+                },
+                {
+                    "name": "",
+                    "mob": ""
+                }
+            ]
+        },
+        {
             "name": "Blackhat Lounge",
             "prize": "5K",
             "price": "Rs 300 per team",
