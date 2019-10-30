@@ -2,8 +2,8 @@
     "events": [
         {
             "name": "ARCHIEMANIA",
-            "first": "4500",
-            "second": "2000",
+            "first": "3000",
+            "second": "1500",
             "price": "200 Rs per team",
             "day": "Day 2",
             "time": "10AM-12PM",
@@ -258,13 +258,14 @@
             "name": "CIVIL EXPO",
             "first": "6000",
             "second": "4000",
-            "price": "250 Rs per head",
+            "price": "250 Rs per team",
             "day": "Day 1",
             "time": "10AM-4PM",
             "venue": "S7 EEE",
             "desc": "Civil engineering structures that are made by the participants are exhibited and are evaluated on the basis of criteria’s that are given under.",
             "rules": [
                 "Individual and team participation are allowed.",
+                "Maximum 4 participant are allowed in a team.",
                 "Each team should also present a poster explaining the model. Marks are awarded for the posters displayed.",
                 "There will be no separate prizes for working models and still models. Criteria is set accordingly.",
                 "Criteria for Still Models",
