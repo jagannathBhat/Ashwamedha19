@@ -470,16 +470,12 @@
         },
         {
             "name": "DIZMASTER",
-            "sub": "A race for the crown of the utlimate SolidWorks designer out there. ",
-            "first": "",
-            "second": "",
-            "third": "",
-            "prize": "",
+            "sub": "A race for the crown of the ultimate SolidWorks designer out there. ",
+            "prize": "5K",
             "price": "Rs 100 per head",
             "day": "Day 1",
             "time": "1230PM to 130PM",
             "venue": "CCF LAB",
-            "desc": "",
             "rules": [
                 "The competition will mainly be based on rollcage design.",
                 "In case of very less participation, changes may be put forth by the coordinators. ",
@@ -496,16 +492,6 @@
                 {
                     "name": "Aby Scaria",
                     "mob": "+919495980928"
-                }
-            ],
-            "faculty": [
-                {
-                    "name": "",
-                    "mob": ""
-                },
-                {
-                    "name": "",
-                    "mob": ""
                 }
             ]
         },
@@ -1451,8 +1437,8 @@
             "prize": "30K",
             "price": "Rs 700 per team",
             "day": "Day 1",
-            "time": "",
-            "venue": "",
+            "time": "1PM to 4PM",
+            "venue": "Central courtyard",
             "rules": [
                 "Dimension and fabrications",
                 [
