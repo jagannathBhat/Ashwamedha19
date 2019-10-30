@@ -420,6 +420,48 @@
             ]
         },
         {
+            "name": "Contracción Mecánica",
+            "sub": "A technical competition where you can tinker with tools,initiate a trigger and target a stated goal.",
+            "prize": "5K",
+            "price": "Rs 300 per team",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "S7 Mechanical",
+            "desc": "",
+            "rules": [
+                "This is a team event.Each team can occupy a maximum of 3 members.",
+                "Each team has to make a contraption system out of the provided items.",
+                "Participants can start a chain reaction triggering a sequence of events to hit the target(s).",
+                "The coordinators hold the right to change some of the rules without prior intimation.",
+                "Students are supposed to bring their college ID cards for verification process.",
+                "Decision of the Staff Co-ordinators will be final."
+            ],
+            "students": [
+                {
+                    "name": "K.A Ajsal Kareem",
+                    "mob": "+919207139393"
+                },
+                {
+                    "name": "Chandlal Babu",
+                    "mob": "+919207029831"
+                },
+                {
+                    "name": "Ashwin V",
+                    "mob": "+919496674069"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "",
+                    "mob": ""
+                },
+                {
+                    "name": "",
+                    "mob": ""
+                }
+            ]
+        },
+        {
             "name": "CROSSWORD",
             "first": "Rs.1000",
             "price": "Rs.100 per team",
