@@ -394,7 +394,7 @@
             "price": "Rs.100 per team",
             "day": "Day 2",
             "time": "1PM to 4PM",
-            "venue": "S7 EEE, S1 ME A",
+            "venue": "S7 EEE",
             "desc": "In this event the teams have to complete the crossword that has been made on the floor using the letters provided. The question will include both technical and general.",
             "rules": [
                 "Team event (2 members).",
@@ -402,7 +402,7 @@
                 "It is a time-based event. The aim is to complete the crossword within a specific time.",
                 "Time within which crossword should be completed will be announced at the time of the event.",
                 "Only one team at a time will be allowed in the room to complete the crossword.",
-                "All the teams not able to complete the crossword within the given time, the team with most correct answers will be the winners.",
+                "All the teams who are not able to complete the crossword within the given time, the team with most correct answers will be the winners.",
                 "In case of a tie the decision will be made by the judges on the tiebreaker.",
                 "The decision of the judges will be final."
             ],
@@ -499,6 +499,7 @@
             "name": "ELECTRA HUNT",
             "first": "3000",
             "price": "200 Rs per team",
+            "prize": "1K",
             "day": "Day 2",
             "time": "10AM-4PM",
             "venue": "Power Electronics Lab EEE, EEE Seminar Hall, S1 ME Classroom (B)",
