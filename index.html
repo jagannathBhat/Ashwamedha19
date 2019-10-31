@@ -161,7 +161,7 @@
             else if (e.hasOwnProperty('name') && e.name === 'EXHIBIT')
                 document.getElementById('buyTickets').style.display = 'none'
             if (e.hasOwnProperty('day') && e.hasOwnProperty('time') & e.hasOwnProperty('venue'))
-                document.getElementById('eTimeVenue').innerHTML = e.day + '<br>' + e.time + '<br>' + e.venue
+                document.getElementById('eTimeVenue').innerHTML = e.day + '<br>' + e.time + '<br>Venue: ' + e.venue
             if (e.hasOwnProperty('price'))
                 document.getElementById('ePrice').innerText = e.price
             document.getElementById('ePrizes').innerHTML = ''

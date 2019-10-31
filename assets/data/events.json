@@ -30,14 +30,14 @@
             "name": "ARCHIEMANIA",
             "first": "3000",
             "second": "1500",
-            "price": "200 Rs per team",
+            "price": "Rs 200 per team",
             "day": "Day 2",
             "time": "10AM-12PM",
             "venue": "IN FRONT OF GT LAB",
-            "desc": "Let’s gather some bricks and mortar. Wait not for a wall but for one of the fabulous structure in civil engineering...\"ARCH\".",
+            "desc": "Let’s gather some bricks and mortar.Wait not for a wall but for one of the fabulous structure in civil engineering...\"ARCH\". Building an arch using given no.of brick and Clay .The arch will be evaluated based on its strength and aesthetic appearance.A team consisting  of 2 to 4 members can participate in the event.There will be 2 rounds.1st round will be prelims(based on general knowledge,MCQ type) and only 5 qualifiers of prelims will go to the next round. All materials required for arch making will be provided. Use of mobile phones will be strictly prohibited and judge’s decision will be final. For registration details visit our official website mentioned above.",
             "rules": [
-                "Event is open for students from any college and school students.",
-                "Participants should report at least half an hour prior to the event schedule. ",
+                "Event is open for students from any engineering college, polytechnic and higher secondary school students.",
+                "Participants should report at least half an hour prior to the event schedule.",
                 "There are 2 rounds and the first round will be a prelim.",
                 "Only top five teams will be selected into the second round.",
                 "Materials needed for the competition will be provided by the organizers.",
@@ -68,11 +68,11 @@
             "name": "ARKIO",
             "first": "4000",
             "second": "2000",
-            "price": "150 Rs per team",
+            "price": "Rs 150 per team",
             "day": "Day 2",
-            "time": "10AM- 1PM",
+            "time": "10AM to 1PM",
             "venue": "S3 CIVIL",
-            "desc": "Roll up your imaginations into reality, and make a structure beautiful and attractive which can take the highest load!",
+            "desc": "Roll up your imaginations into reality, and make a structure beautiful and attractive which can take the highest load! The event is open for all engineering and polytechnic students.Each team is provided with 100popsicle for the making of respective structure. Time duration allowed for the making of structure is 2 hours. Maximum 2 students can participate in a team. Specafication of the structure will be provided 10 minutes before the commencement of event. Judging will be based on aesthetics, dimensions, deformation,load carrying capacity,and self weight. Adhesives, scissors and Popsicle sticks will be provided before the commencement of the event. Use of any item other than specified are not allowed to use and will lead to disqualification. The decisions of the organizing committee will be final. In case of more than 5 registrations, preliminary round consisting of a technical quiz will be conducted.",
             "rules": [
                 "Type of civil engineering structure to be designed will be given 10 minutes before the commencement of event.",
                 "Team size: 2 students per team",
@@ -80,16 +80,16 @@
                 "Materials",
                 [
                     "Use popsicle sticks provided.",
-                    "Maximum number of sticks provided will be 100",
+                    "Maximum number of sticks provided will be 100.",
                     "Adhesives, scissors and popsicle sticks will be provided before the commencement of the event."
                 ],
                 "Sticks can be physically altered by cutting or notching at an angle using scissors.",
-                "Use of any item other than specified are not allowed to use and will lead to disqualification",
+                "Use of any item other than specified are not allowed to use and will lead to disqualification.",
                 "Specification of the structure will be provided 10 minutes before the commencement of event.",
                 "Judging will be based on aesthetics, dimensions, deformation, load carrying capacity, and self weight.",
                 "The decision of judges will be final.",
-                "The event is open for all engineering students and students from KTU affiliated MBA colleges.",
-                "Note - In case of more than 5 registrations, preliminary round consisting of a quiz will be conducted."
+                "The event is open for all engineering college, polytechnic and higher secondary school students.",
+                "In case of more than 5 registrations, preliminary round consisting of a quiz will be conducted."
             ],
             "students": [
                 {
@@ -112,17 +112,18 @@
         },
         {
             "name": "BATTLE OF TENDERS",
-            "prize": "4500",
-            "price": "150 Rs per head",
+            "first": "3000",
+            "second": "1500",
+            "price": "Rs 150 per head",
             "day": "Day 2",
-            "time": "11AM-1PM",
+            "time": "11AM to 1PM",
             "venue": "GT2 LAB",
             "desc": "Use of planning skill and its estimation with \"BATTLE OF TENDERS\"",
             "rules": [
                 "The event is civil based.",
                 "Team entries are not allowed.",
                 "Use of materials other than provided ones will lead to disqualification.",
-                "The valuation of the event will be based on –innovative ideas in planning and its estimation.",
+                "The valuation of the event will be based on innovative ideas in planning and its estimation.",
                 "The decision of the judges will be final."
             ],
             "students": [
@@ -374,9 +375,9 @@
             "name": "CIVIL EXPO",
             "first": "6000",
             "second": "4000",
-            "price": "250 Rs per team",
+            "price": "Rs 250 per team",
             "day": "Day 1",
-            "time": "10AM-4PM",
+            "time": "10AM to 4PM",
             "venue": "S7 EEE",
             "desc": "Civil engineering structures that are made by the participants are exhibited and are evaluated on the basis of criteria’s that are given under.",
             "rules": [
@@ -469,18 +470,17 @@
             "name": "CONSILIUM",
             "first": "4000",
             "second": "2000",
-            "price": "300 Rs per team",
+            "price": "Rs 300 per team",
             "day": "Day 2",
-            "time": "10AM-1PM",
+            "time": "10AM to 1PM",
             "venue": "NEW CIVIL LIBRARY",
-            "desc": "A technical event of town planning. Various adhverse conditions are given &participants ability to plan in a greener way is evaluted.",
+            "desc": "A technical event of planning and creative thinking. Various adverse conditions are given & participant’s ability to plan in a sustainable and innovative way is evaluated. Round 1 consists of town planning and round 2 consists of model making using the given materials.",
             "rules": [
-                "Only team entries are eligible.",
-                "A team shall consist of max. 3 persons.",
-                "The participants will be given a blank sheet of paper for the sketching the town based on a theme given.",
-                "The event will be judged on the basis of neatness of the drawing, innovative ideas for sustainability, special features and also on how the plan is presented.",
-                "The decisions of the judges will be final.",
-                "If  there is more than 5 team, preliminary test will be conducted."
+                "Team entries of maximum 3 participants are eligible.",
+                "Necessary items for the participation will be provided accordingly during the event.",
+                "The event will be judged on the basis of clear-cut presentation and innovativeness in ideas, practical and general engineering knowledge, aesthetics and time limit.",
+                "The judge’s decision will be final.",
+                "If there is more than 5 team, preliminary test will be conducted."
             ],
             "students": [
                 {
@@ -920,14 +920,14 @@
         {
             "name": "INVESTIGATION PROJECT 404",
             "first": "5000",
-            "price": "250 Rs per team",
+            "price": "College students: Rs 250 per team\nSchool students: Rs 200 per team (Promo Code: SCHOOL50)",
             "day": "Day 2",
-            "time": "11AM-1PM",
+            "time": "11AM to 1PM",
             "venue": "CIVIL LIBRARY, NEAR AND AROUND CIVIL DEPARTMENT",
-            "desc": "Receive your box of clues, piece it all together, get lost in the fictional world, and uncover the mystery.",
+            "desc": "Receive your box of clues, piece it all together, get lost in the fictional world, and uncover the mystery. There is a killer roaming around. Unless he is stopped catastrophes may follow. Your task is to find the killer and hunt him down. Saddle up!!!",
             "rules": [
                 "The event is general.",
-                "The event is open to all college and school students.",
+                "The event is open to all engineering college, polytechnic and higher secondary school students.",
                 "Only group participation is allowed.",
                 "Each group can have maximum of four members.",
                 "The entire competition is divided into three rounds, each of one being a knockout round.",
@@ -935,7 +935,7 @@
                 "Rounds will include general facts, logical reasoning, mathematical and common understanding skills.",
                 "The judgement will be based on speed and time of completion.",
                 "The decisions of the judges will be final.",
-                "Note: In case of more than 6 registrations, preliminary round consisting of an aptitude quiz will be conducted."
+                "In case of more than 6 registrations, preliminary round consisting of an aptitude quiz will be conducted."
             ],
             "students": [
                 {
@@ -1377,14 +1377,15 @@
         },
         {
             "name": "MAZE RUNNER",
-            "prize": "6K",
-            "price": "250 Rs per head",
+            "first": "Day 1: 3K\nDay 2: 3K",
+            "price": "College students: Rs 250 per head\nSchool students: Rs 200 per head (Promo code SCHOOL50)",
             "day": "Day 1 & 2",
+            "time": "Full day",
             "venue": "CIVIL LOBBY",
             "desc": "\"I shall be telling this with a sigh , somewhere ages and ages hence , two roads diverged in a wood and I took the one less handled by , and that made all the difference\" Enter the maze grid through the entry door. one wrong move gonna take you into loops and loops. Different puzzles to be solved within, if you get it all right which lead you to the correct exit, then you win !!",
             "rules": [
                 "The event is general.",
-                "The event is open to all college and school going students irrespective of branches.",
+                "The event is open to all engineering college, polytechnic and higher secondary school students.",
                 "Only individual participation is allowed for each registration.",
                 "The event includes general facts, logical reasoning, mathematical and common understanding skills.",
                 "The judgement will be based on speed, accuracy and time of completion.",
@@ -1481,7 +1482,6 @@
             "price": "Rs 300 per team",
             "day": "Day 1",
             "time": "930AM to 1PM",
-            "venue": "",
             "desc": "No one owns life , But anyone who can pickup a fryingpan owns death. Take down some of the finest players around for the ultimate chicken dinner.",
             "rules": [
                 "This is a team event.",
@@ -1514,7 +1514,7 @@
             "name": "REFUERZOS",
             "first": "5000",
             "second": "3000",
-            "price": "250 Rs per team",
+            "price": "Rs 250 per team",
             "day": "Day 1",
             "time": "1PM - 4PM",
             "venue": "S1 Civil",
