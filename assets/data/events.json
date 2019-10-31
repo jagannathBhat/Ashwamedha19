@@ -1,6 +1,32 @@
 {
     "events": [
         {
+            "name": "2D GAME DEVELOPMENT WORKSHOP",
+            "prize": "2.2K",
+            "price": "Rs 200 per person",
+            "day": "Day 2",
+            "time": "10AM to 4PM",
+            "venue": "System Internal (SI)Lab",
+            "desc": "A hands on workshop using Unity engine followed by a competition for participants.",
+            "rules": [
+                "Participants can bring their own laptops for the workshop and competition.",
+                "Don't worry if you don't have a system of your own.We will provide you with the system.",
+                "Both the workshop and competition held after are individual events.",
+                "The decision of the Judges will be final.",
+                "For the competition, participants to complete the task quickly without any flaws are considered to be winners."
+            ],
+            "students": [
+                {
+                    "name": "VAISAGH D",
+                    "mob": "+917034821302"
+                },
+                {
+                    "name": "DINAK RAJ VISHNU",
+                    "mob": "+918547200693"
+                }
+            ]
+        },
+        {
             "name": "ARCHIEMANIA",
             "first": "3000",
             "second": "1500",
@@ -166,6 +192,50 @@
             ]
         },
         {
+            "name": "BLACKOUT",
+            "prize": "8K",
+            "price": "Rs 150 per head",
+            "day": "DAY 1 & 2",
+            "time": "10AM to 3PM",
+            "venue": "S5 AE & S7 AE",
+            "rules": [
+                "2 participants per team",
+                "Event will be organised on both days",
+                "The event will comprise of 5 stages,the team that completes all the puzzles and come out of the puzzle room in minimum time will be the winner.",
+                "Large part of furniture is part of this game,donot try to move it and donot touch the walls.",
+                "Use of mobile phone are strictly prohibited.",
+                "The decision of judges will be final."
+            ],
+            "students": [
+                {
+                    "name": "Zahid",
+                    "mob": "+918086175531"
+                },
+                {
+                    "name": "Alok",
+                    "mob": "+91949716645"
+                },
+                {
+                    "name": "Nidhun",
+                    "mob": "+917356345640"
+                },
+                {
+                    "name": "Anfal",
+                    "mob": "+918848577317"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "",
+                    "mob": ""
+                },
+                {
+                    "name": "",
+                    "mob": ""
+                }
+            ]
+        },
+        {
             "name": "BOOSTED",
             "sub": "Engine tuning workshop",
             "price": "Rs 500 per head ",
@@ -184,7 +254,7 @@
             ]
         },
         {
-            "name": "Blackhat Lounge",
+            "name": "BLACKHAT LOUNGE",
             "prize": "5K",
             "price": "Rs 300 per team",
             "day": "Day 1",
@@ -1276,7 +1346,7 @@
         },
         {
             "name": "KING OF TROLLS",
-            "first": "Rs.2000",
+            "first": "15000",
             "venue": "Online",
             "rules": [
                 "Troll can be made on any software.",
@@ -1298,6 +1368,10 @@
                 {
                     "name": "Manomy",
                     "mob": "+919605807815"
+                },
+                {
+                    "name": "Renuka Jayan",
+                    "mob": "+918281058925"
                 }
             ]
         },
@@ -1437,7 +1511,7 @@
             ]
         },
         {
-            "name": "REFUREZOS",
+            "name": "REFUERZOS",
             "first": "5000",
             "second": "3000",
             "price": "250 Rs per team",
@@ -1849,23 +1923,25 @@
             ]
         },
         {
-            "name": "Zoom_ IN Zoom_ OUT",
+            "name": "ZOOM_ IN ZOOM_ OUT",
             "first": "Rs.1500",
             "second": "Rs.1000",
-            "price": "Rs.100 per head",
+            "price": "Rs.100 per team",
             "day": "Day 1",
             "time": "10AM to 12:30PM",
             "venue": "S3 CSB/College Premises",
-            "desc": "This Event is to find individual with best photographic skill.",
+            "desc": "This Event is to find individuals with best photographic skill.",
             "rules": [
-                "A maximum of 2 participants are allowed in a contestant team. One may participate as an individual as well.",
+                "Maximum of 2 participants are allowed in a contestant team. One may participate as an individual as well.",
                 "All photographs submitted must be taken within the campus.",
-                "The submissions have to be theme-based. All themes will be announced during the event.",
+                "The submissions have to be theme based. The theme will be announced just before the commencement of the event.",
                 "All photographs submitted must be captioned.",
                 "All photographs must be submitted within 2 hours of commencement of the event.",
-                "The photographs may be taken using any kind of cameras including mobile phones. The submissions should of a minimum clarity.",
-                "All submissions should be in JPEG format and must not contain watermarks or logos.",
+                "The photographs may be taken using any kind of cameras including mobile phones. ",
+                "All submissions should be in JPEG format and must not contain watermarks ,logos or name of the photographer.",
+                "Each contestant team can submit only one photograph.",
                 "Edited photographs will not be considered for evaluation.",
+                "Photograph must not, contain obscene, provocative, defamatory, sexually explicit, or otherwise objectionable or inappropriate content.",
                 "Judges decision will be final."
             ],
             "students": [
@@ -1880,10 +1956,12 @@
             ],
             "faculty": [
                 {
-                    "name": "Joseph George"
+                    "name": "Joseph George",
+                    "mob": "+918547428333"
                 },
                 {
-                    "name": "Sumathy M V"
+                    "name": "Sumathy M V",
+                    "mob": "+918281406963"
                 }
             ]
         }
