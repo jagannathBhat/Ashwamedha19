@@ -10,7 +10,7 @@
             "desc": "A hands on workshop using Unity engine followed by a competition for participants.",
             "rules": [
                 "Participants can bring their own laptops for the workshop and competition.",
-                "Don't worry if you don't have a system of your own.We will provide you with the system.",
+                "Don't worry if you don't have a system of your own. We will provide you with the system.",
                 "Both the workshop and competition held after are individual events.",
                 "The decision of the Judges will be final.",
                 "For the competition, participants to complete the task quickly without any flaws are considered to be winners."
@@ -348,12 +348,13 @@
                 "All the BTech Students can participate.",
                 "The decision of organizing panel is considered absolute in all manners.",
                 "The event consists of 2 rounds.",
-                "In the first round, participants will be provided with a Smartphone and are allowed to review it for 3-5 mins.",
+                "In the first round, participants will be provided pictures of a Smartphone and are allowed to review it for 3-5 mins",
                 "Shortlisted Participants will be entering Round 2.",
                 "Second Round consists of Blindfolded Identification of the phone.",
                 "In the end, Tiebreaker may consist of certain questions related to the former sessions.",
                 "The Winner will be declared on the basis of Cumulative Score",
-                "The decision of the judges will be final."
+                "The decision of the judges will be final.",
+                "Participants of cell probe can attend Flagship Fiera expo without registration fee."
             ],
             "students": [
                 {
@@ -1101,6 +1102,7 @@
             "desc": "The event is an expo of flagships of Smartphone giants.",
             "rules": [
                 "All the BTech Students can participate.",
+                "Participants of Cell probe can attend the expo without registration fee.",
                 "Audience must handle the items displayed with care.",
                 "Participants must do the payment for any destruction done by them to the displayed items ."
             ],
@@ -1408,7 +1410,8 @@
                 "Trolls should be watermarked as “KING OF TROLLS-ASHWAMEDHA 2K19”. ",
                 "Only the entries shared to ashwamedha2k19@gmail.com within the time period are considered for competition.",
                 "Evaluation criteria based on the number of liked on Instagram page of ‘Ashwamedha 2k19’.",
-                "Time period for uploading the entries is up to 6:00Pm ,2nd November 2019."
+                "The likes are counted upto 5th Nov 12 p.m . After that you will get an email declaring the results for which you have to collect the prize by 6th Nov.",
+                "Time period for uploading the entries is up to 6:00PM, 4th November 2019."
             ],
             "students": [
                 {
