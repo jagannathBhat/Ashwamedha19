@@ -937,7 +937,7 @@
         {
             "name": "ENGINE ASSEMBLY",
             "sub": "CONSTRUCT THE DEMOLISHED",
-            "price": "Rs.1000 per team (200 per head)",
+            "price": "Rs 200 per head",
             "day": "Day 1 & 2",
             "time": "10PM to 1PM",
             "venue": "Project/Fabrication facility, Mechanical Block",
@@ -1355,7 +1355,7 @@
             "name": "JUST A MINUTE (JAM)",
             "first": "Rs.2500",
             "second": "Rs.1500",
-            "price": "Rs.100 per head",
+            "price": "Rs. 50 per head",
             "day": "Day 2",
             "time": "10AM to 1PM",
             "venue": "CS Seminar Hall",
