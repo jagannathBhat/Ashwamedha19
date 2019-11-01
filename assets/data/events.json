@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "name": "2D GAME DEVELOPMENT WORKSHOP",
+            "name": "UNITY 2D GAME DEVELOPMENT WORKSHOP",
             "prize": "2.2K",
             "price": "Rs 200 per person",
             "day": "Day 2",
@@ -965,6 +965,61 @@
                 {
                     "name": "Asst. Prof. Eldhise Yacob",
                     "mob": "9495470604"
+                }
+            ]
+        },
+        {
+            "name": "GLOW BALL",
+            "sub": "Play Football in Dark",
+            "first": "",
+            "second": "",
+            "third": "",
+            "prize": "",
+            "price": "Rs.150 per team",
+            "day": "Day 1 & 2",
+            "time": "10AM to 4PM",
+            "venue": "S7 EC B (S03 A)",
+            "desc": "Your mission is to win the Tournament. Your playing skills will take you to Victory ",
+            "rules": [
+                "A team of 3 can participate.",
+                "The returnable Jerseys will be provided .",
+                "Duration of Game is 6 minutes.",
+                "General rules of football must be followed.",
+                "Referee's decision shall be final.",
+                "Proper discipline must be maintained (Use of abusive words or gestures will not be entertained).",
+                "Participants should play barefoot.",
+                "Passes/Shooting above the knee level would be considered as a foul, if so penalty will be given to the opposing team.",
+                "If draw, penalty shootout is followed (back heel penalty from center).",
+                "Winning team will be awarded Rs.200 per match.",
+                "Any kind of destruction caused due to negligence or violation of the rules mentioned by the organizing team will be subject to penalization.",
+                "Any of the rule stated above can be changed or updated by the event coordinators and will be informed."
+            ],
+            "students": [
+                {
+                    "name": "VS Aswin",
+                    "mob": "+917306275168"
+                },
+                {
+                    "name": "Ashik TR",
+                    "mob": "+919745738932"
+                },
+                {
+                    "name": "Sohith Krishna",
+                    "mob": "+919497017703"
+                },
+                {
+                    "name": "Nirmal V Babu",
+                    "mob": "+916282542156"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Anjaly Gopinath",
+                    "mob": "+919497680075"
+                },
+                {
+                    "name": "Prof. Anjana S.",
+                    "mob": "+9197469720202"
                 }
             ]
         },
