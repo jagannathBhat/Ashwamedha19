@@ -1102,28 +1102,30 @@
             "day": "Day 1",
             "venue": "CCF Lab",
             "rules": [
-                "An individual event.",
+                "It is an individual event.",
                 "Participants should only Use Adobe Premiere Pro (will be provided).",
-                "Participants will be provided with an edited Video and the Raw Footages of that video.",
-                "Participants should create the replicate of that Edited Footage Within the Time limit.",
-                "Judgement is based on:",
+                "Participants will be provided with Raw Footages and Music. ",
+                "Participants should create a B-roll with the given footages.",
+                "Maximum time limit of the video should be 1 minute or less.",
+                "Judgement is based on the",
                 [
-                    "Similarity of the Video:",
+                    "Creativity",
                     "Timeline management",
                     "Sound effects",
+                    "Video Titling & Graphics",
                     "Transitions",
                     "Colour grading",
                     "Quality of the Output"
                 ],
-                "Time allotted will be announced according to the Video providing and the by checking the rendering speed of the PC’s provided.",
+                "Time allotted will be announced according to the Video providing and by    checking the rendering speed of the PC’s provided.",
                 "Participants should Render the Video and the final output should be ready within the time limit.",
                 "Organizers will examine the final Timeline of the Video.",
-                "If any means of crash occurs to the software, the organizers won't be responsible so we request the participants to save the project file in between editing.",
+                "If any means of crash occurs to the software, the organizers won't be   responsible so we request the participants to save the project file in between editing.",
                 "Participants can't take footages from any other sources.",
                 "Inbuilt Luts can be used.",
                 "Participants should bring separate headphones for individual Privacy.",
                 "Maximum number of participants 30.",
-                "The Decision of the judges (staff and students) will be final."
+                "The Decision of the Judges will be final."
             ],
             "students": [
                 {
