@@ -111,6 +111,56 @@
             ]
         },
         {
+            "name": "Bamboozled (F.R.I.E.N.D.S quiz)",
+            "sub": "",
+            "prize": "2500",
+            "price": "Rs 150 per team",
+            "day": "Day 1",
+            "time": "10AM to 12:30PM",
+            "venue": "S5 IT",
+            "desc": "Are you a F.R.I.E.N.D.S fanatic? Then show it to us by participating in the BAMBOOZLED! quiz.",
+            "rules": [
+                "ROUND 1 (PRELIMINARY)_",
+                [
+                    "8 Teams (Team of 2 members) will be selected  from the total teams based on the performance on a written test."
+                ],
+                "ELIMINATOR 1_",
+                [
+                    "2 Teams will be eliminated after this round."
+                ],
+                "ELIMINATOR 2 ( Rapid Fire )_",
+                [
+                    "2 more teams will be eliminated after this round."
+                ],
+                "ROUND 4 (BUZZER ROUND)_",
+                [
+                    "Only 10 questions."
+                ],
+                "Special Situation TIE BREAKER ROUND (If Tie)_",
+                [
+                    "Continue with Buzzer round until any one team answer Right/Wrong"
+                ]
+            ],
+            "students": [
+                {
+                    "name": "Maziha Salih",
+                    "mob": "+917907045398"
+                },
+                {
+                    "name": "Nandu Krishnan B",
+                    "mob": "+917025758848"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof.Deepika M P",
+                },
+                {
+                    "name": "Prof. Rose Mary Varghese"
+                }
+            ]
+        },
+        {
             "name": "BATTLE OF TENDERS",
             "first": "3000",
             "second": "1500",
