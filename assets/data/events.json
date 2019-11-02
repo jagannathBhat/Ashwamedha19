@@ -2029,6 +2029,53 @@
             ]
         },
         {
+            "name": "Waveform Generation",
+            "sub": "Think. Create. Make it.",
+            "prize": "Rs 2.2K",
+            "price": "Rs.100 per head",
+            "day": "Day 1",
+            "time": "10AM to 1PM",
+            "venue": "Circuits Lab ECE",
+            "desc": "Pull together your theoretical knowledge and practical skills to Think, Create and Make it with Waveform Generation - one for the practical acers from Team Ashwamedha'19, the two day tech extravagenza of Adi Shankara Institute of Engineering and Technology, Kalady.",
+            "rules": [
+                "The event is only open to all undergraduate and post graduate students of engineering and diploma of any branch from any institute.",
+                "College ID card issued by recognized college is mandatory.",
+                "Participants should report atleast half an hour prior to the event schedule.",
+                "The decision of the judges would be final.",
+                "Using of mobile phones are strictly prohibited.",
+                "A certificate of participation will be awarded to all the participants.",
+                "For any queries you may write us to ashwamedha2k19@gmail.com",
+                "A team of 2 members can participate.",
+                "A preliminary round will be conducted as a part of selection process. It will be a 20 minutes assessment test with objective type questions from basic electronics.",
+                "The selected teams have to generate a given waveform in the oscilloscope (without using function generator) with the components provided. The duration will be 90 minutes.",
+                "The components will be provided."
+            ],
+            "students": [
+                {
+                    "name": "M R Harshitha",
+                    "mob": "+917025572149"
+                },
+                {
+                    "name": "Linsa Mary Varghese",
+                    "mob": "+919207572524"
+                },
+                {
+                    "name": "Sai Sree D",
+                    "mob": "+917025144835"
+                }
+            ],
+            "faculty": [
+                {
+                    "name": "Prof. Prajeesh P A",
+                    "mob": "+919946528300"
+                },
+                {
+                    "name": "Prof. Arya Paul",
+                    "mob": "+919947337135"
+                }
+            ]
+        },
+        {
             "name": "ZOOM_ IN ZOOM_ OUT",
             "first": "Rs.1500",
             "second": "Rs.1000",
