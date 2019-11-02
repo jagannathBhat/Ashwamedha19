@@ -336,8 +336,8 @@
         },
         {
             "name": "CELL PROBE",
-            "first": "Rs.3000",
-            "second": "Rs.2000",
+            "first": "Rs 2000",
+            "second": "Rs 1000",
             "price": "Rs.150 per head",
             "day": "Day 1",
             "time": "Full Day",
